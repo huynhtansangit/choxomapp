@@ -1,0 +1,2530 @@
+------------------------
+2021-01-19 10:10:16: content_getConfigList.api - 0.035566091537476
+2021-01-19 10:10:16: media_getMediaDetail.api - 0.66064786911011
+2021-01-19 10:10:16: cart_countShoppingCartDetailsByToken.api - 0.035106897354126
+2021-01-19 10:10:16: content_getSitemapList.api - 0.026397943496704
+2021-01-19 10:10:16: product_getProductByTag.api - 0.048495054244995
+2021-01-19 10:10:16: product_getProductList.api - 0.034926891326904
+2021-01-19 10:10:17: product_getProductList.api - 0.32308387756348
+2021-01-19 10:10:17: product_getProductByTag.api - 0.062142848968506
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 10:11:19: content_getConfigList.api - 0.03754997253418
+2021-01-19 10:11:20: media_getMediaDetail.api - 1.0677499771118
+2021-01-19 10:11:21: cart_countShoppingCartDetailsByToken.api - 0.029932975769043
+2021-01-19 10:11:21: content_getSitemapList.api - 0.027066946029663
+2021-01-19 10:11:21: product_getProductByTag.api - 0.062767028808594
+2021-01-19 10:11:21: product_getProductList.api - 0.039428949356079
+2021-01-19 10:11:21: product_getProductList.api - 0.3241560459137
+2021-01-19 10:11:21: product_getProductByTag.api - 0.042042016983032
+------------https://www.gbmaster.com/gbshop/shoppingcart/cart.gbe?id=38------------
+2021-01-19 10:27:57: content_getConfigList.api - 0.028913021087646
+2021-01-19 10:28:00: cart_countShoppingCartDetailsByToken.api - 0.052999973297119
+2021-01-19 10:28:00: content_getSitemapList.api - 0.034471035003662
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 10:35:35: content_getConfigList.api - 0.034720897674561
+2021-01-19 10:35:36: media_getMediaDetail.api - 0.86432909965515
+2021-01-19 10:35:36: cart_countShoppingCartDetailsByToken.api - 0.035072088241577
+2021-01-19 10:35:36: content_getSitemapList.api - 0.023035049438477
+2021-01-19 10:35:37: product_getProductByTag.api - 0.29509520530701
+2021-01-19 10:35:37: product_getProductList.api - 0.068317890167236
+2021-01-19 10:35:37: product_getProductList.api - 0.32035517692566
+2021-01-19 10:35:38: product_getProductByTag.api - 0.07503604888916
+------------https://www.gbmaster.com/san-pham.html------------
+2021-01-19 10:35:41: content_getConfigList.api - 0.033820867538452
+2021-01-19 10:35:41: category_getCategoryList.api - 0.05773401260376
+2021-01-19 10:35:41: product_getProductList.api - 0.26568603515625
+2021-01-19 10:35:41: manufacturer_getManufacturerList.api - 0.087481021881104
+2021-01-19 10:35:42: product_getProductMinMax.api - 0.043246984481812
+2021-01-19 10:35:42: cart_countShoppingCartDetailsByToken.api - 0.043390035629272
+2021-01-19 10:35:42: content_getSitemapList.api - 0.037385940551758
+------------https://www.gbmaster.com/san-pham.html------------
+2021-01-19 10:35:53: content_getConfigList.api - 0.03165602684021
+2021-01-19 10:35:53: category_getCategoryList.api - 0.045997858047485
+2021-01-19 10:35:53: product_getProductList.api - 0.51861214637756
+2021-01-19 10:35:54: manufacturer_getManufacturerList.api - 0.0552978515625
+2021-01-19 10:35:54: product_getProductMinMax.api - 0.032173156738281
+2021-01-19 10:35:54: cart_countShoppingCartDetailsByToken.api - 0.027920007705688
+2021-01-19 10:35:54: content_getSitemapList.api - 0.02824592590332
+------------https://www.gbmaster.com/san-pham.html------------
+2021-01-19 10:39:25: content_getConfigList.api - 0.037923812866211
+2021-01-19 10:39:25: category_getCategoryList.api - 0.030741930007935
+2021-01-19 10:39:25: product_getProductList.api - 0.22684407234192
+2021-01-19 10:39:25: manufacturer_getManufacturerList.api - 0.047267913818359
+2021-01-19 10:39:25: product_getProductMinMax.api - 0.026850938796997
+2021-01-19 10:39:25: cart_countShoppingCartDetailsByToken.api - 0.027029037475586
+2021-01-19 10:39:25: content_getSitemapList.api - 0.029409170150757
+------------https://www.gbmaster.com/san-pham.html------------
+2021-01-19 10:39:37: content_getConfigList.api - 0.027670860290527
+2021-01-19 10:39:37: category_getCategoryList.api - 0.021492958068848
+2021-01-19 10:39:37: product_getProductList.api - 0.21345996856689
+2021-01-19 10:39:37: manufacturer_getManufacturerList.api - 0.039574146270752
+2021-01-19 10:39:38: product_getProductMinMax.api - 0.021613836288452
+2021-01-19 10:39:38: cart_countShoppingCartDetailsByToken.api - 0.021826028823853
+2021-01-19 10:39:38: content_getSitemapList.api - 0.030189990997314
+------------https://www.gbmaster.com/blog.html------------
+2021-01-19 10:40:08: content_getConfigList.api - 0.039505958557129
+2021-01-19 10:40:09: content_getCategoryList.api - 0.043877840042114
+2021-01-19 10:40:09: content_getPostList.api - 0.10255599021912
+2021-01-19 10:40:09: cart_countShoppingCartDetailsByToken.api - 0.029618978500366
+2021-01-19 10:40:09: content_getSitemapList.api - 0.029139041900635
+------------https://www.gbmaster.com/lien-he.html------------
+2021-01-19 10:40:42: content_getConfigList.api - 0.26651906967163
+2021-01-19 10:40:42: media_getMediaDetail.api - 0.079047918319702
+2021-01-19 10:40:42: cart_countShoppingCartDetailsByToken.api - 0.028304100036621
+2021-01-19 10:40:42: content_getSitemapList.api - 0.031006097793579
+------------https://www.gbmaster.com/lien-he.html------------
+2021-01-19 10:41:33: content_getConfigList.api - 0.029746055603027
+2021-01-19 10:41:34: media_getMediaDetail.api - 0.078628063201904
+2021-01-19 10:41:34: cart_countShoppingCartDetailsByToken.api - 0.030683994293213
+2021-01-19 10:41:34: content_getSitemapList.api - 0.027556180953979
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 10:42:37: content_getConfigList.api - 0.092706918716431
+2021-01-19 10:42:37: media_getMediaDetail.api - 0.48493003845215
+2021-01-19 10:42:37: cart_countShoppingCartDetailsByToken.api - 0.025124073028564
+2021-01-19 10:42:37: content_getSitemapList.api - 0.027792930603027
+2021-01-19 10:42:37: product_getProductByTag.api - 0.049373149871826
+2021-01-19 10:42:37: product_getProductList.api - 0.03230094909668
+2021-01-19 10:42:38: product_getProductList.api - 0.37979197502136
+2021-01-19 10:42:38: product_getProductByTag.api - 0.073709011077881
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 10:43:32: content_getConfigList.api - 0.051339864730835
+2021-01-19 10:43:33: media_getMediaDetail.api - 1.0947360992432
+2021-01-19 10:43:33: cart_countShoppingCartDetailsByToken.api - 0.037055969238281
+2021-01-19 10:43:33: content_getSitemapList.api - 0.037076950073242
+2021-01-19 10:43:33: product_getProductByTag.api - 0.072583913803101
+2021-01-19 10:43:33: product_getProductList.api - 0.04085111618042
+2021-01-19 10:43:34: product_getProductList.api - 0.39946913719177
+2021-01-19 10:43:34: product_getProductByTag.api - 0.10355305671692
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 10:44:25: content_getConfigList.api - 0.032706022262573
+2021-01-19 10:44:26: media_getMediaDetail.api - 0.63990592956543
+2021-01-19 10:44:26: cart_countShoppingCartDetailsByToken.api - 0.02994179725647
+2021-01-19 10:44:26: content_getSitemapList.api - 0.064587831497192
+2021-01-19 10:44:26: product_getProductByTag.api - 0.084204912185669
+2021-01-19 10:44:26: product_getProductList.api - 0.068879842758179
+2021-01-19 10:44:26: product_getProductList.api - 0.38022184371948
+2021-01-19 10:44:27: product_getProductByTag.api - 0.074815988540649
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 10:45:34: content_getConfigList.api - 0.025132894515991
+2021-01-19 10:45:35: media_getMediaDetail.api - 0.64634490013123
+2021-01-19 10:45:36: cart_countShoppingCartDetailsByToken.api - 0.053960084915161
+2021-01-19 10:45:36: content_getSitemapList.api - 0.051082134246826
+2021-01-19 10:45:36: product_getProductByTag.api - 0.043463945388794
+2021-01-19 10:45:36: product_getProductList.api - 0.031759977340698
+2021-01-19 10:45:36: product_getProductList.api - 0.32656788825989
+2021-01-19 10:45:36: product_getProductByTag.api - 0.042390108108521
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 10:46:01: content_getConfigList.api - 0.039121150970459
+2021-01-19 10:46:02: media_getMediaDetail.api - 0.67259192466736
+2021-01-19 10:46:02: cart_countShoppingCartDetailsByToken.api - 0.036144018173218
+2021-01-19 10:46:02: content_getSitemapList.api - 0.029176950454712
+2021-01-19 10:46:02: product_getProductByTag.api - 0.054286003112793
+2021-01-19 10:46:02: product_getProductList.api - 0.030021905899048
+2021-01-19 10:46:02: product_getProductList.api - 0.32200002670288
+2021-01-19 10:46:02: product_getProductByTag.api - 0.16670489311218
+------------https://www.gbmaster.com/san-pham.html------------
+2021-01-19 10:48:48: content_getConfigList.api - 0.033282995223999
+2021-01-19 10:48:48: category_getCategoryList.api - 0.029076099395752
+2021-01-19 10:48:48: product_getProductList.api - 0.23807692527771
+2021-01-19 10:48:48: manufacturer_getManufacturerList.api - 0.29803800582886
+2021-01-19 10:48:48: product_getProductMinMax.api - 0.027819156646729
+2021-01-19 10:48:48: cart_countShoppingCartDetailsByToken.api - 0.031946897506714
+2021-01-19 10:48:48: content_getSitemapList.api - 0.028234958648682
+------------https://www.gbmaster.com/gbcms/search.gbe------------
+2021-01-19 10:48:52: content_getConfigList.api - 0.030529975891113
+2021-01-19 10:48:53: content_search.api - 0.05341100692749
+2021-01-19 10:48:53: cart_countShoppingCartDetailsByToken.api - 0.03491997718811
+2021-01-19 10:48:53: content_getSitemapList.api - 0.028847932815552
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 10:49:12: content_getConfigList.api - 0.025606870651245
+2021-01-19 10:49:13: media_getMediaDetail.api - 0.65312314033508
+2021-01-19 10:49:13: cart_countShoppingCartDetailsByToken.api - 0.027524948120117
+2021-01-19 10:49:13: content_getSitemapList.api - 0.032925844192505
+2021-01-19 10:49:13: product_getProductByTag.api - 0.056221008300781
+2021-01-19 10:49:13: product_getProductList.api - 0.038849830627441
+2021-01-19 10:49:14: product_getProductList.api - 0.3291220664978
+2021-01-19 10:49:14: product_getProductByTag.api - 0.045973062515259
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 10:49:30: content_getConfigList.api - 0.031213998794556
+2021-01-19 10:49:31: media_getMediaDetail.api - 0.8560471534729
+2021-01-19 10:49:31: cart_countShoppingCartDetailsByToken.api - 0.072985887527466
+2021-01-19 10:49:31: content_getSitemapList.api - 0.047194957733154
+2021-01-19 10:49:31: product_getProductByTag.api - 0.053452968597412
+2021-01-19 10:49:31: product_getProductList.api - 0.052808046340942
+2021-01-19 10:49:31: product_getProductList.api - 0.31625699996948
+2021-01-19 10:49:31: product_getProductByTag.api - 0.04404091835022
+------------https://www.gbmaster.com/voltaren-50mg.html------------
+2021-01-19 10:49:36: content_getConfigList.api - 0.03215217590332
+2021-01-19 10:49:36: product_getProductDetail.api - 0.068576812744141
+2021-01-19 10:49:37: product_getImageOption.api - 0.040772199630737
+2021-01-19 10:49:37: product_getProductList.api - 0.25284695625305
+2021-01-19 10:49:37: cart_countShoppingCartDetailsByToken.api - 0.026026964187622
+2021-01-19 10:49:37: content_getSitemapList.api - 0.031334161758423
+------------https://www.gbmaster.com/voltaren-50mg.html------------
+2021-01-19 10:59:32: content_getConfigList.api - 0.044488906860352
+2021-01-19 10:59:32: product_getProductDetail.api - 0.031309127807617
+2021-01-19 10:59:33: product_getImageOption.api - 0.038020133972168
+2021-01-19 10:59:33: product_getProductList.api - 0.19862794876099
+2021-01-19 10:59:33: cart_countShoppingCartDetailsByToken.api - 0.02361798286438
+2021-01-19 10:59:33: content_getSitemapList.api - 0.023284912109375
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 10:59:37: content_getConfigList.api - 0.084360122680664
+2021-01-19 10:59:37: media_getMediaDetail.api - 0.86263012886047
+2021-01-19 10:59:37: cart_countShoppingCartDetailsByToken.api - 0.035475969314575
+2021-01-19 10:59:38: content_getSitemapList.api - 0.037692070007324
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 10:59:39: content_getConfigList.api - 0.023622035980225
+2021-01-19 10:59:40: media_getMediaDetail.api - 0.84769797325134
+2021-01-19 10:59:40: cart_countShoppingCartDetailsByToken.api - 0.08489990234375
+2021-01-19 10:59:41: content_getSitemapList.api - 0.033568143844604
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 11:00:23: content_getConfigList.api - 0.051750898361206
+2021-01-19 11:00:24: media_getMediaDetail.api - 0.86703109741211
+2021-01-19 11:00:24: cart_countShoppingCartDetailsByToken.api - 0.043049097061157
+2021-01-19 11:00:24: content_getSitemapList.api - 0.046585083007812
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 11:00:34: content_getConfigList.api - 0.05036997795105
+2021-01-19 11:00:34: media_getMediaDetail.api - 0.42300391197205
+2021-01-19 11:00:34: cart_countShoppingCartDetailsByToken.api - 0.032469034194946
+2021-01-19 11:00:34: content_getSitemapList.api - 0.034546136856079
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 11:01:03: content_getConfigList.api - 0.029531002044678
+2021-01-19 11:01:03: media_getMediaDetail.api - 0.42438507080078
+2021-01-19 11:01:03: cart_countShoppingCartDetailsByToken.api - 0.032382011413574
+2021-01-19 11:01:03: content_getSitemapList.api - 0.041380882263184
+2021-01-19 11:01:03: product_getProductByTag.api - 0.08703088760376
+2021-01-19 11:01:03: product_getProductList.api - 0.044552087783813
+2021-01-19 11:01:04: product_getProductList.api - 0.33847284317017
+2021-01-19 11:01:04: product_getProductByTag.api - 0.04885721206665
+------------https://www.gbmaster.com/gbshop/ajax/addMoreProductToCart.gbe------------
+2021-01-19 11:01:13: content_getConfigList.api - 0.040591955184937
+2021-01-19 11:01:13: cart_addMoreProductToShoppingCart.api - 0.3338680267334
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 11:01:15: content_getConfigList.api - 0.027640104293823
+2021-01-19 11:01:17: media_getMediaDetail.api - 1.0592381954193
+2021-01-19 11:01:17: cart_countShoppingCartDetailsByToken.api - 0.029374122619629
+2021-01-19 11:01:17: content_getSitemapList.api - 0.025929927825928
+2021-01-19 11:01:17: product_getProductByTag.api - 0.050665855407715
+2021-01-19 11:01:17: product_getProductList.api - 0.033465147018433
+2021-01-19 11:01:17: product_getProductList.api - 0.28324699401855
+2021-01-19 11:01:17: product_getProductByTag.api - 0.038102865219116
+------------https://www.gbmaster.com/gbshop/ajax/addMoreProductToCart.gbe------------
+2021-01-19 11:01:21: content_getConfigList.api - 0.034633159637451
+2021-01-19 11:01:21: cart_addMoreProductToShoppingCart.api - 0.31862998008728
+------------https://www.gbmaster.com/gbshop/ajax/addMoreProductToCart.gbe------------
+2021-01-19 11:01:24: content_getConfigList.api - 0.031795024871826
+2021-01-19 11:01:25: cart_addMoreProductToShoppingCart.api - 0.36001205444336
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 11:02:22: content_getConfigList.api - 0.034720182418823
+2021-01-19 11:02:23: media_getMediaDetail.api - 0.88436007499695
+2021-01-19 11:02:23: cart_countShoppingCartDetailsByToken.api - 0.047926187515259
+2021-01-19 11:02:23: content_getSitemapList.api - 0.029246091842651
+2021-01-19 11:02:23: product_getProductByTag.api - 0.047985076904297
+2021-01-19 11:02:23: product_getProductList.api - 0.040555953979492
+2021-01-19 11:02:23: product_getProductList.api - 0.28318500518799
+2021-01-19 11:02:23: product_getProductByTag.api - 0.037948846817017
+------------https://www.gbmaster.com/gbshop/ajax/addMoreProductToCart.gbe------------
+2021-01-19 11:02:27: content_getConfigList.api - 0.090037107467651
+2021-01-19 11:02:28: cart_addMoreProductToShoppingCart.api - 0.3754460811615
+------------https://www.gbmaster.com/vien-sui-swiss-energy-vitamin-c-1000mg-tuyp-20-vien.html------------
+2021-01-19 11:02:35: content_getConfigList.api - 0.022830963134766
+2021-01-19 11:02:36: product_getProductDetail.api - 0.045275926589966
+2021-01-19 11:02:36: product_getImageOption.api - 0.027971029281616
+2021-01-19 11:02:37: product_getProductList.api - 0.23775315284729
+2021-01-19 11:02:37: cart_countShoppingCartDetailsByToken.api - 0.054519891738892
+2021-01-19 11:02:37: content_getSitemapList.api - 0.042028903961182
+------------https://www.gbmaster.com/vien-sui-swiss-energy-vitamin-c-1000mg-tuyp-20-vien.html------------
+2021-01-19 11:03:15: content_getConfigList.api - 0.031515836715698
+2021-01-19 11:03:15: product_getProductDetail.api - 0.047989130020142
+2021-01-19 11:03:15: product_getImageOption.api - 0.029884099960327
+2021-01-19 11:03:15: product_getProductList.api - 0.27110910415649
+2021-01-19 11:03:15: cart_countShoppingCartDetailsByToken.api - 0.039521217346191
+2021-01-19 11:03:15: content_getSitemapList.api - 0.044374942779541
+------------https://www.gbmaster.com/vien-sui-swiss-energy-vitamin-c-1000mg-tuyp-20-vien.html------------
+2021-01-19 11:03:35: content_getConfigList.api - 0.031028985977173
+2021-01-19 11:03:35: product_getProductDetail.api - 0.028881072998047
+2021-01-19 11:03:35: product_getImageOption.api - 0.029493093490601
+2021-01-19 11:03:35: product_getProductList.api - 0.23669004440308
+2021-01-19 11:03:35: cart_countShoppingCartDetailsByToken.api - 0.027611017227173
+2021-01-19 11:03:35: content_getSitemapList.api - 0.028806924819946
+------------https://www.gbmaster.com/vien-sui-swiss-energy-vitamin-c-1000mg-tuyp-20-vien.html------------
+2021-01-19 11:06:25: content_getConfigList.api - 0.031636953353882
+2021-01-19 11:06:25: product_getProductDetail.api - 0.04353404045105
+2021-01-19 11:06:25: product_getImageOption.api - 0.025163888931274
+2021-01-19 11:06:25: product_getProductList.api - 0.22961521148682
+2021-01-19 11:06:25: cart_countShoppingCartDetailsByToken.api - 0.031625986099243
+2021-01-19 11:06:25: content_getSitemapList.api - 0.033203840255737
+------------https://www.gbmaster.com/vien-sui-swiss-energy-vitamin-c-1000mg-tuyp-20-vien.html------------
+2021-01-19 11:06:28: content_getConfigList.api - 0.029135942459106
+2021-01-19 11:06:28: product_getProductDetail.api - 0.041156053543091
+2021-01-19 11:06:28: product_getImageOption.api - 0.025949001312256
+2021-01-19 11:06:28: product_getProductList.api - 0.21203899383545
+2021-01-19 11:06:28: cart_countShoppingCartDetailsByToken.api - 0.024518966674805
+2021-01-19 11:06:28: content_getSitemapList.api - 0.024634838104248
+------------https://www.gbmaster.com/vien-sui-swiss-energy-vitamin-c-1000mg-tuyp-20-vien.html------------
+2021-01-19 11:06:30: content_getConfigList.api - 0.059523820877075
+2021-01-19 11:06:30: product_getProductDetail.api - 0.057559967041016
+2021-01-19 11:06:30: product_getImageOption.api - 0.041617870330811
+2021-01-19 11:06:31: product_getProductList.api - 0.25836086273193
+2021-01-19 11:06:31: cart_countShoppingCartDetailsByToken.api - 0.027250051498413
+2021-01-19 11:06:31: content_getSitemapList.api - 0.031810998916626
+------------https://www.gbmaster.com/vien-sui-swiss-energy-vitamin-c-1000mg-tuyp-20-vien.html------------
+2021-01-19 11:06:34: content_getConfigList.api - 0.14047789573669
+2021-01-19 11:06:34: product_getProductDetail.api - 0.05665111541748
+2021-01-19 11:06:34: product_getImageOption.api - 0.04351806640625
+2021-01-19 11:06:34: product_getProductList.api - 0.2277500629425
+2021-01-19 11:06:34: cart_countShoppingCartDetailsByToken.api - 0.02182412147522
+2021-01-19 11:06:34: content_getSitemapList.api - 0.023799896240234
+------------https://www.gbmaster.com/vien-sui-swiss-energy-vitamin-c-1000mg-tuyp-20-vien.html------------
+2021-01-19 11:06:49: content_getConfigList.api - 0.035262823104858
+2021-01-19 11:06:49: product_getProductDetail.api - 0.04802417755127
+2021-01-19 11:06:49: product_getImageOption.api - 0.023542881011963
+2021-01-19 11:06:49: product_getProductList.api - 0.23953485488892
+2021-01-19 11:06:49: cart_countShoppingCartDetailsByToken.api - 0.034894943237305
+2021-01-19 11:06:49: content_getSitemapList.api - 0.035272121429443
+------------https://www.gbmaster.com/vien-sui-swiss-energy-vitamin-c-1000mg-tuyp-20-vien.html------------
+2021-01-19 11:08:26: content_getConfigList.api - 0.022659063339233
+2021-01-19 11:08:26: product_getProductDetail.api - 0.040614128112793
+2021-01-19 11:08:26: product_getImageOption.api - 0.030779123306274
+2021-01-19 11:08:26: product_getProductList.api - 0.2271740436554
+2021-01-19 11:08:26: cart_countShoppingCartDetailsByToken.api - 0.030586957931519
+2021-01-19 11:08:26: content_getSitemapList.api - 0.022732973098755
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 11:25:21: content_getConfigList.api - 0.031529188156128
+2021-01-19 11:25:22: media_getMediaDetail.api - 0.43242597579956
+2021-01-19 11:25:22: cart_countShoppingCartDetailsByToken.api - 0.081485986709595
+2021-01-19 11:25:22: content_getSitemapList.api - 0.060815811157227
+2021-01-19 11:25:22: product_getProductByTag.api - 0.087360143661499
+2021-01-19 11:25:22: product_getProductList.api - 0.07945704460144
+2021-01-19 11:25:22: product_getProductList.api - 0.39816093444824
+2021-01-19 11:25:22: product_getProductByTag.api - 0.11936283111572
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 11:29:28: content_getConfigList.api - 0.050868988037109
+2021-01-19 11:29:28: media_getMediaDetail.api - 0.41488289833069
+2021-01-19 11:29:28: cart_countShoppingCartDetailsByToken.api - 0.030416011810303
+2021-01-19 11:29:28: content_getSitemapList.api - 0.029131889343262
+2021-01-19 11:29:28: product_getProductByTag.api - 0.33941411972046
+2021-01-19 11:29:28: product_getProductList.api - 0.034348011016846
+2021-01-19 11:29:29: product_getProductList.api - 0.68941903114319
+2021-01-19 11:29:29: product_getProductByTag.api - 0.053541898727417
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 11:46:23: content_getConfigList.api - 0.28048276901245
+2021-01-19 11:46:24: media_getMediaDetail.api - 0.41772198677063
+2021-01-19 11:46:24: cart_countShoppingCartDetailsByToken.api - 0.021797895431519
+2021-01-19 11:46:24: content_getSitemapList.api - 0.025542020797729
+2021-01-19 11:46:24: product_getProductByTag.api - 0.040910959243774
+2021-01-19 11:46:24: product_getProductList.api - 0.032356023788452
+2021-01-19 11:46:24: product_getProductList.api - 0.30834579467773
+2021-01-19 11:46:24: product_getProductByTag.api - 0.041527032852173
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 11:47:05: content_getConfigList.api - 0.03134298324585
+2021-01-19 11:47:05: media_getMediaDetail.api - 0.39845108985901
+2021-01-19 11:47:05: cart_countShoppingCartDetailsByToken.api - 0.030381917953491
+2021-01-19 11:47:05: content_getSitemapList.api - 0.037291049957275
+2021-01-19 11:47:06: product_getProductByTag.api - 0.045866966247559
+2021-01-19 11:47:06: product_getProductList.api - 0.026072978973389
+2021-01-19 11:47:06: product_getProductList.api - 0.60396599769592
+2021-01-19 11:47:06: product_getProductByTag.api - 0.044819116592407
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 11:47:18: content_getConfigList.api - 0.025064945220947
+2021-01-19 11:47:19: media_getMediaDetail.api - 0.65279293060303
+2021-01-19 11:47:19: cart_countShoppingCartDetailsByToken.api - 0.030086994171143
+2021-01-19 11:47:19: content_getSitemapList.api - 0.02814793586731
+2021-01-19 11:47:19: product_getProductByTag.api - 0.048069953918457
+2021-01-19 11:47:19: product_getProductList.api - 0.030631065368652
+2021-01-19 11:47:20: product_getProductList.api - 0.2834358215332
+2021-01-19 11:47:20: product_getProductByTag.api - 0.044772863388062
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 11:47:44: content_getConfigList.api - 0.023360967636108
+2021-01-19 11:47:44: media_getMediaDetail.api - 0.43930697441101
+2021-01-19 11:47:44: cart_countShoppingCartDetailsByToken.api - 0.025727033615112
+2021-01-19 11:47:44: content_getSitemapList.api - 0.026021957397461
+2021-01-19 11:47:44: product_getProductByTag.api - 0.048213958740234
+2021-01-19 11:47:44: product_getProductList.api - 0.03053879737854
+2021-01-19 11:47:45: product_getProductList.api - 0.32658791542053
+2021-01-19 11:47:45: product_getProductByTag.api - 0.04292106628418
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 11:48:06: content_getConfigList.api - 0.026645183563232
+2021-01-19 11:48:06: media_getMediaDetail.api - 0.40739703178406
+2021-01-19 11:48:06: cart_countShoppingCartDetailsByToken.api - 0.027668952941895
+2021-01-19 11:48:06: content_getSitemapList.api - 0.029809951782227
+2021-01-19 11:48:06: product_getProductByTag.api - 0.046837091445923
+2021-01-19 11:48:06: product_getProductList.api - 0.033509969711304
+2021-01-19 11:48:07: product_getProductList.api - 0.3083930015564
+2021-01-19 11:48:07: product_getProductByTag.api - 0.042841196060181
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 11:48:27: content_getConfigList.api - 0.27871203422546
+2021-01-19 11:48:27: media_getMediaDetail.api - 0.3982470035553
+2021-01-19 11:48:27: cart_countShoppingCartDetailsByToken.api - 0.022921085357666
+2021-01-19 11:48:27: content_getSitemapList.api - 0.032985925674438
+2021-01-19 11:48:27: product_getProductByTag.api - 0.044116020202637
+2021-01-19 11:48:27: product_getProductList.api - 0.034271001815796
+2021-01-19 11:48:28: product_getProductList.api - 0.29679393768311
+2021-01-19 11:48:28: product_getProductByTag.api - 0.046899080276489
+------------https://www.gbmaster.com/------------
+2021-01-19 14:02:06: content_getConfigList.api - 0.032536029815674
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 14:02:06: content_getConfigList.api - 0.032163858413696
+2021-01-19 14:02:06: media_getMediaDetail.api - 0.65591478347778
+2021-01-19 14:02:06: cart_countShoppingCartDetailsByToken.api - 0.034882068634033
+2021-01-19 14:02:07: content_getSitemapList.api - 0.043152093887329
+2021-01-19 14:02:07: product_getProductByTag.api - 0.36759305000305
+2021-01-19 14:02:07: product_getProductList.api - 0.035401105880737
+2021-01-19 14:02:07: product_getProductList.api - 0.35395812988281
+2021-01-19 14:02:07: product_getProductByTag.api - 0.058838129043579
+------------https://www.gbmaster.com/gbcms/search.gbe------------
+2021-01-19 14:02:09: content_getConfigList.api - 0.028976202011108
+2021-01-19 14:02:09: content_search.api - 0.036804914474487
+2021-01-19 14:02:09: cart_countShoppingCartDetailsByToken.api - 0.024735927581787
+2021-01-19 14:02:09: content_getSitemapList.api - 0.034811019897461
+------------https://www.gbmaster.com/gbcms/search.gbe------------
+2021-01-19 14:02:21: content_getConfigList.api - 0.037868022918701
+2021-01-19 14:02:21: content_search.api - 0.029643058776855
+2021-01-19 14:02:21: cart_countShoppingCartDetailsByToken.api - 0.03162407875061
+2021-01-19 14:02:21: content_getSitemapList.api - 0.032136201858521
+------------https://www.gbmaster.com/gbcms/search.gbe------------
+2021-01-19 14:02:22: content_getConfigList.api - 0.030874967575073
+2021-01-19 14:02:22: content_search.api - 0.031255006790161
+2021-01-19 14:02:22: cart_countShoppingCartDetailsByToken.api - 0.024804830551147
+2021-01-19 14:02:22: content_getSitemapList.api - 0.028604984283447
+------------https://www.gbmaster.com/gbcms/search.gbe------------
+2021-01-19 14:02:27: content_getConfigList.api - 0.052886962890625
+2021-01-19 14:02:27: content_search.api - 0.031697988510132
+2021-01-19 14:02:27: cart_countShoppingCartDetailsByToken.api - 0.02721905708313
+2021-01-19 14:02:27: content_getSitemapList.api - 0.1451690196991
+------------https://www.gbmaster.com/gbcms/search.gbe------------
+2021-01-19 14:02:29: content_getConfigList.api - 0.10563087463379
+2021-01-19 14:02:29: content_search.api - 0.17195987701416
+2021-01-19 14:02:31: cart_countShoppingCartDetailsByToken.api - 1.7216501235962
+2021-01-19 14:02:31: content_getSitemapList.api - 0.029016971588135
+------------https://www.gbmaster.com/gbcms/search.gbe------------
+2021-01-19 14:02:34: content_getConfigList.api - 0.022126913070679
+2021-01-19 14:02:34: content_search.api - 0.027801990509033
+2021-01-19 14:02:34: cart_countShoppingCartDetailsByToken.api - 0.02912712097168
+2021-01-19 14:02:34: content_getSitemapList.api - 0.030235052108765
+------------https://www.gbmaster.com/gbcms/search.gbe------------
+2021-01-19 14:02:44: content_getConfigList.api - 0.038547992706299
+2021-01-19 14:02:44: content_search.api - 0.068109035491943
+2021-01-19 14:02:44: cart_countShoppingCartDetailsByToken.api - 0.030882835388184
+2021-01-19 14:02:44: content_getSitemapList.api - 0.02859091758728
+------------https://www.gbmaster.com/gbcms/search.gbe------------
+2021-01-19 14:03:28: content_getConfigList.api - 0.038266897201538
+2021-01-19 14:03:28: content_search.api - 0.085168123245239
+2021-01-19 14:03:28: cart_countShoppingCartDetailsByToken.api - 0.032615900039673
+2021-01-19 14:03:28: content_getSitemapList.api - 0.028257846832275
+------------https://www.gbmaster.com/gbcms/search.gbe------------
+2021-01-19 14:03:38: content_getConfigList.api - 0.03036904335022
+2021-01-19 14:03:38: content_search.api - 0.053202152252197
+2021-01-19 14:03:38: cart_countShoppingCartDetailsByToken.api - 0.034133911132812
+2021-01-19 14:03:38: content_getSitemapList.api - 0.038726091384888
+------------https://www.gbmaster.com/gbcms/search.gbe------------
+2021-01-19 14:03:58: content_getConfigList.api - 0.035304069519043
+2021-01-19 14:03:58: content_search.api - 0.056678056716919
+2021-01-19 14:03:59: cart_countShoppingCartDetailsByToken.api - 0.028288125991821
+2021-01-19 14:03:59: content_getSitemapList.api - 0.028715848922729
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 14:06:29: content_getConfigList.api - 0.070450067520142
+2021-01-19 14:06:30: media_getMediaDetail.api - 0.45839786529541
+2021-01-19 14:06:30: cart_countShoppingCartDetailsByToken.api - 0.035094022750854
+2021-01-19 14:06:30: content_getSitemapList.api - 0.025985956192017
+2021-01-19 14:06:30: product_getProductByTag.api - 0.041728973388672
+2021-01-19 14:06:30: product_getProductList.api - 0.034700155258179
+2021-01-19 14:06:30: product_getProductList.api - 0.58245086669922
+2021-01-19 14:06:31: product_getProductByTag.api - 0.1023850440979
+------------https://www.gbmaster.com/nhan-hang-goodpharma.html------------
+2021-01-19 14:07:55: content_getConfigList.api - 0.028726816177368
+2021-01-19 14:07:55: category_getCategoryList.api - 0.025546073913574
+2021-01-19 14:07:55: product_getProductList.api - 0.030823945999146
+2021-01-19 14:07:55: manufacturer_getManufacturerList.api - 0.04907488822937
+2021-01-19 14:07:55: product_getProductMinMax.api - 0.037103891372681
+2021-01-19 14:07:55: cart_countShoppingCartDetailsByToken.api - 0.029985904693604
+2021-01-19 14:07:56: content_getSitemapList.api - 0.035521030426025
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 14:08:05: content_getConfigList.api - 0.047270059585571
+2021-01-19 14:08:06: media_getMediaDetail.api - 0.42491698265076
+2021-01-19 14:08:06: cart_countShoppingCartDetailsByToken.api - 0.029272079467773
+2021-01-19 14:08:06: content_getSitemapList.api - 0.023223161697388
+2021-01-19 14:08:06: product_getProductByTag.api - 0.03914999961853
+2021-01-19 14:08:06: product_getProductList.api - 0.028409004211426
+2021-01-19 14:08:06: product_getProductList.api - 0.30821299552917
+2021-01-19 14:08:06: product_getProductByTag.api - 0.049007892608643
+------------https://www.gbmaster.com/nhan-hang-goodpharma.html------------
+2021-01-19 14:08:07: content_getConfigList.api - 0.025491952896118
+2021-01-19 14:08:07: category_getCategoryList.api - 0.030478000640869
+2021-01-19 14:08:07: product_getProductList.api - 0.029871940612793
+2021-01-19 14:08:07: manufacturer_getManufacturerList.api - 0.066642045974731
+2021-01-19 14:08:07: product_getProductMinMax.api - 0.02353310585022
+2021-01-19 14:08:07: cart_countShoppingCartDetailsByToken.api - 0.025161027908325
+2021-01-19 14:08:07: content_getSitemapList.api - 0.026793003082275
+------------https://www.gbmaster.com/gbuser/ajax/logout.gbe------------
+2021-01-19 14:08:33: content_getConfigList.api - 0.0292649269104
+------------https://www.gbmaster.com/------------
+2021-01-19 14:08:33: content_getConfigList.api - 0.029189825057983
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 14:08:33: content_getConfigList.api - 0.0276939868927
+2021-01-19 14:08:34: media_getMediaDetail.api - 0.41993999481201
+2021-01-19 14:08:34: cart_countShoppingCartDetailsByToken.api - 0.032588958740234
+2021-01-19 14:08:34: content_getSitemapList.api - 0.036655902862549
+2021-01-19 14:08:34: product_getProductByTag.api - 0.3223249912262
+2021-01-19 14:08:34: product_getProductList.api - 0.068789958953857
+2021-01-19 14:08:35: product_getProductList.api - 0.31858086585999
+2021-01-19 14:08:35: product_getProductByTag.api - 0.043467998504639
+------------https://www.gbmaster.com/gbuser/login.gbe------------
+2021-01-19 14:08:36: content_getConfigList.api - 0.036247968673706
+2021-01-19 14:08:41: cart_countShoppingCartDetailsByToken.api - 0.022532939910889
+2021-01-19 14:08:41: content_getSitemapList.api - 0.042301177978516
+------------https://www.gbmaster.com/gbuser/ajax/register.gbe------------
+2021-01-19 14:10:56: content_getConfigList.api - 0.031958818435669
+2021-01-19 14:10:56: common_register.api - 0.032709121704102
+------------https://www.gbmaster.com/gbuser/ajax/register.gbe------------
+2021-01-19 14:11:43: content_getConfigList.api - 0.084523916244507
+2021-01-19 14:11:43: common_register.api - 0.038431882858276
+------------https://www.gbmaster.com/gbuser/login.gbe------------
+2021-01-19 14:11:48: content_getConfigList.api - 0.046288013458252
+2021-01-19 14:11:49: cart_countShoppingCartDetailsByToken.api - 0.040388107299805
+2021-01-19 14:11:49: content_getSitemapList.api - 0.044371128082275
+------------https://www.gbmaster.com/gbuser/login.gbe------------
+2021-01-19 14:11:57: content_getConfigList.api - 0.037250995635986
+2021-01-19 14:11:58: cart_countShoppingCartDetailsByToken.api - 0.061937093734741
+2021-01-19 14:11:58: content_getSitemapList.api - 0.029761075973511
+------------https://www.gbmaster.com/gbuser/ajax/register.gbe------------
+2021-01-19 14:12:15: content_getConfigList.api - 0.0382239818573
+2021-01-19 14:12:15: common_register.api - 0.044562101364136
+------------https://www.gbmaster.com/gbuser/login.gbe------------
+2021-01-19 14:12:21: content_getConfigList.api - 0.030281066894531
+2021-01-19 14:12:22: cart_countShoppingCartDetailsByToken.api - 0.028656959533691
+2021-01-19 14:12:22: content_getSitemapList.api - 0.030817031860352
+------------https://www.gbmaster.com/nhan-hang-goodpharma.html------------
+2021-01-19 14:12:55: content_getConfigList.api - 0.049885988235474
+2021-01-19 14:12:55: category_getCategoryList.api - 0.041327953338623
+2021-01-19 14:12:55: product_getProductList.api - 0.034889936447144
+2021-01-19 14:12:55: manufacturer_getManufacturerList.api - 0.055369853973389
+2021-01-19 14:12:55: product_getProductMinMax.api - 0.032227039337158
+2021-01-19 14:12:55: cart_countShoppingCartDetailsByToken.api - 0.027538061141968
+2021-01-19 14:12:55: content_getSitemapList.api - 0.030478954315186
+------------https://www.gbmaster.com/ve-goodpharma.html------------
+2021-01-19 14:24:54: content_getConfigList.api - 0.033676147460938
+2021-01-19 14:24:55: media_getMediaDetail.api - 0.3719539642334
+2021-01-19 14:24:55: cart_countShoppingCartDetailsByToken.api - 0.029893159866333
+2021-01-19 14:24:55: content_getSitemapList.api - 0.026620149612427
+------------https://www.gbmaster.com/api/uploadimage.gbe------------
+2021-01-19 14:27:24: content_getConfigList.api - 0.039730072021484
+------------https://www.gbmaster.com/ve-goodpharma.html------------
+2021-01-19 14:28:02: content_getConfigList.api - 0.022608995437622
+2021-01-19 14:28:02: media_getMediaDetail.api - 0.038706064224243
+2021-01-19 14:28:02: cart_countShoppingCartDetailsByToken.api - 0.026831865310669
+2021-01-19 14:28:02: content_getSitemapList.api - 0.040126800537109
+------------https://www.gbmaster.com/ve-goodpharma.html------------
+2021-01-19 14:28:44: content_getConfigList.api - 0.035666942596436
+2021-01-19 14:28:44: media_getMediaDetail.api - 0.0332190990448
+2021-01-19 14:28:44: cart_countShoppingCartDetailsByToken.api - 0.02996301651001
+2021-01-19 14:28:44: content_getSitemapList.api - 0.029284000396729
+------------https://www.gbmaster.com/------------
+2021-01-19 14:32:58: content_getConfigList.api - 2.3619849681854
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 14:33:00: content_getConfigList.api - 1.2160880565643
+2021-01-19 14:33:07: media_getMediaDetail.api - 7.5103919506073
+2021-01-19 14:33:07: cart_countShoppingCartDetailsByToken.api - 0.15716218948364
+2021-01-19 14:33:08: content_getSitemapList.api - 0.3754198551178
+2021-01-19 14:33:13: product_getProductByTag.api - 4.7891240119934
+2021-01-19 14:33:14: product_getProductList.api - 1.0605728626251
+2021-01-19 14:33:15: product_getProductList.api - 1.5404181480408
+2021-01-19 14:33:16: product_getProductByTag.api - 0.95659613609314
+------------https://www.gbmaster.com/ve-goodpharma.html------------
+2021-01-19 14:34:20: content_getConfigList.api - 0.10708498954773
+2021-01-19 14:34:20: media_getMediaDetail.api - 0.12075901031494
+2021-01-19 14:34:21: cart_countShoppingCartDetailsByToken.api - 0.13239598274231
+2021-01-19 14:34:27: content_getSitemapList.api - 6.6066770553589
+------------https://www.gbmaster.com/ve-goodpharma.html------------
+2021-01-19 14:36:56: content_getConfigList.api - 0.028993844985962
+2021-01-19 14:36:56: media_getMediaDetail.api - 0.031837940216064
+2021-01-19 14:36:56: cart_countShoppingCartDetailsByToken.api - 0.032615900039673
+2021-01-19 14:36:56: content_getSitemapList.api - 0.027448177337646
+------------https://www.gbmaster.com/ve-goodpharma.html------------
+2021-01-19 14:36:59: content_getConfigList.api - 0.055216073989868
+2021-01-19 14:37:00: media_getMediaDetail.api - 0.31871914863586
+2021-01-19 14:37:00: cart_countShoppingCartDetailsByToken.api - 0.033262968063354
+2021-01-19 14:37:00: content_getSitemapList.api - 0.053350210189819
+------------https://www.gbmaster.com/ve-goodpharma.html------------
+2021-01-19 14:37:19: content_getConfigList.api - 0.082644939422607
+2021-01-19 14:37:19: media_getMediaDetail.api - 0.060496091842651
+2021-01-19 14:37:19: cart_countShoppingCartDetailsByToken.api - 0.05455493927002
+2021-01-19 14:37:19: content_getSitemapList.api - 0.056149005889893
+------------https://www.gbmaster.com/ve-goodpharma.html------------
+2021-01-19 14:37:27: content_getConfigList.api - 0.046144008636475
+2021-01-19 14:37:27: media_getMediaDetail.api - 0.021538972854614
+2021-01-19 14:37:27: cart_countShoppingCartDetailsByToken.api - 0.026865005493164
+2021-01-19 14:37:27: content_getSitemapList.api - 0.024581909179688
+------------https://www.gbmaster.com/ve-goodpharma.html------------
+2021-01-19 14:40:20: content_getConfigList.api - 0.098205089569092
+2021-01-19 14:40:21: media_getMediaDetail.api - 0.035699129104614
+2021-01-19 14:40:21: cart_countShoppingCartDetailsByToken.api - 0.030225038528442
+2021-01-19 14:40:21: content_getSitemapList.api - 0.037093877792358
+------------https://www.gbmaster.com/ve-goodpharma.html------------
+2021-01-19 14:40:23: content_getConfigList.api - 0.044288873672485
+2021-01-19 14:40:23: media_getMediaDetail.api - 0.036931037902832
+2021-01-19 14:40:23: cart_countShoppingCartDetailsByToken.api - 0.029474973678589
+2021-01-19 14:40:23: content_getSitemapList.api - 0.030891895294189
+------------https://www.gbmaster.com/ve-goodpharma.html------------
+2021-01-19 14:40:46: content_getConfigList.api - 0.030081033706665
+2021-01-19 14:40:46: media_getMediaDetail.api - 0.033083915710449
+2021-01-19 14:40:46: cart_countShoppingCartDetailsByToken.api - 0.019744157791138
+2021-01-19 14:40:46: content_getSitemapList.api - 0.027756929397583
+------------https://www.gbmaster.com/ve-goodpharma.html------------
+2021-01-19 14:40:53: content_getConfigList.api - 0.034210920333862
+2021-01-19 14:40:53: media_getMediaDetail.api - 0.031514883041382
+2021-01-19 14:40:53: cart_countShoppingCartDetailsByToken.api - 0.020756006240845
+2021-01-19 14:40:53: content_getSitemapList.api - 0.036641120910645
+------------https://www.gbmaster.com/ve-goodpharma.html------------
+2021-01-19 14:41:19: content_getConfigList.api - 0.03960394859314
+2021-01-19 14:41:19: media_getMediaDetail.api - 0.2880871295929
+2021-01-19 14:41:19: cart_countShoppingCartDetailsByToken.api - 0.023276090621948
+2021-01-19 14:41:19: content_getSitemapList.api - 0.051123142242432
+------------https://www.gbmaster.com/ve-goodpharma.html------------
+2021-01-19 14:41:28: content_getConfigList.api - 0.027771949768066
+2021-01-19 14:41:28: media_getMediaDetail.api - 0.03446102142334
+2021-01-19 14:41:28: cart_countShoppingCartDetailsByToken.api - 0.027517080307007
+2021-01-19 14:41:28: content_getSitemapList.api - 0.03870701789856
+------------https://www.gbmaster.com/ve-goodpharma.html------------
+2021-01-19 14:41:35: content_getConfigList.api - 0.033732891082764
+2021-01-19 14:41:35: media_getMediaDetail.api - 0.028886079788208
+2021-01-19 14:41:35: cart_countShoppingCartDetailsByToken.api - 0.02184796333313
+2021-01-19 14:41:35: content_getSitemapList.api - 0.030019044876099
+------------https://www.gbmaster.com/ve-goodpharma.html------------
+2021-01-19 14:42:07: content_getConfigList.api - 0.054739952087402
+2021-01-19 14:42:07: media_getMediaDetail.api - 0.040086984634399
+2021-01-19 14:42:07: cart_countShoppingCartDetailsByToken.api - 0.027865886688232
+2021-01-19 14:42:07: content_getSitemapList.api - 0.030174016952515
+------------https://www.gbmaster.com/ve-goodpharma.html------------
+2021-01-19 14:42:25: content_getConfigList.api - 0.036796092987061
+2021-01-19 14:42:25: media_getMediaDetail.api - 0.029620885848999
+2021-01-19 14:42:25: cart_countShoppingCartDetailsByToken.api - 0.028289079666138
+2021-01-19 14:42:25: content_getSitemapList.api - 0.033662080764771
+------------https://www.gbmaster.com/chinh-sach-giao-hang.html------------
+2021-01-19 14:43:17: content_getConfigList.api - 0.035895109176636
+2021-01-19 14:43:17: media_getMediaDetail.api - 0.066751956939697
+2021-01-19 14:43:17: cart_countShoppingCartDetailsByToken.api - 0.037046194076538
+2021-01-19 14:43:17: content_getSitemapList.api - 0.040371894836426
+------------https://www.gbmaster.com/chinh-sach-doi-tra.html------------
+2021-01-19 14:43:17: content_getConfigList.api - 0.040425777435303
+2021-01-19 14:43:18: media_getMediaDetail.api - 0.039010047912598
+2021-01-19 14:43:18: cart_countShoppingCartDetailsByToken.api - 0.025193929672241
+2021-01-19 14:43:18: content_getSitemapList.api - 0.032460927963257
+------------https://www.gbmaster.com/chinh-sach-doi-tra.html------------
+2021-01-19 14:43:35: content_getConfigList.api - 0.26291918754578
+2021-01-19 14:43:35: media_getMediaDetail.api - 0.77742505073547
+2021-01-19 14:43:35: cart_countShoppingCartDetailsByToken.api - 0.053959846496582
+2021-01-19 14:43:36: content_getSitemapList.api - 0.027139902114868
+------------https://www.gbmaster.com/chinh-sach-giao-hang.html------------
+2021-01-19 14:43:38: content_getConfigList.api - 0.036069869995117
+2021-01-19 14:43:39: media_getMediaDetail.api - 1.0559630393982
+2021-01-19 14:43:39: cart_countShoppingCartDetailsByToken.api - 0.15339684486389
+2021-01-19 14:43:39: content_getSitemapList.api - 0.034412145614624
+------------https://www.gbmaster.com/ve-goodpharma.html------------
+2021-01-19 14:43:43: content_getConfigList.api - 0.049338817596436
+2021-01-19 14:43:43: media_getMediaDetail.api - 0.042208194732666
+2021-01-19 14:43:43: cart_countShoppingCartDetailsByToken.api - 0.030139923095703
+2021-01-19 14:43:43: content_getSitemapList.api - 0.029861927032471
+------------https://www.gbmaster.com/ve-goodpharma.html------------
+2021-01-19 14:44:27: content_getConfigList.api - 0.030888080596924
+2021-01-19 14:44:27: media_getMediaDetail.api - 0.028081893920898
+2021-01-19 14:44:28: cart_countShoppingCartDetailsByToken.api - 0.036278963088989
+2021-01-19 14:44:28: content_getSitemapList.api - 0.030599117279053
+------------https://www.gbmaster.com/ve-goodpharma.html------------
+2021-01-19 14:45:37: content_getConfigList.api - 0.021236896514893
+2021-01-19 14:45:37: media_getMediaDetail.api - 0.043217182159424
+2021-01-19 14:45:37: cart_countShoppingCartDetailsByToken.api - 0.0295729637146
+2021-01-19 14:45:37: content_getSitemapList.api - 0.023921966552734
+------------https://www.gbmaster.com/ve-goodpharma.html------------
+2021-01-19 14:45:55: content_getConfigList.api - 0.032263040542603
+2021-01-19 14:45:55: media_getMediaDetail.api - 0.037202119827271
+2021-01-19 14:45:55: cart_countShoppingCartDetailsByToken.api - 0.02319598197937
+2021-01-19 14:45:55: content_getSitemapList.api - 0.030740976333618
+------------https://www.gbmaster.com/chinh-sach-giao-hang.html------------
+2021-01-19 14:46:51: content_getConfigList.api - 0.038837909698486
+2021-01-19 14:46:51: media_getMediaDetail.api - 0.060228109359741
+2021-01-19 14:46:51: cart_countShoppingCartDetailsByToken.api - 0.029894113540649
+2021-01-19 14:46:51: content_getSitemapList.api - 0.03386116027832
+------------https://www.gbmaster.com/san-pham.html------------
+2021-01-19 14:47:47: content_getConfigList.api - 0.15377306938171
+2021-01-19 14:47:47: category_getCategoryList.api - 0.044684886932373
+2021-01-19 14:47:47: product_getProductList.api - 0.21975302696228
+2021-01-19 14:47:47: manufacturer_getManufacturerList.api - 0.044560194015503
+2021-01-19 14:47:47: product_getProductMinMax.api - 0.032285928726196
+2021-01-19 14:47:47: cart_countShoppingCartDetailsByToken.api - 0.029112100601196
+2021-01-19 14:47:47: content_getSitemapList.api - 0.026124000549316
+------------https://www.gbmaster.com/gbuser/login.gbe------------
+2021-01-19 14:53:15: content_getConfigList.api - 0.030952215194702
+2021-01-19 14:53:15: cart_countShoppingCartDetailsByToken.api - 0.031288146972656
+2021-01-19 14:53:15: content_getSitemapList.api - 0.025799036026001
+------------https://www.gbmaster.com/------------
+2021-01-19 14:58:20: content_getConfigList.api - 0.026118993759155
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 14:58:20: content_getConfigList.api - 0.029794931411743
+2021-01-19 14:58:20: media_getMediaDetail.api - 0.43036818504333
+2021-01-19 14:58:20: cart_countShoppingCartDetailsByToken.api - 0.027245044708252
+2021-01-19 14:58:20: content_getSitemapList.api - 0.059474945068359
+2021-01-19 14:58:20: product_getProductByTag.api - 0.11820793151855
+2021-01-19 14:58:21: product_getProductList.api - 0.046252012252808
+2021-01-19 14:58:21: product_getProductList.api - 0.3603777885437
+2021-01-19 14:58:21: product_getProductByTag.api - 0.059139966964722
+------------https://www.gbmaster.com/gbshop/ajax/addMoreProductToCart.gbe------------
+2021-01-19 14:58:25: content_getConfigList.api - 0.036207914352417
+2021-01-19 14:58:25: cart_addMoreProductToShoppingCart.api - 0.26783394813538
+------------https://www.gbmaster.com/gbshop/shoppingcart/cart.gbe------------
+2021-01-19 14:58:26: content_getConfigList.api - 0.05682897567749
+2021-01-19 14:58:27: cart_getShoppingCartDetailsByToken.api - 0.043306112289429
+2021-01-19 14:58:27: cart_countShoppingCartDetailsByToken.api - 0.031387090682983
+2021-01-19 14:58:27: content_getSitemapList.api - 0.055153131484985
+------------https://www.gbmaster.com/gbshop/shoppingcart/shipping.gbe------------
+2021-01-19 14:58:29: content_getConfigList.api - 0.022710084915161
+2021-01-19 14:58:29: shipping_getProvinceList.api - 0.029656887054443
+2021-01-19 14:58:29: shipping_getDistrictList.api - 0.030191898345947
+2021-01-19 14:58:29: shipping_getWardList.api - 0.042354106903076
+2021-01-19 14:58:29: account_getAccount.api - 0.031723022460938
+2021-01-19 14:58:29: cart_getShoppingCartDetailsByToken.api - 0.04584813117981
+2021-01-19 14:58:29: shipping_getDistrictList.api - 0.026535987854004
+2021-01-19 14:58:29: shipping_getDistrictList.api - 0.035192012786865
+2021-01-19 14:58:29: shipping_getWardList.api - 0.042037010192871
+2021-01-19 14:58:29: shipping_getWardList.api - 0.037968873977661
+2021-01-19 14:58:29: cart_countShoppingCartDetailsByToken.api - 0.029006958007812
+2021-01-19 14:58:30: content_getSitemapList.api - 0.02203106880188
+------------https://www.gbmaster.com/gbshop/ajax/updateshippingmethodfee.gbe?provincecode=P79&districtcode=D760&wardcode=W26734------------
+2021-01-19 14:58:30: content_getConfigList.api - 0.039772033691406
+2021-01-19 14:58:30: shipping_getShippingMethodFee.api - 0.05241584777832
+------------https://www.gbmaster.com/gbshop/shoppingcart/shipping.gbe------------
+2021-01-19 14:59:39: content_getConfigList.api - 1.6501319408417
+2021-01-19 14:59:39: shipping_getProvinceList.api - 0.027101039886475
+2021-01-19 14:59:39: shipping_getDistrictList.api - 0.032622814178467
+2021-01-19 14:59:39: shipping_getWardList.api - 0.038800001144409
+2021-01-19 14:59:39: account_getAccount.api - 0.023513793945312
+2021-01-19 14:59:39: cart_getShoppingCartDetailsByToken.api - 0.052608013153076
+2021-01-19 14:59:39: shipping_getDistrictList.api - 0.029190063476562
+2021-01-19 14:59:39: shipping_getDistrictList.api - 0.032409906387329
+2021-01-19 14:59:39: shipping_getWardList.api - 0.040189981460571
+2021-01-19 14:59:39: shipping_getWardList.api - 0.041597127914429
+2021-01-19 14:59:40: cart_countShoppingCartDetailsByToken.api - 0.027835130691528
+2021-01-19 14:59:40: content_getSitemapList.api - 0.028746128082275
+------------https://www.gbmaster.com/gbshop/ajax/updateshippingmethodfee.gbe?provincecode=P79&districtcode=D760&wardcode=W26734------------
+2021-01-19 14:59:41: content_getConfigList.api - 0.029129981994629
+2021-01-19 14:59:41: shipping_getShippingMethodFee.api - 0.051697969436646
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 15:17:08: content_getConfigList.api - 0.02960991859436
+2021-01-19 15:17:08: media_getMediaDetail.api - 0.6079158782959
+2021-01-19 15:17:08: cart_countShoppingCartDetailsByToken.api - 0.040343999862671
+2021-01-19 15:17:08: content_getSitemapList.api - 0.03852105140686
+2021-01-19 15:17:08: product_getProductByTag.api - 0.055583000183105
+2021-01-19 15:17:08: product_getProductList.api - 0.032011032104492
+2021-01-19 15:17:09: product_getProductList.api - 0.30279898643494
+2021-01-19 15:17:09: product_getProductByTag.api - 0.053257942199707
+------------https://www.gbmaster.com/san-pham.html------------
+2021-01-19 15:17:12: content_getConfigList.api - 0.035717010498047
+2021-01-19 15:17:12: category_getCategoryList.api - 0.026989936828613
+2021-01-19 15:17:12: product_getProductList.api - 0.23072504997253
+2021-01-19 15:17:12: manufacturer_getManufacturerList.api - 0.053096055984497
+2021-01-19 15:17:12: product_getProductMinMax.api - 0.030118942260742
+2021-01-19 15:17:12: cart_countShoppingCartDetailsByToken.api - 0.031244039535522
+2021-01-19 15:17:13: content_getSitemapList.api - 0.035306215286255
+------------https://www.gbmaster.com/san-pham.html?categorycode=&page=1&pricemin=3000&pricemax=600000&orderby=addeddate------------
+2021-01-19 15:17:16: content_getConfigList.api - 0.024844884872437
+2021-01-19 15:17:16: category_getCategoryList.api - 0.033318042755127
+2021-01-19 15:17:16: product_getProductList.api - 0.32870697975159
+2021-01-19 15:17:16: manufacturer_getManufacturerList.api - 0.048977136611938
+2021-01-19 15:17:16: product_getProductMinMax.api - 0.029527902603149
+2021-01-19 15:17:16: cart_countShoppingCartDetailsByToken.api - 0.027550935745239
+2021-01-19 15:17:16: content_getSitemapList.api - 0.023953914642334
+------------https://www.gbmaster.com/vien-sui-swiss-energy-vitamin-c-1000mg-tuyp-20-vien.html------------
+2021-01-19 15:17:17: content_getConfigList.api - 0.028806924819946
+2021-01-19 15:17:17: product_getProductDetail.api - 0.038233041763306
+2021-01-19 15:17:17: product_getImageOption.api - 0.021338939666748
+2021-01-19 15:17:18: product_getProductList.api - 0.23519921302795
+2021-01-19 15:17:18: cart_countShoppingCartDetailsByToken.api - 0.023557186126709
+2021-01-19 15:17:18: content_getSitemapList.api - 0.026059865951538
+------------https://www.gbmaster.com/api/uploadimage.gbe------------
+2021-01-19 15:18:37: content_getConfigList.api - 0.028706073760986
+------------https://www.gbmaster.com/vien-sui-swiss-energy-vitamin-c-1000mg-tuyp-20-vien.html------------
+2021-01-19 15:18:44: content_getConfigList.api - 0.022488117218018
+2021-01-19 15:18:44: product_getProductDetail.api - 0.03921103477478
+2021-01-19 15:18:44: product_getImageOption.api - 0.027201175689697
+2021-01-19 15:18:44: product_getProductList.api - 0.2223858833313
+2021-01-19 15:18:44: cart_countShoppingCartDetailsByToken.api - 0.029157161712646
+2021-01-19 15:18:45: content_getSitemapList.api - 0.030869007110596
+------------https://www.gbmaster.com/vien-sui-swiss-energy-vitamin-c-1000mg-tuyp-20-vien.html------------
+2021-01-19 15:18:46: content_getConfigList.api - 0.025901079177856
+2021-01-19 15:18:46: product_getProductDetail.api - 0.051385879516602
+2021-01-19 15:18:47: product_getImageOption.api - 0.029100179672241
+2021-01-19 15:18:47: product_getProductList.api - 0.2142550945282
+2021-01-19 15:18:47: cart_countShoppingCartDetailsByToken.api - 0.025850057601929
+2021-01-19 15:18:47: content_getSitemapList.api - 0.031523942947388
+------------https://www.gbmaster.com/vien-sui-swiss-energy-vitamin-c-1000mg-tuyp-20-vien.html------------
+2021-01-19 15:19:25: content_getConfigList.api - 0.027879953384399
+2021-01-19 15:19:25: product_getProductDetail.api - 0.039086818695068
+2021-01-19 15:19:25: product_getImageOption.api - 0.026226043701172
+2021-01-19 15:19:26: product_getProductList.api - 0.2195611000061
+2021-01-19 15:19:26: cart_countShoppingCartDetailsByToken.api - 0.027688026428223
+2021-01-19 15:19:26: content_getSitemapList.api - 0.033939123153687
+------------https://www.gbmaster.com/vien-sui-swiss-energy-vitamin-c-1000mg-tuyp-20-vien.html------------
+2021-01-19 15:20:37: content_getConfigList.api - 0.028588056564331
+2021-01-19 15:20:37: product_getProductDetail.api - 0.078021049499512
+2021-01-19 15:20:37: product_getImageOption.api - 0.023315906524658
+2021-01-19 15:20:37: product_getProductList.api - 0.22486710548401
+2021-01-19 15:20:37: cart_countShoppingCartDetailsByToken.api - 0.028944969177246
+2021-01-19 15:20:37: content_getSitemapList.api - 0.03725004196167
+------------https://www.gbmaster.com/vien-sui-swiss-energy-vitamin-c-1000mg-tuyp-20-vien.html------------
+2021-01-19 15:21:03: content_getConfigList.api - 0.037532806396484
+2021-01-19 15:21:03: product_getProductDetail.api - 0.042191028594971
+2021-01-19 15:21:03: product_getImageOption.api - 0.030048131942749
+2021-01-19 15:21:03: product_getProductList.api - 0.22223615646362
+2021-01-19 15:21:03: cart_countShoppingCartDetailsByToken.api - 0.030771970748901
+2021-01-19 15:21:03: content_getSitemapList.api - 0.030113935470581
+------------https://www.gbmaster.com/vien-sui-swiss-energy-vitamin-c-1000mg-tuyp-20-vien.html------------
+2021-01-19 15:21:42: content_getConfigList.api - 0.024209976196289
+2021-01-19 15:21:42: product_getProductDetail.api - 0.04302716255188
+2021-01-19 15:21:42: product_getImageOption.api - 0.028170108795166
+2021-01-19 15:21:42: product_getProductList.api - 0.22183012962341
+2021-01-19 15:21:43: cart_countShoppingCartDetailsByToken.api - 0.029505014419556
+2021-01-19 15:21:43: content_getSitemapList.api - 0.025622129440308
+------------https://www.gbmaster.com/vien-sui-swiss-energy-vitamin-c-1000mg-tuyp-20-vien.html------------
+2021-01-19 15:21:57: content_getConfigList.api - 0.027015924453735
+2021-01-19 15:21:57: product_getProductDetail.api - 0.043567895889282
+2021-01-19 15:21:57: product_getImageOption.api - 0.029126882553101
+2021-01-19 15:21:57: product_getProductList.api - 0.21903991699219
+2021-01-19 15:21:57: cart_countShoppingCartDetailsByToken.api - 0.025257110595703
+2021-01-19 15:21:57: content_getSitemapList.api - 0.022388935089111
+------------https://www.gbmaster.com/vien-sui-swiss-energy-vitamin-c-1000mg-tuyp-20-vien.html------------
+2021-01-19 15:28:42: content_getConfigList.api - 0.036927938461304
+2021-01-19 15:28:42: product_getProductDetail.api - 0.043195962905884
+2021-01-19 15:28:42: product_getImageOption.api - 0.032747983932495
+2021-01-19 15:28:42: product_getProductList.api - 0.24770593643188
+2021-01-19 15:28:42: cart_countShoppingCartDetailsByToken.api - 0.024909973144531
+2021-01-19 15:28:42: content_getSitemapList.api - 0.043584108352661
+------------https://www.gbmaster.com/vien-sui-swiss-energy-vitamin-c-1000mg-tuyp-20-vien.html------------
+2021-01-19 15:28:52: content_getConfigList.api - 0.028589010238647
+2021-01-19 15:28:52: product_getProductDetail.api - 0.33973407745361
+2021-01-19 15:28:52: product_getImageOption.api - 0.033467054367065
+2021-01-19 15:28:53: product_getProductList.api - 0.23831510543823
+2021-01-19 15:28:53: cart_countShoppingCartDetailsByToken.api - 0.032506942749023
+2021-01-19 15:28:53: content_getSitemapList.api - 0.026304006576538
+------------https://www.gbmaster.com/vien-sui-swiss-energy-vitamin-c-1000mg-tuyp-20-vien.html------------
+2021-01-19 15:33:39: content_getConfigList.api - 0.049985885620117
+2021-01-19 15:33:39: product_getProductDetail.api - 0.05332088470459
+2021-01-19 15:33:39: product_getImageOption.api - 0.033416986465454
+2021-01-19 15:33:40: product_getProductList.api - 0.23136186599731
+2021-01-19 15:33:40: cart_countShoppingCartDetailsByToken.api - 0.02900505065918
+2021-01-19 15:33:40: content_getSitemapList.api - 0.02290415763855
+------------https://www.gbmaster.com/vien-sui-swiss-energy-vitamin-c-1000mg-tuyp-20-vien.html------------
+2021-01-19 15:34:10: content_getConfigList.api - 0.020288944244385
+2021-01-19 15:34:10: product_getProductDetail.api - 0.027333974838257
+2021-01-19 15:34:11: product_getImageOption.api - 1.0338480472565
+2021-01-19 15:34:12: product_getProductList.api - 0.23246002197266
+2021-01-19 15:34:12: cart_countShoppingCartDetailsByToken.api - 0.027879953384399
+2021-01-19 15:34:12: content_getSitemapList.api - 0.026174068450928
+------------https://www.gbmaster.com/vien-sui-swiss-energy-vitamin-c-1000mg-tuyp-20-vien.html------------
+2021-01-19 15:37:04: content_getConfigList.api - 0.04621696472168
+2021-01-19 15:37:05: product_getProductDetail.api - 0.044394016265869
+2021-01-19 15:37:05: product_getImageOption.api - 0.022517919540405
+2021-01-19 15:37:08: product_getProductList.api - 3.1975622177124
+2021-01-19 15:37:08: cart_countShoppingCartDetailsByToken.api - 0.029561996459961
+2021-01-19 15:37:08: content_getSitemapList.api - 0.030762910842896
+------------https://www.gbmaster.com/vien-sui-swiss-energy-vitamin-c-1000mg-tuyp-20-vien.html------------
+2021-01-19 15:37:42: content_getConfigList.api - 0.03159499168396
+2021-01-19 15:37:43: product_getProductDetail.api - 0.17049908638
+2021-01-19 15:37:43: product_getImageOption.api - 0.030288934707642
+2021-01-19 15:37:43: product_getProductList.api - 0.37032008171082
+2021-01-19 15:37:43: cart_countShoppingCartDetailsByToken.api - 0.14375305175781
+2021-01-19 15:37:43: content_getSitemapList.api - 0.036880970001221
+------------https://www.gbmaster.com/vien-sui-swiss-energy-vitamin-c-1000mg-tuyp-20-vien.html------------
+2021-01-19 15:38:09: content_getConfigList.api - 0.031224012374878
+2021-01-19 15:38:09: product_getProductDetail.api - 0.034404993057251
+2021-01-19 15:38:09: product_getImageOption.api - 0.022621154785156
+2021-01-19 15:38:09: product_getProductList.api - 0.2210099697113
+2021-01-19 15:38:09: cart_countShoppingCartDetailsByToken.api - 0.027276992797852
+2021-01-19 15:38:09: content_getSitemapList.api - 0.03962779045105
+------------https://www.gbmaster.com/vien-sui-swiss-energy-vitamin-c-1000mg-tuyp-20-vien.html------------
+2021-01-19 15:39:17: content_getConfigList.api - 0.032701969146729
+2021-01-19 15:39:17: product_getProductDetail.api - 0.036405086517334
+2021-01-19 15:39:17: product_getImageOption.api - 0.027638912200928
+2021-01-19 15:39:17: product_getProductList.api - 0.21162915229797
+2021-01-19 15:39:17: cart_countShoppingCartDetailsByToken.api - 0.023869037628174
+2021-01-19 15:39:17: content_getSitemapList.api - 0.031075000762939
+------------https://www.gbmaster.com/vien-sui-swiss-energy-vitamin-c-1000mg-tuyp-20-vien.html------------
+2021-01-19 15:39:27: content_getConfigList.api - 0.089454889297485
+2021-01-19 15:39:28: product_getProductDetail.api - 0.85759902000427
+2021-01-19 15:39:28: product_getImageOption.api - 0.029654026031494
+2021-01-19 15:39:29: product_getProductList.api - 0.62843608856201
+2021-01-19 15:39:29: cart_countShoppingCartDetailsByToken.api - 0.037524938583374
+2021-01-19 15:39:29: content_getSitemapList.api - 0.069714069366455
+------------https://www.gbmaster.com/vien-sui-swiss-energy-vitamin-c-1000mg-tuyp-20-vien.html------------
+2021-01-19 15:39:36: content_getConfigList.api - 0.035063028335571
+2021-01-19 15:39:36: product_getProductDetail.api - 0.058422803878784
+2021-01-19 15:39:36: product_getImageOption.api - 0.032888889312744
+2021-01-19 15:39:36: product_getProductList.api - 0.55943298339844
+2021-01-19 15:39:37: cart_countShoppingCartDetailsByToken.api - 0.031531810760498
+2021-01-19 15:39:37: content_getSitemapList.api - 0.040637016296387
+------------https://www.gbmaster.com/vien-sui-swiss-energy-vitamin-c-1000mg-tuyp-20-vien.html------------
+2021-01-19 15:39:45: content_getConfigList.api - 0.032057046890259
+2021-01-19 15:39:45: product_getProductDetail.api - 0.038019180297852
+2021-01-19 15:39:45: product_getImageOption.api - 0.023654937744141
+2021-01-19 15:39:45: product_getProductList.api - 0.22309494018555
+2021-01-19 15:39:45: cart_countShoppingCartDetailsByToken.api - 0.032550096511841
+2021-01-19 15:39:45: content_getSitemapList.api - 0.024133920669556
+------------https://www.gbmaster.com/vien-sui-swiss-energy-vitamin-c-1000mg-tuyp-20-vien.html------------
+2021-01-19 15:39:55: content_getConfigList.api - 0.08804988861084
+2021-01-19 15:39:55: product_getProductDetail.api - 0.035032987594604
+2021-01-19 15:39:55: product_getImageOption.api - 0.16609406471252
+2021-01-19 15:39:58: product_getProductList.api - 1.971225976944
+2021-01-19 15:39:58: cart_countShoppingCartDetailsByToken.api - 0.086834192276001
+2021-01-19 15:39:58: content_getSitemapList.api - 0.084506988525391
+------------https://www.gbmaster.com/vien-sui-swiss-energy-vitamin-c-1000mg-tuyp-20-vien.html------------
+2021-01-19 15:40:20: content_getConfigList.api - 0.048578023910522
+2021-01-19 15:40:20: product_getProductDetail.api - 0.043588161468506
+2021-01-19 15:40:20: product_getImageOption.api - 0.039095878601074
+2021-01-19 15:40:20: product_getProductList.api - 0.23809003829956
+2021-01-19 15:40:20: cart_countShoppingCartDetailsByToken.api - 0.032765865325928
+2021-01-19 15:40:21: content_getSitemapList.api - 1.0501210689545
+------------https://www.gbmaster.com/vien-sui-swiss-energy-vitamin-c-1000mg-tuyp-20-vien.html------------
+2021-01-19 15:41:21: content_getConfigList.api - 0.044332981109619
+2021-01-19 15:41:21: product_getProductDetail.api - 0.7852680683136
+2021-01-19 15:41:22: product_getImageOption.api - 0.045228004455566
+2021-01-19 15:41:22: product_getProductList.api - 0.5251669883728
+2021-01-19 15:41:22: cart_countShoppingCartDetailsByToken.api - 0.069882154464722
+2021-01-19 15:41:24: content_getSitemapList.api - 1.7010478973389
+------------https://www.gbmaster.com/vien-sui-swiss-energy-vitamin-c-1000mg-tuyp-20-vien.html------------
+2021-01-19 15:48:57: content_getConfigList.api - 0.25969791412354
+2021-01-19 15:48:58: product_getProductDetail.api - 0.81675601005554
+2021-01-19 15:48:58: product_getImageOption.api - 0.48323011398315
+2021-01-19 15:49:00: product_getProductList.api - 1.3684101104736
+2021-01-19 15:49:00: cart_countShoppingCartDetailsByToken.api - 0.082848072052002
+2021-01-19 15:49:00: content_getSitemapList.api - 0.13277506828308
+------------https://www.gbmaster.com/san-pham.html------------
+2021-01-19 15:57:22: content_getConfigList.api - 0.029850006103516
+2021-01-19 15:57:23: category_getCategoryList.api - 0.038789033889771
+2021-01-19 15:57:23: product_getProductList.api - 0.22435212135315
+2021-01-19 15:57:23: manufacturer_getManufacturerList.api - 0.063537120819092
+2021-01-19 15:57:23: product_getProductMinMax.api - 0.054785013198853
+2021-01-19 15:57:23: cart_countShoppingCartDetailsByToken.api - 0.023470878601074
+2021-01-19 15:57:23: content_getSitemapList.api - 0.02523398399353
+------------https://www.gbmaster.com/san-pham.html------------
+2021-01-19 16:01:41: content_getConfigList.api - 0.032923936843872
+2021-01-19 16:01:41: category_getCategoryList.api - 0.029284954071045
+2021-01-19 16:01:41: product_getProductList.api - 0.23199892044067
+2021-01-19 16:01:41: manufacturer_getManufacturerList.api - 0.079132080078125
+2021-01-19 16:01:41: product_getProductMinMax.api - 0.026097059249878
+2021-01-19 16:01:41: cart_countShoppingCartDetailsByToken.api - 0.032016038894653
+2021-01-19 16:01:41: content_getSitemapList.api - 0.029264211654663
+------------https://www.gbmaster.com/san-pham.html------------
+2021-01-19 16:02:06: content_getConfigList.api - 0.028018951416016
+2021-01-19 16:02:06: category_getCategoryList.api - 0.026994943618774
+2021-01-19 16:02:06: product_getProductList.api - 0.2173810005188
+2021-01-19 16:02:07: manufacturer_getManufacturerList.api - 0.042866945266724
+2021-01-19 16:02:07: product_getProductMinMax.api - 0.026314973831177
+2021-01-19 16:02:07: cart_countShoppingCartDetailsByToken.api - 0.023536205291748
+2021-01-19 16:02:07: content_getSitemapList.api - 0.023564100265503
+------------https://www.gbmaster.com//nuoc-uong-lam-dep-da-ngay-he.html------------
+2021-01-19 16:04:51: content_getConfigList.api - 0.048995018005371
+2021-01-19 16:04:51: content_getPostList.api - 0.084143877029419
+2021-01-19 16:04:51: content_getPostDetail.api - 0.022650957107544
+2021-01-19 16:04:51: Array - 0.022207021713257
+2021-01-19 16:04:51: cart_countShoppingCartDetailsByToken.api - 0.033349990844727
+2021-01-19 16:04:51: content_getSitemapList.api - 0.031476974487305
+------------https://www.gbmaster.com//rang-ro-don-tet-voi-meo-lam-dep-da-trong-thoi-gian-ngan.html------------
+2021-01-19 16:04:54: content_getConfigList.api - 0.10133099555969
+2021-01-19 16:04:54: content_getPostList.api - 0.14752316474915
+2021-01-19 16:04:54: content_getPostDetail.api - 0.056697845458984
+2021-01-19 16:04:54: Array - 0.042556047439575
+2021-01-19 16:04:54: cart_countShoppingCartDetailsByToken.api - 0.02667498588562
+2021-01-19 16:04:54: content_getSitemapList.api - 0.038031101226807
+------------https://www.gbmaster.com//duong-da-mua-hanh-kho.html------------
+2021-01-19 16:04:55: content_getConfigList.api - 0.082907915115356
+2021-01-19 16:04:55: content_getPostList.api - 0.14163994789124
+2021-01-19 16:04:55: content_getPostDetail.api - 0.041424036026001
+2021-01-19 16:04:56: Array - 1.0252058506012
+2021-01-19 16:04:56: cart_countShoppingCartDetailsByToken.api - 0.027017831802368
+2021-01-19 16:04:56: content_getSitemapList.api - 0.035567998886108
+------------https://www.gbmaster.com//thuc-pham-nen-an-hang-ngay-de-tranh-tac-nghen-dong-mach-ngua-dau-tim.html------------
+2021-01-19 16:04:56: content_getConfigList.api - 0.028635025024414
+2021-01-19 16:04:56: content_getPostList.api - 0.074525117874146
+2021-01-19 16:04:56: content_getPostDetail.api - 0.035876035690308
+2021-01-19 16:04:56: Array - 0.029092073440552
+2021-01-19 16:04:56: cart_countShoppingCartDetailsByToken.api - 0.033283948898315
+2021-01-19 16:04:56: content_getSitemapList.api - 0.02892804145813
+------------https://www.gbmaster.com//thuc-pham-nen-an-hang-ngay-de-tranh-tac-nghen-dong-mach-ngua-dau-tim.html------------
+2021-01-19 16:05:07: content_getConfigList.api - 0.029685974121094
+2021-01-19 16:05:07: content_getPostList.api - 0.091990947723389
+2021-01-19 16:05:07: content_getPostDetail.api - 0.032838106155396
+2021-01-19 16:05:07: Array - 0.024209022521973
+2021-01-19 16:05:07: cart_countShoppingCartDetailsByToken.api - 0.024624824523926
+2021-01-19 16:05:07: content_getSitemapList.api - 0.033499956130981
+------------https://www.gbmaster.com//duong-da-mua-hanh-kho.html------------
+2021-01-19 16:05:07: content_getConfigList.api - 0.021705150604248
+2021-01-19 16:05:07: content_getPostList.api - 0.10687208175659
+2021-01-19 16:05:07: content_getPostDetail.api - 0.041012048721313
+2021-01-19 16:05:07: Array - 0.028810977935791
+2021-01-19 16:05:07: cart_countShoppingCartDetailsByToken.api - 0.026283025741577
+2021-01-19 16:05:08: content_getSitemapList.api - 0.047948837280273
+------------https://www.gbmaster.com//rang-ro-don-tet-voi-meo-lam-dep-da-trong-thoi-gian-ngan.html------------
+2021-01-19 16:05:08: content_getConfigList.api - 0.034792900085449
+2021-01-19 16:05:08: content_getPostList.api - 0.097226858139038
+2021-01-19 16:05:08: content_getPostDetail.api - 0.034677982330322
+2021-01-19 16:05:08: Array - 0.021704912185669
+2021-01-19 16:05:08: cart_countShoppingCartDetailsByToken.api - 0.022167921066284
+2021-01-19 16:05:08: content_getSitemapList.api - 0.029124021530151
+------------https://www.gbmaster.com//nuoc-uong-lam-dep-da-ngay-he.html------------
+2021-01-19 16:05:08: content_getConfigList.api - 0.042532205581665
+2021-01-19 16:05:08: content_getPostList.api - 0.099495887756348
+2021-01-19 16:05:08: content_getPostDetail.api - 0.026891946792603
+2021-01-19 16:05:08: Array - 0.031455039978027
+2021-01-19 16:05:09: cart_countShoppingCartDetailsByToken.api - 0.047506809234619
+2021-01-19 16:05:09: content_getSitemapList.api - 0.032118082046509
+------------https://www.gbmaster.com/------------
+2021-01-19 16:32:21: content_getConfigList.api - 0.034271001815796
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 16:32:21: content_getConfigList.api - 0.25852394104004
+2021-01-19 16:32:21: media_getMediaDetail.api - 0.042089939117432
+2021-01-19 16:32:21: cart_countShoppingCartDetailsByToken.api - 0.037661075592041
+2021-01-19 16:32:21: content_getSitemapList.api - 0.039404153823853
+2021-01-19 16:32:21: product_getProductByTag.api - 0.38069605827332
+2021-01-19 16:32:22: product_getProductList.api - 0.050819158554077
+2021-01-19 16:32:22: product_getProductList.api - 0.13330507278442
+2021-01-19 16:32:22: product_getProductByTag.api - 0.052787065505981
+------------https://www.gbmaster.com/gbuser/login.gbe------------
+2021-01-19 16:32:32: content_getConfigList.api - 0.030916929244995
+2021-01-19 16:32:34: cart_countShoppingCartDetailsByToken.api - 0.028971910476685
+2021-01-19 16:32:34: content_getSitemapList.api - 0.028815984725952
+------------https://www.gbmaster.com/gbuser/login.gbe------------
+2021-01-19 16:32:53: content_getConfigList.api - 0.051785945892334
+2021-01-19 16:32:53: cart_countShoppingCartDetailsByToken.api - 0.027637958526611
+2021-01-19 16:32:53: content_getSitemapList.api - 0.027218103408813
+------------https://www.gbmaster.com/gbuser/login.gbe------------
+2021-01-19 16:33:09: content_getConfigList.api - 0.033966064453125
+2021-01-19 16:33:10: cart_countShoppingCartDetailsByToken.api - 0.037745952606201
+2021-01-19 16:33:10: content_getSitemapList.api - 0.034416198730469
+------------https://www.gbmaster.com/gbuser/ajax/login.gbe------------
+2021-01-19 16:34:59: content_getConfigList.api - 0.030699014663696
+2021-01-19 16:35:00: common_login.api - 0.26652693748474
+------------https://www.gbmaster.com/gbuser/login.gbe------------
+2021-01-19 16:35:01: content_getConfigList.api - 1.0283319950104
+2021-01-19 16:35:01: cart_countShoppingCartDetailsByToken.api - 0.029393196105957
+2021-01-19 16:35:01: content_getSitemapList.api - 0.029115915298462
+------------https://www.gbmaster.com/------------
+2021-01-19 16:35:01: content_getConfigList.api - 0.034991979598999
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 16:35:01: content_getConfigList.api - 0.027727127075195
+2021-01-19 16:35:01: media_getMediaDetail.api - 0.027175903320312
+2021-01-19 16:35:01: cart_countShoppingCartDetailsByToken.api - 0.029836177825928
+2021-01-19 16:35:01: content_getSitemapList.api - 0.038448095321655
+2021-01-19 16:35:01: product_getProductByTag.api - 0.066540002822876
+2021-01-19 16:35:01: product_getProductList.api - 0.041028022766113
+2021-01-19 16:35:01: product_getProductList.api - 0.15694308280945
+2021-01-19 16:35:01: product_getProductByTag.api - 0.062476873397827
+------------https://www.gbmaster.com/gbuser/account/profile.gbe------------
+2021-01-19 16:35:06: content_getConfigList.api - 0.029443979263306
+2021-01-19 16:35:06: account_getAccount.api - 0.039971113204956
+2021-01-19 16:35:06: cart_countShoppingCartDetailsByToken.api - 0.028450965881348
+2021-01-19 16:35:06: content_getSitemapList.api - 0.023445129394531
+------------https://www.gbmaster.com/gbuser/account/changepassword.gbe------------
+2021-01-19 16:35:10: content_getConfigList.api - 0.30873608589172
+2021-01-19 16:35:10: cart_countShoppingCartDetailsByToken.api - 0.032902002334595
+2021-01-19 16:35:11: content_getSitemapList.api - 0.29628205299377
+------------https://www.gbmaster.com/gbuser/account/changepassword.gbe------------
+2021-01-19 16:37:14: content_getConfigList.api - 0.019972801208496
+2021-01-19 16:37:14: cart_countShoppingCartDetailsByToken.api - 0.029080152511597
+2021-01-19 16:37:14: content_getSitemapList.api - 0.038105010986328
+------------https://www.gbmaster.com/gbshop/shoppingcart/cart.gbe------------
+2021-01-19 16:37:16: content_getConfigList.api - 0.031960010528564
+2021-01-19 16:37:16: cart_getShoppingCartDetailsByToken.api - 0.051342010498047
+2021-01-19 16:37:16: cart_countShoppingCartDetailsByToken.api - 0.029907941818237
+2021-01-19 16:37:16: content_getSitemapList.api - 0.044607877731323
+------------https://www.gbmaster.com/gbshop/ajax/shareCart.gbe------------
+2021-01-19 16:37:19: content_getConfigList.api - 0.034887075424194
+2021-01-19 16:37:20: cart_shareShoppingCart.api - 0.32959413528442
+------------https://www.gbmaster.com/gbshop/shoppingcart/cart.gbe?shareid=wlIe34Flviscbap1VBEM%2Fw==------------
+2021-01-19 16:37:23: content_getConfigList.api - 0.056226015090942
+2021-01-19 16:37:23: cart_getShoppingCartDetailsByToken.api - 0.075042963027954
+2021-01-19 16:37:23: cart_countShoppingCartDetailsByToken.api - 0.031752824783325
+2021-01-19 16:37:23: content_getSitemapList.api - 0.037616968154907
+------------https://www.gbmaster.com/gbshop/shoppingcart/cart.gbe?shareid=wlIe34Flviscbap1VBEM%2Fw==------------
+2021-01-19 16:37:31: content_getConfigList.api - 0.024210929870605
+2021-01-19 16:37:32: cart_countShoppingCartDetailsByToken.api - 0.091149806976318
+2021-01-19 16:37:32: content_getSitemapList.api - 0.024004936218262
+------------https://www.gbmaster.com/gbshop/shoppingcart/cart.gbe?shareid=wlIe34Flviscbap1VBEM%2Fw==------------
+2021-01-19 16:38:28: content_getConfigList.api - 0.038168907165527
+2021-01-19 16:38:28: cart_countShoppingCartDetailsByToken.api - 0.027359962463379
+2021-01-19 16:38:28: content_getSitemapList.api - 0.024713039398193
+------------https://www.gbmaster.com/gbshop/shoppingcart/cart.gbe?shareid=wlIe34Flviscbap1VBEM%2Fw==------------
+2021-01-19 16:39:16: content_getConfigList.api - 0.10483002662659
+2021-01-19 16:39:16: cart_getShoppingCartDetailsByToken.api - 0.41938805580139
+2021-01-19 16:39:17: cart_addProductToShoppingCart.api - 0.57552099227905
+2021-01-19 16:39:18: cart_getShoppingCartDetails.api - 0.45699596405029
+2021-01-19 16:39:18: cart_countShoppingCartDetailsByToken.api - 0.35050201416016
+2021-01-19 16:39:18: content_getSitemapList.api - 0.04320502281189
+------------https://www.gbmaster.com/gbshop/shoppingcart/cart.gbe------------
+2021-01-19 16:40:12: content_getConfigList.api - 0.04053783416748
+2021-01-19 16:40:12: cart_getShoppingCartDetailsByToken.api - 0.042983055114746
+2021-01-19 16:40:12: cart_countShoppingCartDetailsByToken.api - 0.026209115982056
+2021-01-19 16:40:12: content_getSitemapList.api - 0.027539968490601
+------------https://www.gbmaster.com/------------
+2021-01-19 16:44:05: content_getConfigList.api - 0.037930965423584
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 16:44:05: content_getConfigList.api - 0.032397031784058
+2021-01-19 16:44:06: media_getMediaDetail.api - 0.037286996841431
+2021-01-19 16:44:06: cart_countShoppingCartDetailsByToken.api - 0.03295111656189
+2021-01-19 16:44:06: content_getSitemapList.api - 0.054565906524658
+2021-01-19 16:44:07: product_getProductByTag.api - 1.1852729320526
+2021-01-19 16:44:07: product_getProductList.api - 0.049084901809692
+2021-01-19 16:44:08: product_getProductList.api - 0.88858103752136
+2021-01-19 16:44:08: product_getProductByTag.api - 0.074999809265137
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-19 16:45:20: content_getConfigList.api - 1.0271871089935
+2021-01-19 16:45:20: media_getMediaDetail.api - 0.029279947280884
+2021-01-19 16:45:20: cart_countShoppingCartDetailsByToken.api - 0.028447151184082
+2021-01-19 16:45:20: content_getSitemapList.api - 0.036232948303223
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-19 16:47:45: content_getConfigList.api - 0.027806043624878
+2021-01-19 16:47:45: media_getMediaDetail.api - 0.031852960586548
+2021-01-19 16:47:45: cart_countShoppingCartDetailsByToken.api - 0.034331083297729
+2021-01-19 16:47:45: content_getSitemapList.api - 0.043952941894531
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-19 16:49:23: content_getConfigList.api - 0.031790018081665
+2021-01-19 16:49:23: media_getMediaDetail.api - 0.030879974365234
+2021-01-19 16:49:23: cart_countShoppingCartDetailsByToken.api - 0.030163049697876
+2021-01-19 16:49:23: content_getSitemapList.api - 0.029397964477539
+------------https://www.gbmaster.com/gbuser/account/order.gbe------------
+2021-01-19 16:50:07: content_getConfigList.api - 0.023259162902832
+2021-01-19 16:50:08: order_getOrderListByAccount.api - 1.2223060131073
+2021-01-19 16:50:08: cart_countShoppingCartDetailsByToken.api - 0.024192810058594
+2021-01-19 16:50:08: content_getSitemapList.api - 0.026025056838989
+------------https://www.gbmaster.com/gbuser/account/profile.gbe------------
+2021-01-19 16:50:11: content_getConfigList.api - 0.03236198425293
+2021-01-19 16:50:12: account_getAccount.api - 0.037856101989746
+2021-01-19 16:50:12: cart_countShoppingCartDetailsByToken.api - 0.022583961486816
+2021-01-19 16:50:12: content_getSitemapList.api - 0.025060892105103
+------------https://www.gbmaster.com/gbuser/account/order.gbe------------
+2021-01-19 16:50:14: content_getConfigList.api - 0.031261920928955
+2021-01-19 16:50:15: order_getOrderListByAccount.api - 1.0200650691986
+2021-01-19 16:50:15: cart_countShoppingCartDetailsByToken.api - 0.021807909011841
+2021-01-19 16:50:15: content_getSitemapList.api - 0.028205871582031
+------------https://www.gbmaster.com/gbuser/account/profile.gbe------------
+2021-01-19 16:50:19: content_getConfigList.api - 0.032432079315186
+2021-01-19 16:50:19: account_getAccount.api - 0.043960094451904
+2021-01-19 16:50:19: cart_countShoppingCartDetailsByToken.api - 0.030697107315063
+2021-01-19 16:50:19: content_getSitemapList.api - 0.028084993362427
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 16:52:05: content_getConfigList.api - 0.041697978973389
+2021-01-19 16:52:05: media_getMediaDetail.api - 0.036112070083618
+2021-01-19 16:52:05: cart_countShoppingCartDetailsByToken.api - 0.028923988342285
+2021-01-19 16:52:05: content_getSitemapList.api - 0.031574010848999
+2021-01-19 16:52:05: product_getProductByTag.api - 0.043658971786499
+2021-01-19 16:52:05: product_getProductList.api - 0.038304090499878
+2021-01-19 16:52:06: product_getProductList.api - 0.11514902114868
+2021-01-19 16:52:06: product_getProductByTag.api - 0.048887014389038
+------------https://www.gbmaster.com/san-pham.html------------
+2021-01-19 16:52:12: content_getConfigList.api - 0.030788898468018
+2021-01-19 16:52:12: category_getCategoryList.api - 0.030310869216919
+2021-01-19 16:52:12: product_getProductList.api - 0.094120979309082
+2021-01-19 16:52:12: manufacturer_getManufacturerList.api - 0.048808097839355
+2021-01-19 16:52:12: product_getProductMinMax.api - 0.025322914123535
+2021-01-19 16:52:12: cart_countShoppingCartDetailsByToken.api - 0.023028135299683
+2021-01-19 16:52:12: content_getSitemapList.api - 0.027077198028564
+------------https://www.gbmaster.com/san-pham.html------------
+2021-01-19 16:52:17: content_getConfigList.api - 0.3042950630188
+2021-01-19 16:52:17: category_getCategoryList.api - 0.031049013137817
+2021-01-19 16:52:17: product_getProductList.api - 0.13179612159729
+2021-01-19 16:52:18: manufacturer_getManufacturerList.api - 1.0410327911377
+2021-01-19 16:52:18: product_getProductMinMax.api - 0.031109094619751
+2021-01-19 16:52:18: cart_countShoppingCartDetailsByToken.api - 0.02557110786438
+2021-01-19 16:52:18: content_getSitemapList.api - 0.028122901916504
+------------https://www.gbmaster.com/thuoc-giam-can.html------------
+2021-01-19 16:52:57: content_getConfigList.api - 0.030529975891113
+2021-01-19 16:52:57: category_getCategoryList.api - 0.02827000617981
+2021-01-19 16:52:57: product_getProductList.api - 0.029607057571411
+2021-01-19 16:52:57: manufacturer_getManufacturerList.api - 0.067473173141479
+2021-01-19 16:52:57: product_getProductMinMax.api - 0.026041030883789
+2021-01-19 16:52:57: cart_countShoppingCartDetailsByToken.api - 0.023864030838013
+2021-01-19 16:52:57: content_getSitemapList.api - 0.025271892547607
+------------https://www.gbmaster.com/thuoc-khang-di-ung.html------------
+2021-01-19 16:52:59: content_getConfigList.api - 0.14269590377808
+2021-01-19 16:52:59: category_getCategoryList.api - 0.023938179016113
+2021-01-19 16:52:59: product_getProductList.api - 0.049675941467285
+2021-01-19 16:52:59: manufacturer_getManufacturerList.api - 0.045875072479248
+2021-01-19 16:52:59: product_getProductMinMax.api - 0.023414850234985
+2021-01-19 16:52:59: cart_countShoppingCartDetailsByToken.api - 0.023562908172607
+2021-01-19 16:52:59: content_getSitemapList.api - 0.027261018753052
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 16:53:23: content_getConfigList.api - 0.042140007019043
+2021-01-19 16:53:23: media_getMediaDetail.api - 0.030533075332642
+2021-01-19 16:53:23: cart_countShoppingCartDetailsByToken.api - 0.032961845397949
+2021-01-19 16:53:23: content_getSitemapList.api - 0.038400888442993
+2021-01-19 16:53:23: product_getProductByTag.api - 0.049189805984497
+2021-01-19 16:53:23: product_getProductList.api - 0.03543496131897
+2021-01-19 16:53:23: product_getProductList.api - 0.11862802505493
+2021-01-19 16:53:23: product_getProductByTag.api - 0.051346063613892
+------------https://www.gbmaster.com/san-pham.html------------
+2021-01-19 16:53:36: content_getConfigList.api - 0.051208972930908
+2021-01-19 16:53:36: category_getCategoryList.api - 0.13603901863098
+2021-01-19 16:53:37: product_getProductList.api - 0.18717908859253
+2021-01-19 16:53:37: manufacturer_getManufacturerList.api - 0.25017309188843
+2021-01-19 16:53:37: product_getProductMinMax.api - 0.041333913803101
+2021-01-19 16:53:37: cart_countShoppingCartDetailsByToken.api - 0.13173699378967
+2021-01-19 16:53:37: content_getSitemapList.api - 0.13973903656006
+------------https://www.gbmaster.com/gbuser/account/profile.gbe------------
+2021-01-19 16:57:03: content_getConfigList.api - 0.12088012695312
+2021-01-19 16:57:04: account_getAccount.api - 0.1644299030304
+2021-01-19 16:57:04: cart_countShoppingCartDetailsByToken.api - 0.19848084449768
+2021-01-19 16:57:04: content_getSitemapList.api - 0.03814697265625
+------------https://www.gbmaster.com/gbuser/account/changepassword.gbe------------
+2021-01-19 16:57:07: content_getConfigList.api - 0.023532867431641
+2021-01-19 16:57:07: cart_countShoppingCartDetailsByToken.api - 0.032034873962402
+2021-01-19 16:57:07: content_getSitemapList.api - 0.024729013442993
+------------https://www.gbmaster.com/ajax/changepassword.gbe------------
+2021-01-19 16:57:17: content_getConfigList.api - 0.033908843994141
+------------https://www.gbmaster.com/ajax/changepassword.gbe------------
+2021-01-19 16:57:31: content_getConfigList.api - 0.092187166213989
+------------https://www.gbmaster.com/gbuser/account/changepassword.gbe------------
+2021-01-19 16:57:33: content_getConfigList.api - 0.25346612930298
+2021-01-19 16:57:33: cart_countShoppingCartDetailsByToken.api - 0.044075012207031
+2021-01-19 16:57:33: content_getSitemapList.api - 0.042917966842651
+------------https://www.gbmaster.com/ajax/changepassword.gbe------------
+2021-01-19 16:57:40: content_getConfigList.api - 0.028828859329224
+------------https://www.gbmaster.com/gbuser/account/changepassword.gbe------------
+2021-01-19 16:59:01: content_getConfigList.api - 0.048498868942261
+2021-01-19 16:59:01: cart_countShoppingCartDetailsByToken.api - 0.023329019546509
+2021-01-19 16:59:01: content_getSitemapList.api - 0.05402684211731
+------------https://www.gbmaster.com/gbuser/ajax/changepassword.gbe------------
+2021-01-19 16:59:11: content_getConfigList.api - 0.037809133529663
+2021-01-19 16:59:11: account_changePassword.api - 0.033323049545288
+------------https://www.gbmaster.com/gbuser/account/changepassword.gbe------------
+2021-01-19 16:59:16: content_getConfigList.api - 0.073661088943481
+2021-01-19 16:59:16: cart_countShoppingCartDetailsByToken.api - 0.030821084976196
+2021-01-19 16:59:17: content_getSitemapList.api - 0.4172260761261
+------------https://www.gbmaster.com/gbuser/ajax/changepassword.gbe------------
+2021-01-19 16:59:27: content_getConfigList.api - 0.050190210342407
+2021-01-19 16:59:27: account_changePassword.api - 0.034154176712036
+------------https://www.gbmaster.com/gbuser/ajax/logout.gbe------------
+2021-01-19 17:01:00: content_getConfigList.api - 0.029991865158081
+------------https://www.gbmaster.com/------------
+2021-01-19 17:01:00: content_getConfigList.api - 0.048352956771851
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 17:01:00: content_getConfigList.api - 0.029642820358276
+2021-01-19 17:01:00: media_getMediaDetail.api - 0.039119005203247
+2021-01-19 17:01:00: cart_countShoppingCartDetailsByToken.api - 0.034976005554199
+2021-01-19 17:01:00: content_getSitemapList.api - 0.033039093017578
+2021-01-19 17:01:00: product_getProductByTag.api - 0.058621168136597
+2021-01-19 17:01:00: product_getProductList.api - 0.038609027862549
+2021-01-19 17:01:00: product_getProductList.api - 0.12890911102295
+2021-01-19 17:01:01: product_getProductByTag.api - 0.049680948257446
+------------https://www.gbmaster.com/gbshop/ajax/addMoreProductToCart.gbe------------
+2021-01-19 17:01:04: content_getConfigList.api - 0.029559135437012
+2021-01-19 17:01:05: cart_addMoreProductToShoppingCart.api - 0.49496412277222
+------------https://www.gbmaster.com/gbshop/shoppingcart/cart.gbe------------
+2021-01-19 17:01:06: content_getConfigList.api - 0.030735969543457
+2021-01-19 17:01:06: cart_getShoppingCartDetailsByToken.api - 0.048575878143311
+2021-01-19 17:01:06: cart_countShoppingCartDetailsByToken.api - 0.032027006149292
+2021-01-19 17:01:06: content_getSitemapList.api - 0.028500080108643
+------------https://www.gbmaster.com/gbshop/shoppingcart/shipping.gbe------------
+2021-01-19 17:01:18: content_getConfigList.api - 0.032532930374146
+2021-01-19 17:01:18: shipping_getProvinceList.api - 0.028716087341309
+2021-01-19 17:01:18: shipping_getDistrictList.api - 0.025725126266479
+2021-01-19 17:01:18: shipping_getWardList.api - 0.04131007194519
+2021-01-19 17:01:18: account_getAccount.api - 0.051961898803711
+2021-01-19 17:01:18: cart_getShoppingCartDetailsByToken.api - 0.040518999099731
+2021-01-19 17:01:18: shipping_getDistrictList.api - 0.025212049484253
+2021-01-19 17:01:18: shipping_getDistrictList.api - 0.024026870727539
+2021-01-19 17:01:18: shipping_getWardList.api - 0.035337924957275
+2021-01-19 17:01:19: shipping_getWardList.api - 1.2091300487518
+2021-01-19 17:01:19: cart_countShoppingCartDetailsByToken.api - 0.031735897064209
+2021-01-19 17:01:19: content_getSitemapList.api - 0.057440996170044
+------------https://www.gbmaster.com/gbshop/ajax/updateshippingmethodfee.gbe?provincecode=P79&districtcode=D760&wardcode=W26734------------
+2021-01-19 17:01:20: content_getConfigList.api - 0.029340028762817
+2021-01-19 17:01:20: shipping_getShippingMethodFee.api - 0.057698965072632
+------------https://www.gbmaster.com/gbshop/ajax/updateward.gbe?provincecode=P79&districtcode=D762------------
+2021-01-19 17:01:25: content_getConfigList.api - 0.073590040206909
+2021-01-19 17:01:25: shipping_getWardList.api - 0.15810608863831
+------------https://www.gbmaster.com/gbshop/ajax/updateward.gbe?provincecode=P79&districtcode=D762------------
+2021-01-19 17:01:25: content_getConfigList.api - 0.028321981430054
+2021-01-19 17:01:26: shipping_getWardList.api - 0.14520192146301
+------------https://www.gbmaster.com/gbshop/ajax/updateshippingmethodfee.gbe?provincecode=P79&districtcode=D762&wardcode=W26794------------
+2021-01-19 17:01:26: content_getConfigList.api - 0.027891874313354
+2021-01-19 17:01:26: shipping_getShippingMethodFee.api - 0.051427125930786
+------------https://www.gbmaster.com/gbshop/ajax/updateshippingmethodfee.gbe?provincecode=P79&districtcode=D762&wardcode=W26794------------
+2021-01-19 17:01:26: content_getConfigList.api - 0.028552055358887
+2021-01-19 17:01:26: shipping_getShippingMethodFee.api - 0.053761005401611
+------------https://www.gbmaster.com/gbshop/ajax/updateshippingmethodfee.gbe?provincecode=P79&districtcode=D762&wardcode=W26803------------
+2021-01-19 17:01:27: content_getConfigList.api - 0.031455993652344
+2021-01-19 17:01:27: shipping_getShippingMethodFee.api - 0.056715965270996
+------------https://www.gbmaster.com/gbshop/ajax/updateshippingmethodfee.gbe?provincecode=P79&districtcode=D762&wardcode=W26803------------
+2021-01-19 17:01:27: content_getConfigList.api - 0.027639865875244
+2021-01-19 17:01:27: shipping_getShippingMethodFee.api - 0.051383018493652
+------------https://www.gbmaster.com/gbshop/shoppingcart/shipping.gbe------------
+2021-01-19 17:01:33: content_getConfigList.api - 0.032126903533936
+2021-01-19 17:01:33: shipping_getProvinceList.api - 0.031363010406494
+2021-01-19 17:01:33: shipping_getDistrictList.api - 0.028881072998047
+2021-01-19 17:01:33: shipping_getWardList.api - 0.041547060012817
+2021-01-19 17:01:33: account_getAccount.api - 0.024415016174316
+2021-01-19 17:01:33: cart_getShoppingCartDetailsByToken.api - 0.040856122970581
+2021-01-19 17:01:33: shipping_getDistrictList.api - 0.027378082275391
+2021-01-19 17:01:33: shipping_getDistrictList.api - 0.033432006835938
+2021-01-19 17:01:33: shipping_getWardList.api - 0.039155960083008
+2021-01-19 17:01:33: shipping_getWardList.api - 0.047654867172241
+2021-01-19 17:01:33: cart_countShoppingCartDetailsByToken.api - 0.030203104019165
+2021-01-19 17:01:33: content_getSitemapList.api - 0.029825210571289
+------------https://www.gbmaster.com/gbshop/ajax/updateshippingmethodfee.gbe?provincecode=P79&districtcode=D760&wardcode=W26734------------
+2021-01-19 17:01:33: content_getConfigList.api - 0.029239892959595
+2021-01-19 17:01:34: shipping_getShippingMethodFee.api - 0.056971073150635
+------------https://www.gbmaster.com/gbshop/ajax/updateward.gbe?provincecode=P79&districtcode=D762------------
+2021-01-19 17:01:38: content_getConfigList.api - 0.037616968154907
+2021-01-19 17:01:38: shipping_getWardList.api - 0.062556028366089
+------------https://www.gbmaster.com/gbshop/ajax/updateshippingmethodfee.gbe?provincecode=P79&districtcode=D762&wardcode=W26794------------
+2021-01-19 17:01:38: content_getConfigList.api - 0.022975921630859
+2021-01-19 17:01:38: shipping_getShippingMethodFee.api - 0.054428100585938
+------------https://www.gbmaster.com/gbshop/ajax/updateshippingmethodfee.gbe?provincecode=P79&districtcode=D762&wardcode=W26800------------
+2021-01-19 17:01:39: content_getConfigList.api - 0.032289028167725
+2021-01-19 17:01:39: shipping_getShippingMethodFee.api - 0.053410053253174
+------------https://www.gbmaster.com/gbshop/ajax/updatedistrict.gbe?provincecode=P79------------
+2021-01-19 17:01:55: content_getConfigList.api - 0.06929087638855
+2021-01-19 17:01:55: shipping_getDistrictList.api - 0.031092882156372
+------------https://www.gbmaster.com/gbshop/ajax/updateward.gbe?provincecode=P79&districtcode=D760------------
+2021-01-19 17:01:55: content_getConfigList.api - 0.025676965713501
+2021-01-19 17:01:56: shipping_getWardList.api - 0.046692132949829
+------------https://www.gbmaster.com/gbshop/ajax/updateshippingmethodfee.gbe?provincecode=P79&districtcode=D760&wardcode=W26734------------
+2021-01-19 17:01:56: content_getConfigList.api - 0.028057098388672
+2021-01-19 17:01:56: shipping_getShippingMethodFee.api - 0.064550876617432
+------------https://www.gbmaster.com/gbshop/ajax/updateward.gbe?provincecode=P79&districtcode=D760------------
+2021-01-19 17:01:56: content_getConfigList.api - 0.042129993438721
+2021-01-19 17:01:56: shipping_getWardList.api - 0.042584896087646
+------------https://www.gbmaster.com/gbshop/ajax/updateshippingmethodfee.gbe?provincecode=P79&districtcode=D760&wardcode=W26734------------
+2021-01-19 17:01:56: content_getConfigList.api - 0.024873971939087
+2021-01-19 17:01:56: shipping_getShippingMethodFee.api - 0.058973789215088
+------------https://www.gbmaster.com/gbshop/ajax/updateshippingmethodfee.gbe?provincecode=P79&districtcode=D760&wardcode=W26734------------
+2021-01-19 17:01:56: content_getConfigList.api - 0.029472827911377
+2021-01-19 17:01:56: shipping_getShippingMethodFee.api - 0.06006908416748
+------------https://www.gbmaster.com/gbshop/ajax/submitFormShipping.gbe------------
+2021-01-19 17:02:23: content_getConfigList.api - 0.96212196350098
+2021-01-19 17:02:23: cart_updateInformation.api - 0.377121925354
+------------https://www.gbmaster.com/gbshop/shoppingcart/cart_payment.gbe------------
+2021-01-19 17:02:24: content_getConfigList.api - 0.94288015365601
+2021-01-19 17:02:24: cart_countShoppingCartDetailsByToken.api - 0.031374216079712
+2021-01-19 17:02:25: content_getSitemapList.api - 0.026623010635376
+2021-01-19 17:02:25: cart_getShoppingCartDetailsByToken.api - 0.042602062225342
+------------https://www.gbmaster.com/gbshop/ajax/createOrderByCart.gbe------------
+2021-01-19 17:02:28: content_getConfigList.api - 0.036645889282227
+2021-01-19 17:02:28: order_createOrderBasedOnCart.api - 0.096750020980835
+------------https://www.gbmaster.com/gbshop/shoppingcart/thankyou.gbe?ordertoken=RGRwpXTbIN5IVwz+jHB8PMkAKm+y15tDLscPK5x9/oc=------------
+2021-01-19 17:02:33: content_getConfigList.api - 0.1507830619812
+2021-01-19 17:02:33: order_getOrderDetailByToken.api - 0.051966905593872
+2021-01-19 17:02:33: cart_countShoppingCartDetailsByToken.api - 0.030850887298584
+2021-01-19 17:02:33: content_getSitemapList.api - 0.029611110687256
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 17:03:12: content_getConfigList.api - 0.048142194747925
+2021-01-19 17:03:12: media_getMediaDetail.api - 0.042449951171875
+2021-01-19 17:03:12: cart_countShoppingCartDetailsByToken.api - 0.032768964767456
+2021-01-19 17:03:12: content_getSitemapList.api - 0.03731107711792
+2021-01-19 17:03:12: product_getProductByTag.api - 0.055989027023315
+2021-01-19 17:03:12: product_getProductList.api - 0.033569097518921
+2021-01-19 17:03:12: product_getProductList.api - 0.12248587608337
+2021-01-19 17:03:13: product_getProductByTag.api - 0.06403112411499
+------------https://www.gbmaster.com/gbuser/login.gbe------------
+2021-01-19 17:03:27: content_getConfigList.api - 0.032618999481201
+2021-01-19 17:03:27: cart_countShoppingCartDetailsByToken.api - 0.023653984069824
+2021-01-19 17:03:27: content_getSitemapList.api - 0.02377986907959
+------------https://www.gbmaster.com/gbuser/ajax/login.gbe------------
+2021-01-19 17:03:35: content_getConfigList.api - 0.045529127120972
+2021-01-19 17:03:35: common_login.api - 0.022645950317383
+------------https://www.gbmaster.com/gbuser/login.gbe------------
+2021-01-19 17:03:35: content_getConfigList.api - 0.026660203933716
+2021-01-19 17:03:35: cart_countShoppingCartDetailsByToken.api - 0.022850036621094
+2021-01-19 17:03:35: content_getSitemapList.api - 0.029716968536377
+------------https://www.gbmaster.com/------------
+2021-01-19 17:03:35: content_getConfigList.api - 0.025551080703735
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 17:03:35: content_getConfigList.api - 0.04679799079895
+2021-01-19 17:03:36: media_getMediaDetail.api - 0.026312112808228
+2021-01-19 17:03:36: cart_countShoppingCartDetailsByToken.api - 0.029644012451172
+2021-01-19 17:03:36: content_getSitemapList.api - 0.032437086105347
+2021-01-19 17:03:36: product_getProductByTag.api - 0.041175842285156
+2021-01-19 17:03:36: product_getProductList.api - 0.031841993331909
+2021-01-19 17:03:36: product_getProductList.api - 0.12502098083496
+2021-01-19 17:03:36: product_getProductByTag.api - 0.04323410987854
+------------https://www.gbmaster.com/gbuser/account/profile.gbe------------
+2021-01-19 17:03:38: content_getConfigList.api - 0.026313066482544
+2021-01-19 17:03:38: account_getAccount.api - 0.048211097717285
+2021-01-19 17:03:38: cart_countShoppingCartDetailsByToken.api - 0.027956008911133
+2021-01-19 17:03:38: content_getSitemapList.api - 0.030533075332642
+------------https://www.gbmaster.com/gbuser/account/order.gbe------------
+2021-01-19 17:03:40: content_getConfigList.api - 0.11609387397766
+2021-01-19 17:03:41: order_getOrderListByAccount.api - 1.2803771495819
+2021-01-19 17:03:41: cart_countShoppingCartDetailsByToken.api - 0.030061006546021
+2021-01-19 17:03:41: content_getSitemapList.api - 0.027179002761841
+------------https://www.gbmaster.com/gbuser/account/orderdetail.gbe?ordercode=HD00323------------
+2021-01-19 17:03:42: content_getConfigList.api - 0.024632215499878
+2021-01-19 17:03:42: order_getOrderDetail.api - 0.045330047607422
+2021-01-19 17:03:42: cart_countShoppingCartDetailsByToken.api - 0.032414197921753
+2021-01-19 17:03:42: content_getSitemapList.api - 0.029664993286133
+------------https://www.gbmaster.com/ve-goodpharma.html------------
+2021-01-19 17:11:39: content_getConfigList.api - 0.34022998809814
+2021-01-19 17:11:39: media_getMediaDetail.api - 0.050788164138794
+2021-01-19 17:11:39: cart_countShoppingCartDetailsByToken.api - 0.028257131576538
+2021-01-19 17:11:39: content_getSitemapList.api - 0.039803028106689
+------------https://www.gbmaster.com/ve-goodpharma.html------------
+2021-01-19 17:12:14: content_getConfigList.api - 0.3546679019928
+2021-01-19 17:12:14: media_getMediaDetail.api - 0.041367053985596
+2021-01-19 17:12:14: cart_countShoppingCartDetailsByToken.api - 0.25114393234253
+2021-01-19 17:12:14: content_getSitemapList.api - 0.047293186187744
+------------https://www.gbmaster.com/ve-goodpharma.html------------
+2021-01-19 17:17:36: content_getConfigList.api - 0.039973020553589
+2021-01-19 17:17:36: media_getMediaDetail.api - 0.024773836135864
+2021-01-19 17:17:36: cart_countShoppingCartDetailsByToken.api - 0.028167963027954
+2021-01-19 17:17:36: content_getSitemapList.api - 0.030596971511841
+------------https://www.gbmaster.com/ve-goodpharma.html------------
+2021-01-19 17:17:52: content_getConfigList.api - 0.02208399772644
+2021-01-19 17:17:53: media_getMediaDetail.api - 0.029222965240479
+2021-01-19 17:17:53: cart_countShoppingCartDetailsByToken.api - 0.034040212631226
+2021-01-19 17:17:53: content_getSitemapList.api - 0.04066801071167
+------------https://www.gbmaster.com/ve-goodpharma.html------------
+2021-01-19 17:18:04: content_getConfigList.api - 0.051244974136353
+2021-01-19 17:18:09: media_getMediaDetail.api - 4.5392138957977
+2021-01-19 17:18:09: cart_countShoppingCartDetailsByToken.api - 0.032428026199341
+2021-01-19 17:18:09: content_getSitemapList.api - 0.044675827026367
+------------https://www.gbmaster.com/benh-thuong-gap.html------------
+2021-01-19 17:18:16: content_getConfigList.api - 0.053192853927612
+2021-01-19 17:18:16: content_getCategoryList.api - 0.024514198303223
+2021-01-19 17:18:16: content_getPostList.api - 0.042682886123657
+2021-01-19 17:18:16: cart_countShoppingCartDetailsByToken.api - 0.020765066146851
+2021-01-19 17:18:16: content_getSitemapList.api - 0.023412942886353
+------------https://www.gbmaster.com/nhung-thuc-pham-nen-tranh-khi-bi-loang-xuong.html------------
+2021-01-19 17:18:18: content_getConfigList.api - 0.030194044113159
+2021-01-19 17:18:18: content_getPostList.api - 0.056367158889771
+2021-01-19 17:18:18: content_getPostDetail.api - 0.027118921279907
+2021-01-19 17:18:18: Array - 0.022763013839722
+2021-01-19 17:18:18: cart_countShoppingCartDetailsByToken.api - 0.027704000473022
+2021-01-19 17:18:19: content_getSitemapList.api - 0.031028032302856
+------------https://www.gbmaster.com/nhung-thuc-pham-nen-tranh-khi-bi-loang-xuong.html------------
+2021-01-19 17:18:51: content_getConfigList.api - 0.052160978317261
+2021-01-19 17:18:51: content_getPostList.api - 0.084084033966064
+2021-01-19 17:18:51: content_getPostDetail.api - 0.031432867050171
+2021-01-19 17:18:52: Array - 0.027935981750488
+2021-01-19 17:18:52: cart_countShoppingCartDetailsByToken.api - 0.025863885879517
+2021-01-19 17:18:52: content_getSitemapList.api - 0.027779102325439
+------------https://www.gbmaster.com/nhung-thuc-pham-nen-tranh-khi-bi-loang-xuong.html------------
+2021-01-19 17:20:39: content_getConfigList.api - 0.039791107177734
+2021-01-19 17:20:39: content_getPostList.api - 0.097630023956299
+2021-01-19 17:20:39: content_getPostDetail.api - 0.034209012985229
+2021-01-19 17:20:39: Array - 0.022852897644043
+2021-01-19 17:20:39: cart_countShoppingCartDetailsByToken.api - 0.037431001663208
+2021-01-19 17:20:39: content_getSitemapList.api - 0.035987854003906
+------------https://www.gbmaster.com/nhung-thuc-pham-nen-tranh-khi-bi-loang-xuong.html------------
+2021-01-19 17:21:12: content_getConfigList.api - 0.26723194122314
+2021-01-19 17:21:12: content_getPostList.api - 0.1144847869873
+2021-01-19 17:21:12: content_getPostDetail.api - 0.038558959960938
+2021-01-19 17:21:12: Array - 0.028645992279053
+2021-01-19 17:21:12: cart_countShoppingCartDetailsByToken.api - 0.038605213165283
+2021-01-19 17:21:12: content_getSitemapList.api - 0.034708023071289
+------------https://www.gbmaster.com/benh-thuong-gap.html------------
+2021-01-19 17:21:24: content_getConfigList.api - 0.032970905303955
+2021-01-19 17:21:24: content_getCategoryList.api - 0.036240816116333
+2021-01-19 17:21:24: content_getPostList.api - 0.046450138092041
+2021-01-19 17:21:24: cart_countShoppingCartDetailsByToken.api - 0.034176826477051
+2021-01-19 17:21:24: content_getSitemapList.api - 0.044013977050781
+------------https://www.gbmaster.com/blog.html------------
+2021-01-19 17:21:26: content_getConfigList.api - 0.030143976211548
+2021-01-19 17:21:26: content_getCategoryList.api - 0.035049200057983
+2021-01-19 17:21:27: content_getPostList.api - 0.12670993804932
+2021-01-19 17:21:27: cart_countShoppingCartDetailsByToken.api - 0.023145914077759
+2021-01-19 17:21:27: content_getSitemapList.api - 0.028113126754761
+------------https://www.gbmaster.com/muoi-voi-suc-khoe-va-benh-tat-con-nguoi.html------------
+2021-01-19 17:21:28: content_getConfigList.api - 0.02341890335083
+2021-01-19 17:21:29: content_getPostList.api - 0.3560311794281
+2021-01-19 17:21:29: content_getPostDetail.api - 0.041052103042603
+2021-01-19 17:21:29: Array - 0.024838924407959
+2021-01-19 17:21:29: cart_countShoppingCartDetailsByToken.api - 0.024225950241089
+2021-01-19 17:21:29: content_getSitemapList.api - 0.02885103225708
+------------https://www.gbmaster.com/muoi-voi-suc-khoe-va-benh-tat-con-nguoi.html------------
+2021-01-19 17:21:31: content_getConfigList.api - 0.097845077514648
+2021-01-19 17:21:32: content_getPostList.api - 0.69355297088623
+2021-01-19 17:21:32: content_getPostDetail.api - 0.057919025421143
+2021-01-19 17:21:32: Array - 0.024682998657227
+2021-01-19 17:21:32: cart_countShoppingCartDetailsByToken.api - 0.02549409866333
+2021-01-19 17:21:32: content_getSitemapList.api - 0.031950950622559
+------------https://www.gbmaster.com/ve-goodpharma.html------------
+2021-01-19 17:23:38: content_getConfigList.api - 0.038311004638672
+2021-01-19 17:23:39: media_getMediaDetail.api - 0.32553291320801
+2021-01-19 17:23:39: cart_countShoppingCartDetailsByToken.api - 0.024827003479004
+2021-01-19 17:23:39: content_getSitemapList.api - 0.075550079345703
+------------https://www.gbmaster.com/faqs.html------------
+2021-01-19 17:23:41: content_getConfigList.api - 0.026326894760132
+2021-01-19 17:23:42: media_getMediaDetail.api - 0.032709836959839
+2021-01-19 17:23:42: cart_countShoppingCartDetailsByToken.api - 0.030432224273682
+2021-01-19 17:23:42: content_getSitemapList.api - 0.031422138214111
+------------https://www.gbmaster.com/chinh-sach-giao-hang.html------------
+2021-01-19 17:23:43: content_getConfigList.api - 0.2386519908905
+2021-01-19 17:23:43: media_getMediaDetail.api - 0.04218602180481
+2021-01-19 17:23:44: cart_countShoppingCartDetailsByToken.api - 0.14864706993103
+2021-01-19 17:23:44: content_getSitemapList.api - 0.034526824951172
+------------https://www.gbmaster.com/blog.html------------
+2021-01-19 17:23:45: content_getConfigList.api - 0.025954008102417
+2021-01-19 17:23:45: content_getCategoryList.api - 0.032006978988647
+2021-01-19 17:23:45: content_getPostList.api - 0.071131944656372
+2021-01-19 17:23:45: cart_countShoppingCartDetailsByToken.api - 0.024547100067139
+2021-01-19 17:23:45: content_getSitemapList.api - 0.02722692489624
+------------https://www.gbmaster.com/muoi-voi-suc-khoe-va-benh-tat-con-nguoi.html------------
+2021-01-19 17:23:47: content_getConfigList.api - 0.036520957946777
+2021-01-19 17:23:47: content_getPostList.api - 0.097131967544556
+2021-01-19 17:23:47: content_getPostDetail.api - 0.068444967269897
+2021-01-19 17:23:48: Array - 0.029788017272949
+2021-01-19 17:23:48: cart_countShoppingCartDetailsByToken.api - 0.031322956085205
+2021-01-19 17:23:48: content_getSitemapList.api - 0.028348922729492
+------------https://www.gbmaster.com/muoi-voi-suc-khoe-va-benh-tat-con-nguoi.html------------
+2021-01-19 17:23:49: content_getConfigList.api - 0.022621870040894
+2021-01-19 17:23:49: content_getPostList.api - 0.077373027801514
+2021-01-19 17:23:50: content_getPostDetail.api - 0.12155890464783
+2021-01-19 17:23:50: Array - 0.027806997299194
+2021-01-19 17:23:50: cart_countShoppingCartDetailsByToken.api - 0.031101942062378
+2021-01-19 17:23:50: content_getSitemapList.api - 0.032730102539062
+------------https://www.gbmaster.com/nhung-thuc-pham-nen-tranh-khi-bi-loang-xuong.html------------
+2021-01-19 17:23:59: content_getConfigList.api - 0.0328209400177
+2021-01-19 17:23:59: content_getPostList.api - 0.085136890411377
+2021-01-19 17:23:59: content_getPostDetail.api - 0.30683207511902
+2021-01-19 17:23:59: Array - 0.026257038116455
+2021-01-19 17:23:59: cart_countShoppingCartDetailsByToken.api - 0.028269052505493
+2021-01-19 17:23:59: content_getSitemapList.api - 0.03285813331604
+------------https://www.gbmaster.com/nhung-thuc-pham-nen-tranh-khi-bi-loang-xuong.html------------
+2021-01-19 17:27:30: content_getConfigList.api - 0.3497359752655
+2021-01-19 17:27:30: content_getPostList.api - 0.075448989868164
+2021-01-19 17:27:30: content_getPostDetail.api - 0.028465986251831
+2021-01-19 17:27:30: Array - 0.027250051498413
+2021-01-19 17:27:30: cart_countShoppingCartDetailsByToken.api - 0.023869037628174
+2021-01-19 17:27:30: content_getSitemapList.api - 0.026424169540405
+------------https://www.gbmaster.com/nhung-thuc-pham-nen-tranh-khi-bi-loang-xuong.html------------
+2021-01-19 17:27:47: content_getConfigList.api - 0.028810977935791
+2021-01-19 17:27:47: content_getPostList.api - 0.48085498809814
+2021-01-19 17:27:48: content_getPostDetail.api - 0.45385384559631
+2021-01-19 17:27:48: Array - 0.042787790298462
+2021-01-19 17:27:48: cart_countShoppingCartDetailsByToken.api - 0.028424978256226
+2021-01-19 17:27:48: content_getSitemapList.api - 0.035550832748413
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 17:27:53: content_getConfigList.api - 0.027642011642456
+2021-01-19 17:27:53: media_getMediaDetail.api - 0.031538009643555
+2021-01-19 17:27:53: cart_countShoppingCartDetailsByToken.api - 0.0365149974823
+2021-01-19 17:27:53: content_getSitemapList.api - 0.029743909835815
+2021-01-19 17:27:53: product_getProductByTag.api - 0.072947025299072
+2021-01-19 17:27:53: product_getProductList.api - 0.038021087646484
+2021-01-19 17:27:53: product_getProductList.api - 0.15549993515015
+2021-01-19 17:27:53: product_getProductByTag.api - 0.066540956497192
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-19 17:28:01: content_getConfigList.api - 0.031686067581177
+2021-01-19 17:28:01: media_getMediaDetail.api - 0.022187948226929
+2021-01-19 17:28:01: cart_countShoppingCartDetailsByToken.api - 0.022408962249756
+2021-01-19 17:28:01: content_getSitemapList.api - 0.026446104049683
+------------https://www.gbmaster.com/gbuser/account/profile.gbe------------
+2021-01-19 17:40:30: content_getConfigList.api - 0.094216108322144
+2021-01-19 17:40:31: account_getAccount.api - 0.046995878219604
+2021-01-19 17:40:31: cart_countShoppingCartDetailsByToken.api - 0.031191110610962
+2021-01-19 17:40:31: content_getSitemapList.api - 0.036072015762329
+------------https://www.gbmaster.com/gbuser/account/order.gbe------------
+2021-01-19 17:40:33: content_getConfigList.api - 0.023273944854736
+2021-01-19 17:40:33: order_getOrderListByAccount.api - 0.7980170249939
+2021-01-19 17:40:33: cart_countShoppingCartDetailsByToken.api - 0.026597023010254
+2021-01-19 17:40:33: content_getSitemapList.api - 0.034250020980835
+------------https://www.gbmaster.com/gbuser/account/orderdetail.gbe?ordercode=HD00323------------
+2021-01-19 17:40:37: content_getConfigList.api - 0.27261996269226
+2021-01-19 17:40:37: order_getOrderDetail.api - 0.048685073852539
+2021-01-19 17:40:37: cart_countShoppingCartDetailsByToken.api - 0.028974056243896
+2021-01-19 17:40:37: content_getSitemapList.api - 0.024296998977661
+------------https://www.gbmaster.com/gbuser/ajax/logout.gbe------------
+2021-01-19 17:41:24: content_getConfigList.api - 0.03371000289917
+------------https://www.gbmaster.com/------------
+2021-01-19 17:41:24: content_getConfigList.api - 0.023725032806396
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 17:41:24: content_getConfigList.api - 0.023382186889648
+2021-01-19 17:41:24: media_getMediaDetail.api - 0.028882026672363
+2021-01-19 17:41:24: cart_countShoppingCartDetailsByToken.api - 0.029478073120117
+2021-01-19 17:41:24: content_getSitemapList.api - 0.026293992996216
+2021-01-19 17:41:24: product_getProductByTag.api - 0.04631495475769
+2021-01-19 17:41:24: product_getProductList.api - 0.034735918045044
+2021-01-19 17:41:25: product_getProductList.api - 0.8414318561554
+2021-01-19 17:41:25: product_getProductByTag.api - 0.040416955947876
+------------https://www.gbmaster.com/thuoc-khang-di-ung.html------------
+2021-01-19 17:41:38: content_getConfigList.api - 0.025382041931152
+2021-01-19 17:41:38: category_getCategoryList.api - 0.032416105270386
+2021-01-19 17:41:38: product_getProductList.api - 0.060916900634766
+2021-01-19 17:41:38: manufacturer_getManufacturerList.api - 0.049653053283691
+2021-01-19 17:41:38: product_getProductMinMax.api - 0.02302885055542
+2021-01-19 17:41:38: cart_countShoppingCartDetailsByToken.api - 0.031162023544312
+2021-01-19 17:41:38: content_getSitemapList.api - 0.030343055725098
+------------https://www.gbmaster.com/gbshop/ajax/addMoreProductToCart.gbe------------
+2021-01-19 17:41:41: content_getConfigList.api - 0.034504890441895
+2021-01-19 17:41:41: cart_addMoreProductToShoppingCart.api - 0.30976486206055
+------------https://www.gbmaster.com/gbshop/ajax/addMoreProductToCart.gbe------------
+2021-01-19 17:41:42: content_getConfigList.api - 0.035356998443604
+2021-01-19 17:41:42: cart_addMoreProductToShoppingCart.api - 0.61584782600403
+------------https://www.gbmaster.com/gbshop/ajax/addMoreProductToCart.gbe------------
+2021-01-19 17:41:44: content_getConfigList.api - 0.030296802520752
+2021-01-19 17:41:45: cart_addMoreProductToShoppingCart.api - 0.53138303756714
+------------https://www.gbmaster.com/gbcms/search.gbe------------
+2021-01-19 17:41:58: content_getConfigList.api - 0.024852991104126
+2021-01-19 17:41:58: content_search.api - 0.035246849060059
+2021-01-19 17:41:59: cart_countShoppingCartDetailsByToken.api - 0.030791997909546
+2021-01-19 17:41:59: content_getSitemapList.api - 0.035134077072144
+------------https://www.gbmaster.com/telfast-hd-180mg-1-v-x-10-vien-h-p.html------------
+2021-01-19 17:42:02: content_getConfigList.api - 0.026745080947876
+2021-01-19 17:42:02: product_getProductDetail.api - 0.026952028274536
+2021-01-19 17:42:02: product_getImageOption.api - 0.023049116134644
+2021-01-19 17:42:02: product_getProductList.api - 0.097995042800903
+2021-01-19 17:42:02: cart_countShoppingCartDetailsByToken.api - 0.034003973007202
+2021-01-19 17:42:02: content_getSitemapList.api - 0.030729055404663
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 17:42:16: content_getConfigList.api - 0.045207023620605
+2021-01-19 17:42:16: media_getMediaDetail.api - 0.030447959899902
+2021-01-19 17:42:16: cart_countShoppingCartDetailsByToken.api - 0.028716087341309
+2021-01-19 17:42:16: content_getSitemapList.api - 0.078829050064087
+2021-01-19 17:42:16: product_getProductByTag.api - 0.11505007743835
+2021-01-19 17:42:16: product_getProductList.api - 0.043745040893555
+2021-01-19 17:42:17: product_getProductList.api - 0.15643215179443
+2021-01-19 17:42:17: product_getProductByTag.api - 0.086361885070801
+------------https://www.gbmaster.com/gbshop/shoppingcart/cart.gbe------------
+2021-01-19 17:42:17: content_getConfigList.api - 0.030700206756592
+2021-01-19 17:42:17: cart_getShoppingCartDetailsByToken.api - 0.047588109970093
+2021-01-19 17:42:17: cart_countShoppingCartDetailsByToken.api - 0.048320055007935
+2021-01-19 17:42:18: content_getSitemapList.api - 0.083405017852783
+------------https://www.gbmaster.com/gbshop/ajax/login.gbe------------
+2021-01-19 17:42:35: content_getConfigList.api - 0.036546945571899
+2021-01-19 17:42:36: common_login.api - 0.037821054458618
+------------https://www.gbmaster.com/gbshop/shoppingcart/cart.gbe------------
+2021-01-19 17:42:36: content_getConfigList.api - 0.032970905303955
+2021-01-19 17:42:36: cart_getShoppingCartDetailsByToken.api - 0.06045389175415
+2021-01-19 17:42:36: cart_countShoppingCartDetailsByToken.api - 0.026194095611572
+2021-01-19 17:42:36: content_getSitemapList.api - 0.035599946975708
+------------https://www.gbmaster.com/gbshop/shoppingcart/shipping.gbe------------
+2021-01-19 17:42:39: content_getConfigList.api - 0.3147988319397
+2021-01-19 17:42:39: shipping_getProvinceList.api - 0.033960103988647
+2021-01-19 17:42:39: shipping_getDistrictList.api - 0.034363985061646
+2021-01-19 17:42:39: shipping_getWardList.api - 0.048754930496216
+2021-01-19 17:42:40: account_getAccount.api - 0.3475821018219
+2021-01-19 17:42:40: cart_getShoppingCartDetailsByToken.api - 0.052670001983643
+2021-01-19 17:42:40: shipping_getDistrictList.api - 0.029053926467896
+2021-01-19 17:42:40: shipping_getDistrictList.api - 0.023324966430664
+2021-01-19 17:42:40: shipping_getWardList.api - 0.036468029022217
+2021-01-19 17:42:40: shipping_getWardList.api - 0.044364929199219
+2021-01-19 17:42:40: cart_countShoppingCartDetailsByToken.api - 0.027138948440552
+2021-01-19 17:42:40: content_getSitemapList.api - 0.028104066848755
+------------https://www.gbmaster.com/gbshop/ajax/updateshippingmethodfee.gbe?provincecode=P79&districtcode=D760&wardcode=W26734------------
+2021-01-19 17:42:40: content_getConfigList.api - 0.095489025115967
+2021-01-19 17:42:40: shipping_getShippingMethodFee.api - 0.054943084716797
+------------https://www.gbmaster.com/gbshop/ajax/submitFormShipping.gbe------------
+2021-01-19 17:42:44: content_getConfigList.api - 0.030272006988525
+2021-01-19 17:42:44: cart_updateInformation.api - 0.03952693939209
+------------https://www.gbmaster.com/gbshop/shoppingcart/cart_payment.gbe------------
+2021-01-19 17:42:44: content_getConfigList.api - 0.029155969619751
+2021-01-19 17:42:44: cart_countShoppingCartDetailsByToken.api - 0.032079935073853
+2021-01-19 17:42:44: content_getSitemapList.api - 0.028104066848755
+2021-01-19 17:42:44: cart_getShoppingCartDetailsByToken.api - 0.037529945373535
+------------https://www.gbmaster.com/gbshop/ajax/createOrderByCart.gbe------------
+2021-01-19 17:42:49: content_getConfigList.api - 0.16580009460449
+2021-01-19 17:42:49: order_createOrderBasedOnCart.api - 0.10358190536499
+------------https://www.gbmaster.com/gbshop/shoppingcart/thankyou.gbe?ordertoken=HKTxR6MJt2dj6rOYDeoQSg+d9ZOORyMWkUP+juh6V5c=------------
+2021-01-19 17:42:54: content_getConfigList.api - 0.03531289100647
+2021-01-19 17:42:54: order_getOrderDetailByToken.api - 0.044787883758545
+2021-01-19 17:42:54: cart_countShoppingCartDetailsByToken.api - 0.021683931350708
+2021-01-19 17:42:54: content_getSitemapList.api - 0.029626846313477
+------------https://www.gbmaster.com/gbuser/account/profile.gbe------------
+2021-01-19 17:43:45: content_getConfigList.api - 0.035760164260864
+2021-01-19 17:43:45: account_getAccount.api - 0.051278114318848
+2021-01-19 17:43:45: cart_countShoppingCartDetailsByToken.api - 0.029371976852417
+2021-01-19 17:43:45: content_getSitemapList.api - 0.03619384765625
+------------https://www.gbmaster.com/gbuser/account/order.gbe------------
+2021-01-19 17:43:46: content_getConfigList.api - 0.031716108322144
+2021-01-19 17:43:48: order_getOrderListByAccount.api - 1.5481371879578
+2021-01-19 17:43:48: cart_countShoppingCartDetailsByToken.api - 0.048326015472412
+2021-01-19 17:43:48: content_getSitemapList.api - 0.35239720344543
+------------https://www.gbmaster.com/gbuser/account/order.gbe------------
+2021-01-19 17:43:52: content_getConfigList.api - 0.026359081268311
+2021-01-19 17:43:54: order_getOrderListByAccount.api - 1.4668760299683
+2021-01-19 17:43:54: cart_countShoppingCartDetailsByToken.api - 0.031730175018311
+2021-01-19 17:43:54: content_getSitemapList.api - 0.031530857086182
+------------https://www.gbmaster.com/gbshop/shoppingcart/cart.gbe------------
+2021-01-19 17:49:18: content_getConfigList.api - 0.025738000869751
+2021-01-19 17:49:18: cart_countShoppingCartDetailsByToken.api - 0.029774188995361
+2021-01-19 17:49:18: content_getSitemapList.api - 0.036885976791382
+------------https://www.gbmaster.com/gbshop/product/product_list.gbe------------
+2021-01-19 17:49:20: content_getConfigList.api - 0.027299880981445
+2021-01-19 17:49:20: category_getCategoryList.api - 0.045912981033325
+2021-01-19 17:49:20: product_getProductList.api - 0.12821006774902
+2021-01-19 17:49:21: manufacturer_getManufacturerList.api - 0.065151214599609
+2021-01-19 17:49:22: product_getProductMinMax.api - 1.5317771434784
+2021-01-19 17:49:22: cart_countShoppingCartDetailsByToken.api - 0.037377119064331
+2021-01-19 17:49:22: content_getSitemapList.api - 0.031786918640137
+------------https://www.gbmaster.com/gbshop/ajax/addMoreProductToCart.gbe------------
+2021-01-19 17:49:27: content_getConfigList.api - 0.024938821792603
+2021-01-19 17:49:27: cart_addMoreProductToShoppingCart.api - 0.29751300811768
+------------https://www.gbmaster.com/gbuser/ajax/logout.gbe------------
+2021-01-19 17:49:29: content_getConfigList.api - 0.035940170288086
+------------https://www.gbmaster.com/------------
+2021-01-19 17:49:29: content_getConfigList.api - 0.030994176864624
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 17:49:29: content_getConfigList.api - 0.03334379196167
+2021-01-19 17:49:29: media_getMediaDetail.api - 0.035856962203979
+2021-01-19 17:49:29: cart_countShoppingCartDetailsByToken.api - 0.025676965713501
+2021-01-19 17:49:29: content_getSitemapList.api - 0.036569118499756
+2021-01-19 17:49:29: product_getProductByTag.api - 0.053283929824829
+2021-01-19 17:49:29: product_getProductList.api - 0.037058115005493
+2021-01-19 17:49:29: product_getProductList.api - 0.14961194992065
+2021-01-19 17:49:29: product_getProductByTag.api - 0.051614046096802
+------------https://www.gbmaster.com/san-pham.html------------
+2021-01-19 17:49:33: content_getConfigList.api - 0.033492088317871
+2021-01-19 17:49:34: category_getCategoryList.api - 0.03180193901062
+2021-01-19 17:49:34: product_getProductList.api - 0.1211519241333
+2021-01-19 17:49:34: manufacturer_getManufacturerList.api - 0.045868158340454
+2021-01-19 17:49:34: product_getProductMinMax.api - 0.025247097015381
+2021-01-19 17:49:34: cart_countShoppingCartDetailsByToken.api - 0.022315979003906
+2021-01-19 17:49:34: content_getSitemapList.api - 0.023030996322632
+------------https://www.gbmaster.com/gbshop/ajax/addMoreProductToCart.gbe------------
+2021-01-19 17:49:36: content_getConfigList.api - 0.035717010498047
+2021-01-19 17:49:36: cart_addMoreProductToShoppingCart.api - 0.28409910202026
+------------https://www.gbmaster.com/gbshop/shoppingcart/cart.gbe------------
+2021-01-19 17:49:38: content_getConfigList.api - 0.050682783126831
+2021-01-19 17:49:38: cart_getShoppingCartDetailsByToken.api - 0.053879022598267
+2021-01-19 17:49:38: cart_countShoppingCartDetailsByToken.api - 0.030797958374023
+2021-01-19 17:49:38: content_getSitemapList.api - 0.039588212966919
+------------https://www.gbmaster.com/gbshop/ajax/login.gbe------------
+2021-01-19 17:49:49: content_getConfigList.api - 0.033963918685913
+2021-01-19 17:49:49: common_login.api - 0.035017013549805
+------------https://www.gbmaster.com/gbshop/shoppingcart/cart.gbe------------
+2021-01-19 17:49:49: content_getConfigList.api - 0.027513027191162
+2021-01-19 17:49:49: cart_getShoppingCartDetailsByToken.api - 0.039277791976929
+2021-01-19 17:49:49: cart_countShoppingCartDetailsByToken.api - 0.02447509765625
+2021-01-19 17:49:49: content_getSitemapList.api - 0.023130893707275
+------------https://www.gbmaster.com/gbuser/ajax/logout.gbe------------
+2021-01-19 17:54:03: content_getConfigList.api - 0.037182807922363
+------------https://www.gbmaster.com/------------
+2021-01-19 17:54:04: content_getConfigList.api - 0.071529150009155
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 17:54:04: content_getConfigList.api - 0.040280103683472
+2021-01-19 17:54:04: media_getMediaDetail.api - 0.024072885513306
+2021-01-19 17:54:04: cart_countShoppingCartDetailsByToken.api - 0.031669139862061
+2021-01-19 17:54:04: content_getSitemapList.api - 0.031556844711304
+2021-01-19 17:54:04: product_getProductByTag.api - 0.048788070678711
+2021-01-19 17:54:04: product_getProductList.api - 0.036409139633179
+2021-01-19 17:54:04: product_getProductList.api - 0.11462211608887
+2021-01-19 17:54:04: product_getProductByTag.api - 0.039008140563965
+------------https://www.gbmaster.com/gbshop/ajax/addMoreProductToCart.gbe------------
+2021-01-19 17:54:09: content_getConfigList.api - 0.026196002960205
+2021-01-19 17:54:10: cart_addMoreProductToShoppingCart.api - 0.93710613250732
+------------https://www.gbmaster.com/gbshop/shoppingcart/cart.gbe------------
+2021-01-19 17:54:11: content_getConfigList.api - 0.03012490272522
+2021-01-19 17:54:11: cart_getShoppingCartDetailsByToken.api - 0.040014028549194
+2021-01-19 17:54:11: cart_countShoppingCartDetailsByToken.api - 0.022435188293457
+2021-01-19 17:54:11: content_getSitemapList.api - 0.0363609790802
+------------https://www.gbmaster.com/gbshop/ajax/login.gbe------------
+2021-01-19 17:54:19: content_getConfigList.api - 0.048659086227417
+2021-01-19 17:54:19: common_login.api - 0.026828050613403
+------------https://www.gbmaster.com/gbshop/shoppingcart/cart.gbe------------
+2021-01-19 17:54:19: content_getConfigList.api - 0.027137041091919
+2021-01-19 17:54:19: cart_getShoppingCartDetailsByToken.api - 0.044492959976196
+2021-01-19 17:54:19: cart_countShoppingCartDetailsByToken.api - 0.03193187713623
+2021-01-19 17:54:19: content_getSitemapList.api - 0.029592037200928
+------------https://www.gbmaster.com/gbshop/shoppingcart/shipping.gbe------------
+2021-01-19 17:54:57: content_getConfigList.api - 0.049262046813965
+2021-01-19 17:54:57: shipping_getProvinceList.api - 0.025451183319092
+2021-01-19 17:54:57: shipping_getDistrictList.api - 0.024067163467407
+2021-01-19 17:54:57: shipping_getWardList.api - 0.036742925643921
+2021-01-19 17:54:57: account_getAccount.api - 0.04456901550293
+2021-01-19 17:54:57: cart_getShoppingCartDetailsByToken.api - 0.046578884124756
+2021-01-19 17:54:57: shipping_getDistrictList.api - 0.030604124069214
+2021-01-19 17:54:57: shipping_getDistrictList.api - 0.026388168334961
+2021-01-19 17:54:57: shipping_getWardList.api - 0.041615009307861
+2021-01-19 17:54:57: shipping_getWardList.api - 0.041692018508911
+2021-01-19 17:54:57: cart_countShoppingCartDetailsByToken.api - 0.029801845550537
+2021-01-19 17:54:58: content_getSitemapList.api - 0.028854846954346
+------------https://www.gbmaster.com/gbshop/ajax/updateshippingmethodfee.gbe?provincecode=P79&districtcode=D760&wardcode=W26734------------
+2021-01-19 17:54:58: content_getConfigList.api - 0.02631402015686
+2021-01-19 17:54:58: shipping_getShippingMethodFee.api - 0.059870958328247
+------------https://www.gbmaster.com/gbuser/ajax/logout.gbe------------
+2021-01-19 17:55:52: content_getConfigList.api - 1.3760919570923
+------------https://www.gbmaster.com/------------
+2021-01-19 17:55:52: content_getConfigList.api - 0.030431985855103
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 17:55:52: content_getConfigList.api - 0.029833078384399
+2021-01-19 17:55:52: media_getMediaDetail.api - 0.033667087554932
+2021-01-19 17:55:52: cart_countShoppingCartDetailsByToken.api - 0.035347938537598
+2021-01-19 17:55:52: content_getSitemapList.api - 0.038816928863525
+2021-01-19 17:55:53: product_getProductByTag.api - 1.1506748199463
+2021-01-19 17:55:53: product_getProductList.api - 0.038580894470215
+2021-01-19 17:55:53: product_getProductList.api - 0.12705993652344
+2021-01-19 17:55:53: product_getProductByTag.api - 0.044296979904175
+------------https://www.gbmaster.com/gbshop/ajax/addMoreProductToCart.gbe------------
+2021-01-19 17:55:56: content_getConfigList.api - 0.024193048477173
+2021-01-19 17:55:57: cart_addMoreProductToShoppingCart.api - 0.72912693023682
+------------https://www.gbmaster.com/gbshop/ajax/addMoreProductToCart.gbe------------
+2021-01-19 17:55:57: content_getConfigList.api - 0.043478965759277
+2021-01-19 17:55:57: cart_addMoreProductToShoppingCart.api - 0.26937699317932
+------------https://www.gbmaster.com/gbshop/shoppingcart/cart.gbe------------
+2021-01-19 17:55:59: content_getConfigList.api - 0.032560110092163
+2021-01-19 17:55:59: cart_getShoppingCartDetailsByToken.api - 0.046292066574097
+2021-01-19 17:55:59: cart_countShoppingCartDetailsByToken.api - 0.029436111450195
+2021-01-19 17:55:59: content_getSitemapList.api - 0.036034107208252
+------------https://www.gbmaster.com/gbshop/ajax/login.gbe------------
+2021-01-19 17:56:04: content_getConfigList.api - 0.033859014511108
+2021-01-19 17:56:04: common_login.api - 0.033107995986938
+------------https://www.gbmaster.com/gbshop/shoppingcart/cart.gbe------------
+2021-01-19 17:56:04: content_getConfigList.api - 0.022765159606934
+2021-01-19 17:56:04: cart_getShoppingCartDetailsByToken.api - 0.044670820236206
+2021-01-19 17:56:05: cart_countShoppingCartDetailsByToken.api - 0.025686025619507
+2021-01-19 17:56:05: content_getSitemapList.api - 0.032730102539062
+------------https://www.gbmaster.com/gbshop/shoppingcart/shipping.gbe------------
+2021-01-19 17:56:54: content_getConfigList.api - 0.028488874435425
+2021-01-19 17:56:54: shipping_getProvinceList.api - 0.03073787689209
+2021-01-19 17:56:54: shipping_getDistrictList.api - 0.036874055862427
+2021-01-19 17:56:54: shipping_getWardList.api - 0.044950008392334
+2021-01-19 17:56:54: account_getAccount.api - 0.037978887557983
+2021-01-19 17:56:54: cart_getShoppingCartDetailsByToken.api - 0.046218872070312
+2021-01-19 17:56:54: shipping_getDistrictList.api - 0.025176048278809
+2021-01-19 17:56:54: shipping_getDistrictList.api - 0.025007009506226
+2021-01-19 17:56:54: shipping_getWardList.api - 0.0417799949646
+2021-01-19 17:56:54: shipping_getWardList.api - 0.043498039245605
+2021-01-19 17:56:54: cart_countShoppingCartDetailsByToken.api - 0.030670881271362
+2021-01-19 17:56:54: content_getSitemapList.api - 0.02600884437561
+------------https://www.gbmaster.com/gbshop/ajax/updateshippingmethodfee.gbe?provincecode=P79&districtcode=D760&wardcode=W26734------------
+2021-01-19 17:56:54: content_getConfigList.api - 0.024258136749268
+2021-01-19 17:56:54: shipping_getShippingMethodFee.api - 0.063172817230225
+------------https://www.gbmaster.com/gbshop/ajax/submitFormShipping.gbe------------
+2021-01-19 17:57:24: content_getConfigList.api - 0.037166118621826
+2021-01-19 17:57:24: cart_updateInformation.api - 0.38314700126648
+------------https://www.gbmaster.com/gbshop/shoppingcart/cart_payment.gbe------------
+2021-01-19 17:57:24: content_getConfigList.api - 0.026129961013794
+2021-01-19 17:57:24: cart_countShoppingCartDetailsByToken.api - 0.03363299369812
+2021-01-19 17:57:24: content_getSitemapList.api - 0.028213024139404
+2021-01-19 17:57:25: cart_getShoppingCartDetailsByToken.api - 0.046730995178223
+------------https://www.gbmaster.com/------------
+2021-01-19 18:08:03: content_getConfigList.api - 0.039785146713257
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 18:08:03: content_getConfigList.api - 0.071791172027588
+2021-01-19 18:08:03: media_getMediaDetail.api - 0.050209999084473
+2021-01-19 18:08:03: cart_countShoppingCartDetailsByToken.api - 0.039759874343872
+2021-01-19 18:08:03: content_getSitemapList.api - 0.0329909324646
+2021-01-19 18:08:03: product_getProductByTag.api - 0.042277097702026
+2021-01-19 18:08:03: product_getProductList.api - 0.031768083572388
+2021-01-19 18:08:03: product_getProductList.api - 0.1480700969696
+2021-01-19 18:08:03: product_getProductByTag.api - 0.053912878036499
+------------https://www.gbmaster.com/thuoc-khong-ke-don.html------------
+2021-01-19 18:08:09: content_getConfigList.api - 0.047220945358276
+2021-01-19 18:08:09: category_getCategoryList.api - 0.030559062957764
+2021-01-19 18:08:09: product_getProductList.api - 0.093137979507446
+2021-01-19 18:08:09: manufacturer_getManufacturerList.api - 0.05277419090271
+2021-01-19 18:08:09: product_getProductMinMax.api - 0.029078960418701
+2021-01-19 18:08:09: cart_countShoppingCartDetailsByToken.api - 0.029603004455566
+2021-01-19 18:08:10: content_getSitemapList.api - 0.023600101470947
+------------https://www.gbmaster.com/gbshop/ajax/addMoreProductToCart.gbe------------
+2021-01-19 18:08:12: content_getConfigList.api - 0.029589891433716
+2021-01-19 18:08:13: cart_addMoreProductToShoppingCart.api - 1.1418058872223
+------------https://www.gbmaster.com/gbshop/ajax/addMoreProductToCart.gbe------------
+2021-01-19 18:08:14: content_getConfigList.api - 0.026386022567749
+2021-01-19 18:08:14: cart_addMoreProductToShoppingCart.api - 0.71376609802246
+------------https://www.gbmaster.com/gbshop/shoppingcart/cart.gbe------------
+2021-01-19 18:08:16: content_getConfigList.api - 0.037364959716797
+2021-01-19 18:08:16: cart_getShoppingCartDetailsByToken.api - 0.045040845870972
+2021-01-19 18:08:16: cart_countShoppingCartDetailsByToken.api - 0.026695013046265
+2021-01-19 18:08:16: content_getSitemapList.api - 0.035658121109009
+------------https://www.gbmaster.com/gbshop/ajax/login.gbe------------
+2021-01-19 18:08:28: content_getConfigList.api - 0.027301073074341
+2021-01-19 18:08:28: common_login.api - 0.028670072555542
+------------https://www.gbmaster.com/gbshop/shoppingcart/cart.gbe------------
+2021-01-19 18:08:28: content_getConfigList.api - 0.036028861999512
+2021-01-19 18:08:28: cart_getShoppingCartDetailsByToken.api - 0.049283981323242
+2021-01-19 18:08:28: cart_countShoppingCartDetailsByToken.api - 0.034857988357544
+2021-01-19 18:08:28: content_getSitemapList.api - 0.025057792663574
+------------https://www.gbmaster.com/gbshop/shoppingcart/shipping.gbe------------
+2021-01-19 18:08:31: content_getConfigList.api - 0.030884027481079
+2021-01-19 18:08:31: shipping_getProvinceList.api - 0.037933826446533
+2021-01-19 18:08:31: shipping_getDistrictList.api - 0.026171922683716
+2021-01-19 18:08:31: shipping_getWardList.api - 0.047537803649902
+2021-01-19 18:08:31: account_getAccount.api - 0.044108867645264
+2021-01-19 18:08:31: cart_getShoppingCartDetailsByToken.api - 0.046694040298462
+2021-01-19 18:08:31: shipping_getDistrictList.api - 0.028918027877808
+2021-01-19 18:08:31: shipping_getDistrictList.api - 0.031208038330078
+2021-01-19 18:08:31: shipping_getWardList.api - 0.037634134292603
+2021-01-19 18:08:31: shipping_getWardList.api - 0.042534112930298
+2021-01-19 18:08:31: cart_countShoppingCartDetailsByToken.api - 0.036895990371704
+2021-01-19 18:08:31: content_getSitemapList.api - 0.038528919219971
+------------https://www.gbmaster.com/gbshop/ajax/updateshippingmethodfee.gbe?provincecode=P79&districtcode=D760&wardcode=W26734------------
+2021-01-19 18:08:32: content_getConfigList.api - 0.028634071350098
+2021-01-19 18:08:32: shipping_getShippingMethodFee.api - 0.066130876541138
+------------https://www.gbmaster.com/gbshop/ajax/submitFormShipping.gbe------------
+2021-01-19 18:08:35: content_getConfigList.api - 0.029392004013062
+2021-01-19 18:08:35: cart_updateInformation.api - 0.3765070438385
+------------https://www.gbmaster.com/gbshop/shoppingcart/cart_payment.gbe------------
+2021-01-19 18:08:35: content_getConfigList.api - 0.029133081436157
+2021-01-19 18:08:35: cart_countShoppingCartDetailsByToken.api - 0.031540155410767
+2021-01-19 18:08:35: content_getSitemapList.api - 0.024772167205811
+2021-01-19 18:08:35: cart_getShoppingCartDetailsByToken.api - 0.046284198760986
+------------https://www.gbmaster.com/gbshop/ajax/createOrderByCart.gbe------------
+2021-01-19 18:08:37: content_getConfigList.api - 0.033522129058838
+2021-01-19 18:08:37: order_createOrderBasedOnCart.api - 0.1012270450592
+------------https://www.gbmaster.com/gbshop/shoppingcart/thankyou.gbe?ordertoken=CbDXAOJ2g0Qfnyr6nCdZ6LBaD5vMvI60mpyt7ldPEN0=------------
+2021-01-19 18:08:43: content_getConfigList.api - 0.034680128097534
+2021-01-19 18:08:43: order_getOrderDetailByToken.api - 0.047298908233643
+2021-01-19 18:08:43: cart_countShoppingCartDetailsByToken.api - 0.027367115020752
+2021-01-19 18:08:43: content_getSitemapList.api - 0.043396949768066
+------------https://www.gbmaster.com/------------
+2021-01-19 19:28:58: content_getConfigList.api - 0.040564060211182
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 19:28:58: content_getConfigList.api - 0.023028135299683
+2021-01-19 19:28:58: media_getMediaDetail.api - 0.028666973114014
+2021-01-19 19:28:58: cart_countShoppingCartDetailsByToken.api - 0.030554056167603
+2021-01-19 19:28:58: content_getSitemapList.api - 0.033325910568237
+2021-01-19 19:28:59: product_getProductByTag.api - 0.044178009033203
+------------https://www.gbmaster.com/gbuser/ajax/logout.gbe------------
+2021-01-19 19:32:12: content_getConfigList.api - 0.034089088439941
+------------https://www.gbmaster.com/------------
+2021-01-19 19:32:12: content_getConfigList.api - 0.026732206344604
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 19:32:12: content_getConfigList.api - 0.030071020126343
+2021-01-19 19:32:12: media_getMediaDetail.api - 0.035352945327759
+2021-01-19 19:32:12: cart_countShoppingCartDetailsByToken.api - 0.022485017776489
+2021-01-19 19:32:12: content_getSitemapList.api - 0.023751020431519
+2021-01-19 19:32:12: product_getProductByTag.api - 0.041756153106689
+2021-01-19 19:32:12: product_getProductList.api - 0.034878969192505
+2021-01-19 19:32:13: product_getProductList.api - 0.12656879425049
+2021-01-19 19:32:13: product_getProductByTag.api - 0.044609069824219
+------------https://www.gbmaster.com/gbshop/ajax/addMoreProductToCart.gbe------------
+2021-01-19 19:32:18: content_getConfigList.api - 0.026563882827759
+2021-01-19 19:32:20: cart_addMoreProductToShoppingCart.api - 1.7398011684418
+------------https://www.gbmaster.com/gbshop/ajax/addMoreProductToCart.gbe------------
+2021-01-19 19:32:20: content_getConfigList.api - 0.023519039154053
+2021-01-19 19:32:22: cart_addMoreProductToShoppingCart.api - 1.7419769763947
+------------https://www.gbmaster.com/gbshop/shoppingcart/cart.gbe------------
+2021-01-19 19:32:22: content_getConfigList.api - 0.022233009338379
+2021-01-19 19:32:22: cart_getShoppingCartDetailsByToken.api - 0.040605068206787
+2021-01-19 19:32:22: cart_countShoppingCartDetailsByToken.api - 0.029292106628418
+2021-01-19 19:32:22: content_getSitemapList.api - 0.027508974075317
+------------https://www.gbmaster.com/gbshop/shoppingcart/shipping.gbe------------
+2021-01-19 19:32:33: content_getConfigList.api - 0.031939029693604
+2021-01-19 19:32:33: shipping_getProvinceList.api - 0.032747983932495
+2021-01-19 19:32:33: shipping_getDistrictList.api - 0.032907009124756
+2021-01-19 19:32:33: shipping_getWardList.api - 0.043158769607544
+2021-01-19 19:32:33: account_getAccount.api - 0.027809143066406
+2021-01-19 19:32:33: cart_getShoppingCartDetailsByToken.api - 0.046060800552368
+2021-01-19 19:32:33: shipping_getDistrictList.api - 0.032981872558594
+2021-01-19 19:32:33: shipping_getDistrictList.api - 0.030948877334595
+2021-01-19 19:32:33: shipping_getWardList.api - 0.053406953811646
+2021-01-19 19:32:33: shipping_getWardList.api - 0.043359994888306
+2021-01-19 19:32:33: cart_countShoppingCartDetailsByToken.api - 0.036571025848389
+2021-01-19 19:32:33: content_getSitemapList.api - 0.043581008911133
+------------https://www.gbmaster.com/gbshop/ajax/updateshippingmethodfee.gbe?provincecode=P79&districtcode=D760&wardcode=W26734------------
+2021-01-19 19:32:34: content_getConfigList.api - 0.030126094818115
+2021-01-19 19:32:34: shipping_getShippingMethodFee.api - 0.061050891876221
+------------https://www.gbmaster.com/gbshop/ajax/submitFormShipping.gbe?type=editcart------------
+2021-01-19 19:32:37: content_getConfigList.api - 0.031736135482788
+2021-01-19 19:32:37: cart_updateInformation.api - 0.035417079925537
+------------https://www.gbmaster.com/gbshop/shoppingcart/cart.gbe------------
+2021-01-19 19:32:37: content_getConfigList.api - 0.028631925582886
+2021-01-19 19:32:37: cart_getShoppingCartDetailsByToken.api - 0.039633989334106
+2021-01-19 19:32:37: cart_countShoppingCartDetailsByToken.api - 0.02501106262207
+2021-01-19 19:32:37: content_getSitemapList.api - 0.058913946151733
+------------https://www.gbmaster.com/gbshop/ajax/login.gbe------------
+2021-01-19 19:32:46: content_getConfigList.api - 0.041321992874146
+2021-01-19 19:32:46: common_login.api - 0.024062156677246
+------------https://www.gbmaster.com/gbshop/shoppingcart/cart.gbe------------
+2021-01-19 19:32:46: content_getConfigList.api - 0.022726058959961
+2021-01-19 19:32:46: cart_getShoppingCartDetailsByToken.api - 0.05849289894104
+2021-01-19 19:32:46: cart_countShoppingCartDetailsByToken.api - 0.025060892105103
+2021-01-19 19:32:46: content_getSitemapList.api - 0.03098201751709
+------------https://www.gbmaster.com/gbshop/shoppingcart/shipping.gbe------------
+2021-01-19 19:32:49: content_getConfigList.api - 0.034609079360962
+2021-01-19 19:32:49: shipping_getProvinceList.api - 0.027614116668701
+2021-01-19 19:32:49: shipping_getDistrictList.api - 0.045704126358032
+2021-01-19 19:32:49: shipping_getWardList.api - 0.042845964431763
+2021-01-19 19:32:49: account_getAccount.api - 0.042192935943604
+2021-01-19 19:32:49: cart_getShoppingCartDetailsByToken.api - 0.060688972473145
+2021-01-19 19:32:49: shipping_getDistrictList.api - 0.031008005142212
+2021-01-19 19:32:49: shipping_getDistrictList.api - 0.04244589805603
+2021-01-19 19:32:49: shipping_getWardList.api - 0.046406030654907
+2021-01-19 19:32:49: shipping_getWardList.api - 0.041068077087402
+2021-01-19 19:32:50: cart_countShoppingCartDetailsByToken.api - 0.024481058120728
+2021-01-19 19:32:50: content_getSitemapList.api - 0.026435852050781
+------------https://www.gbmaster.com/gbshop/ajax/updateshippingmethodfee.gbe?provincecode=P79&districtcode=D760&wardcode=W26734------------
+2021-01-19 19:32:50: content_getConfigList.api - 0.02303409576416
+2021-01-19 19:32:50: shipping_getShippingMethodFee.api - 0.053175926208496
+------------https://www.gbmaster.com/gbshop/ajax/updateward.gbe?provincecode=P79&districtcode=D763------------
+2021-01-19 19:32:54: content_getConfigList.api - 0.030515909194946
+2021-01-19 19:32:54: shipping_getWardList.api - 0.053601980209351
+------------https://www.gbmaster.com/gbshop/ajax/updateshippingmethodfee.gbe?provincecode=P79&districtcode=D763&wardcode=W26830------------
+2021-01-19 19:32:54: content_getConfigList.api - 0.027118921279907
+2021-01-19 19:32:54: shipping_getShippingMethodFee.api - 0.057703018188477
+------------https://www.gbmaster.com/gbshop/ajax/updateshippingmethodfee.gbe?provincecode=P79&districtcode=D763&wardcode=W26842------------
+2021-01-19 19:32:55: content_getConfigList.api - 0.034661054611206
+2021-01-19 19:32:55: shipping_getShippingMethodFee.api - 0.055103063583374
+------------https://www.gbmaster.com/gbshop/ajax/submitFormShipping.gbe------------
+2021-01-19 19:32:55: content_getConfigList.api - 0.024970054626465
+2021-01-19 19:32:56: cart_updateInformation.api - 0.58646988868713
+------------https://www.gbmaster.com/gbshop/shoppingcart/cart_payment.gbe------------
+2021-01-19 19:32:56: content_getConfigList.api - 0.030023097991943
+2021-01-19 19:32:56: cart_countShoppingCartDetailsByToken.api - 0.028017997741699
+2021-01-19 19:32:56: content_getSitemapList.api - 0.25311303138733
+2021-01-19 19:32:56: cart_getShoppingCartDetailsByToken.api - 0.04512095451355
+------------https://www.gbmaster.com/gbshop/ajax/createOrderByCart.gbe------------
+2021-01-19 19:33:00: content_getConfigList.api - 0.027617931365967
+2021-01-19 19:33:00: order_createOrderBasedOnCart.api - 0.26585984230042
+------------https://www.gbmaster.com/gbshop/shoppingcart/thankyou.gbe?ordertoken=G4S9ZUeV7DPoOMYsx+PXUXyF+1uNt7GvwebqcmHNpUg=------------
+2021-01-19 19:33:05: content_getConfigList.api - 0.043246030807495
+2021-01-19 19:33:05: order_getOrderDetailByToken.api - 0.053622007369995
+2021-01-19 19:33:05: cart_countShoppingCartDetailsByToken.api - 0.023003101348877
+2021-01-19 19:33:05: content_getSitemapList.api - 0.030747175216675
+------------https://www.gbmaster.com/gbuser/account/order.gbe------------
+2021-01-19 19:33:09: content_getConfigList.api - 0.029047966003418
+2021-01-19 19:33:12: order_getOrderListByAccount.api - 2.597668170929
+2021-01-19 19:33:12: cart_countShoppingCartDetailsByToken.api - 0.034705877304077
+2021-01-19 19:33:12: content_getSitemapList.api - 0.031460046768188
+------------https://www.gbmaster.com/gbuser/account/orderdetail.gbe?ordercode=HD00335------------
+2021-01-19 19:33:13: content_getConfigList.api - 0.030130863189697
+2021-01-19 19:33:13: order_getOrderDetail.api - 0.043020963668823
+2021-01-19 19:33:14: cart_countShoppingCartDetailsByToken.api - 0.028138160705566
+2021-01-19 19:33:14: content_getSitemapList.api - 0.037454843521118
+------------https://www.gbmaster.com/blog.html------------
+2021-01-19 19:34:19: content_getConfigList.api - 0.043705940246582
+2021-01-19 19:34:19: content_getCategoryList.api - 0.028727054595947
+2021-01-19 19:34:19: content_getPostList.api - 0.077154159545898
+2021-01-19 19:34:20: cart_countShoppingCartDetailsByToken.api - 0.023804187774658
+2021-01-19 19:34:20: content_getSitemapList.api - 0.025703191757202
+------------https://www.gbmaster.com/catalogue-khuyen-mai.html------------
+2021-01-19 19:34:24: content_getConfigList.api - 0.041821956634521
+2021-01-19 19:34:24: media_getMediaDetail.api - 0.027624130249023
+2021-01-19 19:34:24: cart_countShoppingCartDetailsByToken.api - 0.034876823425293
+2021-01-19 19:34:24: content_getSitemapList.api - 0.031697034835815
+------------https://www.gbmaster.com/library/photoswipe/template/js/photoswipe.js------------
+2021-01-19 19:34:24: content_getConfigList.api - 0.035160064697266
+------------https://www.gbmaster.com/lien-he.html------------
+2021-01-19 19:34:25: content_getConfigList.api - 0.044539928436279
+2021-01-19 19:34:25: media_getMediaDetail.api - 0.034689903259277
+2021-01-19 19:34:25: cart_countShoppingCartDetailsByToken.api - 0.027626991271973
+2021-01-19 19:34:25: content_getSitemapList.api - 0.03565502166748
+------------https://www.gbmaster.com/ve-goodpharma.html------------
+2021-01-19 19:34:52: content_getConfigList.api - 0.034775018692017
+2021-01-19 19:34:52: media_getMediaDetail.api - 0.024540901184082
+2021-01-19 19:34:52: cart_countShoppingCartDetailsByToken.api - 0.032224893569946
+2021-01-19 19:34:52: content_getSitemapList.api - 0.035019874572754
+------------https://www.gbmaster.com/faqs.html------------
+2021-01-19 19:34:55: content_getConfigList.api - 0.030344009399414
+2021-01-19 19:34:55: media_getMediaDetail.api - 0.039578914642334
+2021-01-19 19:34:55: cart_countShoppingCartDetailsByToken.api - 0.040354013442993
+2021-01-19 19:34:55: content_getSitemapList.api - 0.030965089797974
+------------https://www.gbmaster.com/chinh-sach-giao-hang.html------------
+2021-01-19 19:34:57: content_getConfigList.api - 0.030241966247559
+2021-01-19 19:34:57: media_getMediaDetail.api - 0.042748928070068
+2021-01-19 19:34:57: cart_countShoppingCartDetailsByToken.api - 0.035260915756226
+2021-01-19 19:34:57: content_getSitemapList.api - 0.027220010757446
+------------https://www.gbmaster.com/chinh-sach-doi-tra.html------------
+2021-01-19 19:34:59: content_getConfigList.api - 0.023942947387695
+2021-01-19 19:34:59: media_getMediaDetail.api - 0.031466007232666
+2021-01-19 19:34:59: cart_countShoppingCartDetailsByToken.api - 0.028210878372192
+2021-01-19 19:34:59: content_getSitemapList.api - 0.043701171875
+------------https://www.gbmaster.com/san-pham.html------------
+2021-01-19 19:35:08: content_getConfigList.api - 0.02934193611145
+2021-01-19 19:35:08: category_getCategoryList.api - 0.028658866882324
+2021-01-19 19:35:08: product_getProductList.api - 0.094559907913208
+2021-01-19 19:35:08: manufacturer_getManufacturerList.api - 0.054066181182861
+2021-01-19 19:35:08: product_getProductMinMax.api - 0.028871059417725
+2021-01-19 19:35:08: cart_countShoppingCartDetailsByToken.api - 0.03105092048645
+2021-01-19 19:35:08: content_getSitemapList.api - 0.029539823532104
+------------https://www.gbmaster.com/nhan-hang-goodpharma.html------------
+2021-01-19 19:35:48: content_getConfigList.api - 0.02799391746521
+2021-01-19 19:35:48: category_getCategoryList.api - 0.031654834747314
+2021-01-19 19:35:48: product_getProductList.api - 0.047765016555786
+2021-01-19 19:35:48: manufacturer_getManufacturerList.api - 0.065153121948242
+2021-01-19 19:35:48: product_getProductMinMax.api - 0.026235103607178
+2021-01-19 19:35:48: cart_countShoppingCartDetailsByToken.api - 0.029961109161377
+2021-01-19 19:35:48: content_getSitemapList.api - 0.032004833221436
+------------https://www.gbmaster.com/con-90-do-goodpharma-500ml.html------------
+2021-01-19 19:35:55: content_getConfigList.api - 0.028764963150024
+2021-01-19 19:35:55: product_getProductDetail.api - 0.033283948898315
+2021-01-19 19:35:56: product_getImageOption.api - 0.034816026687622
+2021-01-19 19:35:56: product_getProductList.api - 0.088927984237671
+2021-01-19 19:35:56: cart_countShoppingCartDetailsByToken.api - 0.028406143188477
+2021-01-19 19:35:56: content_getSitemapList.api - 0.02987813949585
+------------https://www.gbmaster.com/gbshop/ajax/addMoreProductToCart.gbe------------
+2021-01-19 19:36:20: content_getConfigList.api - 0.035949945449829
+2021-01-19 19:36:27: cart_addMoreProductToShoppingCart.api - 6.1670360565186
+------------https://www.gbmaster.com/gbshop/ajax/addMoreProductToCart.gbe------------
+2021-01-19 19:36:27: content_getConfigList.api - 0.036325931549072
+2021-01-19 19:36:27: cart_addMoreProductToShoppingCart.api - 0.71094107627869
+------------https://www.gbmaster.com/thuoc-khong-ke-don.html------------
+2021-01-19 19:36:42: content_getConfigList.api - 0.036174058914185
+2021-01-19 19:36:42: category_getCategoryList.api - 0.036594152450562
+2021-01-19 19:36:43: product_getProductList.api - 0.095180988311768
+2021-01-19 19:36:43: manufacturer_getManufacturerList.api - 0.041584014892578
+2021-01-19 19:36:43: product_getProductMinMax.api - 0.033963918685913
+2021-01-19 19:36:43: cart_countShoppingCartDetailsByToken.api - 0.030460119247437
+2021-01-19 19:36:43: content_getSitemapList.api - 0.027125120162964
+------------https://www.gbmaster.com/con-90-do-goodpharma-500ml.html------------
+2021-01-19 19:37:20: content_getConfigList.api - 0.033164978027344
+2021-01-19 19:37:20: product_getProductDetail.api - 0.038765907287598
+2021-01-19 19:37:20: product_getImageOption.api - 0.027225017547607
+2021-01-19 19:37:20: product_getProductList.api - 0.10062789916992
+2021-01-19 19:37:20: cart_countShoppingCartDetailsByToken.api - 0.028527021408081
+2021-01-19 19:37:20: content_getSitemapList.api - 0.030541896820068
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-19 19:39:42: content_getConfigList.api - 0.03897500038147
+2021-01-19 19:39:42: media_getMediaDetail.api - 0.029942989349365
+2021-01-19 19:39:42: cart_countShoppingCartDetailsByToken.api - 0.029330015182495
+2021-01-19 19:39:42: content_getSitemapList.api - 0.049101829528809
+------------https://www.gbmaster.com/thuoc-giam-can.html------------
+2021-01-19 19:42:44: content_getConfigList.api - 0.045177221298218
+2021-01-19 19:42:44: category_getCategoryList.api - 0.034620046615601
+2021-01-19 19:42:44: product_getProductList.api - 0.030289173126221
+2021-01-19 19:42:44: manufacturer_getManufacturerList.api - 0.054027080535889
+2021-01-19 19:42:44: product_getProductMinMax.api - 0.02995491027832
+2021-01-19 19:42:44: cart_countShoppingCartDetailsByToken.api - 0.026782989501953
+2021-01-19 19:42:44: content_getSitemapList.api - 0.024956941604614
+------------https://www.gbmaster.com/san-pham.html------------
+2021-01-19 19:42:47: content_getConfigList.api - 0.025048971176147
+2021-01-19 19:42:47: category_getCategoryList.api - 0.028345108032227
+2021-01-19 19:42:47: product_getProductList.api - 0.098795890808105
+2021-01-19 19:42:47: manufacturer_getManufacturerList.api - 0.053518056869507
+2021-01-19 19:42:47: product_getProductMinMax.api - 0.025534868240356
+2021-01-19 19:42:47: cart_countShoppingCartDetailsByToken.api - 0.027243852615356
+2021-01-19 19:42:47: content_getSitemapList.api - 0.030440092086792
+------------https://www.gbmaster.com/san-pham.html------------
+2021-01-19 19:43:29: content_getConfigList.api - 0.052194118499756
+2021-01-19 19:43:29: category_getCategoryList.api - 0.035794973373413
+2021-01-19 19:43:29: product_getProductList.api - 0.089186906814575
+2021-01-19 19:43:29: manufacturer_getManufacturerList.api - 0.042114973068237
+2021-01-19 19:43:29: product_getProductMinMax.api - 0.028164148330688
+2021-01-19 19:43:30: cart_countShoppingCartDetailsByToken.api - 0.02933406829834
+2021-01-19 19:43:30: content_getSitemapList.api - 0.03392219543457
+------------https://www.gbmaster.com/thuoc-tieu-hoa.html------------
+2021-01-19 19:44:17: content_getConfigList.api - 0.034121036529541
+2021-01-19 19:44:17: category_getCategoryList.api - 0.028546810150146
+2021-01-19 19:44:17: product_getProductList.api - 0.030911922454834
+2021-01-19 19:44:17: manufacturer_getManufacturerList.api - 0.048736095428467
+2021-01-19 19:44:17: product_getProductMinMax.api - 0.033225059509277
+2021-01-19 19:44:17: cart_countShoppingCartDetailsByToken.api - 0.031382083892822
+2021-01-19 19:44:17: content_getSitemapList.api - 0.032397031784058
+------------https://www.gbmaster.com/benh-thuong-gap.html------------
+2021-01-19 19:44:20: content_getConfigList.api - 0.033040046691895
+2021-01-19 19:44:20: content_getCategoryList.api - 0.038489103317261
+2021-01-19 19:44:20: content_getPostList.api - 0.038564205169678
+2021-01-19 19:44:20: cart_countShoppingCartDetailsByToken.api - 0.055817127227783
+2021-01-19 19:44:20: content_getSitemapList.api - 0.029979944229126
+------------https://www.gbmaster.com/nhung-thuc-pham-nen-tranh-khi-bi-loang-xuong.html------------
+2021-01-19 19:44:27: content_getConfigList.api - 0.025536060333252
+2021-01-19 19:44:28: content_getPostList.api - 0.074566841125488
+2021-01-19 19:44:28: content_getPostDetail.api - 0.037137985229492
+2021-01-19 19:44:28: Array - 0.028704881668091
+2021-01-19 19:44:28: cart_countShoppingCartDetailsByToken.api - 0.037337064743042
+2021-01-19 19:44:28: content_getSitemapList.api - 0.032021999359131
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-19 19:44:31: content_getConfigList.api - 0.03044605255127
+2021-01-19 19:44:31: media_getMediaDetail.api - 0.030311822891235
+2021-01-19 19:44:31: cart_countShoppingCartDetailsByToken.api - 0.025362968444824
+2021-01-19 19:44:31: content_getSitemapList.api - 0.02550196647644
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 19:44:32: content_getConfigList.api - 0.029155969619751
+2021-01-19 19:44:32: media_getMediaDetail.api - 0.032838821411133
+2021-01-19 19:44:32: cart_countShoppingCartDetailsByToken.api - 0.023743152618408
+2021-01-19 19:44:32: content_getSitemapList.api - 0.02474308013916
+2021-01-19 19:44:32: product_getProductByTag.api - 0.036447048187256
+2021-01-19 19:44:32: product_getProductList.api - 0.030598878860474
+2021-01-19 19:44:32: product_getProductList.api - 0.16815114021301
+2021-01-19 19:44:33: product_getProductByTag.api - 0.048875093460083
+------------https://www.gbmaster.com/nhan-hang-goodpharma.html------------
+2021-01-19 19:44:49: content_getConfigList.api - 0.03007698059082
+2021-01-19 19:44:49: category_getCategoryList.api - 0.063499927520752
+2021-01-19 19:44:49: product_getProductList.api - 0.048656940460205
+2021-01-19 19:44:50: manufacturer_getManufacturerList.api - 0.37369298934937
+2021-01-19 19:44:50: product_getProductMinMax.api - 0.029601097106934
+2021-01-19 19:44:50: cart_countShoppingCartDetailsByToken.api - 0.037979125976562
+2021-01-19 19:44:50: content_getSitemapList.api - 0.031562089920044
+------------https://www.gbmaster.com/con-90-do-goodpharma-500ml.html------------
+2021-01-19 19:44:53: content_getConfigList.api - 0.031049966812134
+2021-01-19 19:44:53: product_getProductDetail.api - 0.026808977127075
+2021-01-19 19:44:53: product_getImageOption.api - 0.026443004608154
+2021-01-19 19:44:53: product_getProductList.api - 0.086976051330566
+2021-01-19 19:44:53: cart_countShoppingCartDetailsByToken.api - 0.034820079803467
+2021-01-19 19:44:53: content_getSitemapList.api - 0.028984785079956
+------------https://www.gbmaster.com/gbshop/ajax/addMoreProductToCart.gbe------------
+2021-01-19 19:44:56: content_getConfigList.api - 0.047431230545044
+2021-01-19 19:44:57: cart_addMoreProductToShoppingCart.api - 1.1104979515076
+------------https://www.gbmaster.com/gbshop/shoppingcart/cart.gbe------------
+2021-01-19 19:44:57: content_getConfigList.api - 0.032382011413574
+2021-01-19 19:44:57: cart_getShoppingCartDetailsByToken.api - 0.040686845779419
+2021-01-19 19:44:57: cart_countShoppingCartDetailsByToken.api - 0.24873185157776
+2021-01-19 19:44:57: content_getSitemapList.api - 0.033863067626953
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 19:45:01: content_getConfigList.api - 0.030677080154419
+2021-01-19 19:45:01: media_getMediaDetail.api - 0.030942916870117
+2021-01-19 19:45:02: cart_countShoppingCartDetailsByToken.api - 0.032603979110718
+2021-01-19 19:45:02: content_getSitemapList.api - 0.02436089515686
+2021-01-19 19:45:02: product_getProductByTag.api - 0.037736892700195
+2021-01-19 19:45:02: product_getProductList.api - 0.034588098526001
+2021-01-19 19:45:02: product_getProductList.api - 0.11359000205994
+2021-01-19 19:45:02: product_getProductByTag.api - 0.045665979385376
+------------https://www.gbmaster.com/gbuser/account/profile.gbe------------
+2021-01-19 19:45:05: content_getConfigList.api - 0.042534828186035
+2021-01-19 19:45:06: account_getAccount.api - 0.041898965835571
+2021-01-19 19:45:06: cart_countShoppingCartDetailsByToken.api - 0.036948919296265
+2021-01-19 19:45:06: content_getSitemapList.api - 0.028441905975342
+------------https://www.gbmaster.com/gbuser/account/order.gbe------------
+2021-01-19 19:45:10: content_getConfigList.api - 0.025130987167358
+2021-01-19 19:45:23: order_getOrderListByAccount.api - 12.897131204605
+2021-01-19 19:45:23: cart_countShoppingCartDetailsByToken.api - 0.027727842330933
+2021-01-19 19:45:23: content_getSitemapList.api - 0.030897855758667
+------------https://www.gbmaster.com/gbuser/account/carts.gbe------------
+2021-01-19 19:45:23: content_getConfigList.api - 0.023751020431519
+2021-01-19 19:45:23: cart_getCartListByAccount.api - 0.17680597305298
+2021-01-19 19:45:23: cart_countShoppingCartDetailsByToken.api - 0.03617000579834
+2021-01-19 19:45:23: content_getSitemapList.api - 0.02912712097168
+------------https://www.gbmaster.com/gbshop/ajax/cloneCart.gbe------------
+2021-01-19 19:46:19: content_getConfigList.api - 0.033902168273926
+2021-01-19 19:46:27: cart_addShoppingCart.api - 8.5716500282288
+------------https://www.gbmaster.com/gbshop/shoppingcart/cart.gbe------------
+2021-01-19 19:46:28: content_getConfigList.api - 0.03439998626709
+2021-01-19 19:46:28: cart_getShoppingCartDetailsByToken.api - 0.042232036590576
+2021-01-19 19:46:28: cart_countShoppingCartDetailsByToken.api - 0.030429840087891
+2021-01-19 19:46:28: content_getSitemapList.api - 0.030532836914062
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 19:46:37: content_getConfigList.api - 0.030138969421387
+2021-01-19 19:46:37: media_getMediaDetail.api - 0.033975124359131
+2021-01-19 19:46:37: cart_countShoppingCartDetailsByToken.api - 0.038528919219971
+2021-01-19 19:46:37: content_getSitemapList.api - 0.033318042755127
+2021-01-19 19:46:37: product_getProductByTag.api - 0.04607105255127
+2021-01-19 19:46:37: product_getProductList.api - 0.035846948623657
+2021-01-19 19:46:38: product_getProductList.api - 0.13199591636658
+2021-01-19 19:46:38: product_getProductByTag.api - 0.06957483291626
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 19:47:01: content_getConfigList.api - 0.051522970199585
+2021-01-19 19:47:01: media_getMediaDetail.api - 0.031893014907837
+2021-01-19 19:47:01: cart_countShoppingCartDetailsByToken.api - 0.03581714630127
+2021-01-19 19:47:01: content_getSitemapList.api - 0.029422044754028
+2021-01-19 19:47:02: product_getProductByTag.api - 0.26072096824646
+2021-01-19 19:47:02: product_getProductList.api - 0.038915872573853
+2021-01-19 19:47:02: product_getProductList.api - 0.35806107521057
+2021-01-19 19:47:02: product_getProductByTag.api - 0.041113138198853
+------------https://www.gbmaster.com/trang-chu.html------------
+2021-01-19 19:47:28: content_getConfigList.api - 0.054172992706299
+2021-01-19 19:47:28: media_getMediaDetail.api - 0.035619974136353
+2021-01-19 19:47:28: cart_countShoppingCartDetailsByToken.api - 0.040724992752075
+2021-01-19 19:47:28: content_getSitemapList.api - 0.029028177261353
+2021-01-19 19:47:28: product_getProductByTag.api - 0.044490814208984
+2021-01-19 19:47:28: product_getProductList.api - 0.032443046569824
+2021-01-19 19:47:28: product_getProductList.api - 0.12959289550781
+2021-01-19 19:47:28: product_getProductByTag.api - 0.093017101287842
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 09:48:09: content_getConfigList.api - 0.032265901565552
+2021-01-20 09:48:09: media_getMediaDetail.api - 0.029232978820801
+2021-01-20 09:48:09: cart_countShoppingCartDetailsByToken.api - 0.032444953918457
+2021-01-20 09:48:09: content_getSitemapList.api - 0.032160997390747
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 09:49:30: content_getConfigList.api - 0.036875009536743
+2021-01-20 09:49:30: media_getMediaDetail.api - 0.039443016052246
+2021-01-20 09:49:31: cart_countShoppingCartDetailsByToken.api - 0.035154104232788
+2021-01-20 09:49:31: content_getSitemapList.api - 0.037713050842285
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:06:55: content_getConfigList.api - 0.037860870361328
+2021-01-20 10:06:55: media_getMediaDetail.api - 0.031708002090454
+2021-01-20 10:06:56: cart_countShoppingCartDetailsByToken.api - 0.035938024520874
+2021-01-20 10:06:56: content_getSitemapList.api - 0.034154176712036
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:06:58: content_getConfigList.api - 0.059895992279053
+2021-01-20 10:06:58: media_getMediaDetail.api - 0.04876184463501
+2021-01-20 10:06:58: cart_countShoppingCartDetailsByToken.api - 0.057174205780029
+2021-01-20 10:06:58: content_getSitemapList.api - 0.033417940139771
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:07:38: content_getConfigList.api - 0.051819086074829
+2021-01-20 10:07:39: media_getMediaDetail.api - 0.029217004776001
+2021-01-20 10:07:39: cart_countShoppingCartDetailsByToken.api - 0.030718803405762
+2021-01-20 10:07:39: content_getSitemapList.api - 0.026339054107666
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:07:51: content_getConfigList.api - 0.032932996749878
+2021-01-20 10:07:52: media_getMediaDetail.api - 0.040380954742432
+2021-01-20 10:07:52: cart_countShoppingCartDetailsByToken.api - 0.029387950897217
+2021-01-20 10:07:52: content_getSitemapList.api - 0.027824878692627
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:08:14: content_getConfigList.api - 0.036503791809082
+2021-01-20 10:08:14: media_getMediaDetail.api - 0.028692960739136
+2021-01-20 10:08:14: cart_countShoppingCartDetailsByToken.api - 0.034393072128296
+2021-01-20 10:08:14: content_getSitemapList.api - 0.032721042633057
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:08:28: content_getConfigList.api - 0.034284830093384
+2021-01-20 10:08:28: media_getMediaDetail.api - 0.02939510345459
+2021-01-20 10:08:28: cart_countShoppingCartDetailsByToken.api - 0.025210857391357
+2021-01-20 10:08:28: content_getSitemapList.api - 0.04807710647583
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:08:40: content_getConfigList.api - 0.038667917251587
+2021-01-20 10:08:40: media_getMediaDetail.api - 0.039896965026855
+2021-01-20 10:08:40: cart_countShoppingCartDetailsByToken.api - 0.02607798576355
+2021-01-20 10:08:40: content_getSitemapList.api - 0.029193162918091
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:10:01: content_getConfigList.api - 0.091828107833862
+2021-01-20 10:10:02: media_getMediaDetail.api - 0.036226987838745
+2021-01-20 10:10:02: cart_countShoppingCartDetailsByToken.api - 0.15330505371094
+2021-01-20 10:10:02: content_getSitemapList.api - 0.025913000106812
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:10:09: content_getConfigList.api - 0.048118114471436
+2021-01-20 10:10:09: media_getMediaDetail.api - 0.024624109268188
+2021-01-20 10:10:09: cart_countShoppingCartDetailsByToken.api - 0.035017013549805
+2021-01-20 10:10:09: content_getSitemapList.api - 0.032034158706665
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:10:25: content_getConfigList.api - 0.073405981063843
+2021-01-20 10:10:25: media_getMediaDetail.api - 0.11451983451843
+2021-01-20 10:10:25: cart_countShoppingCartDetailsByToken.api - 0.038802146911621
+2021-01-20 10:10:25: content_getSitemapList.api - 0.030956983566284
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:10:26: content_getConfigList.api - 0.022948980331421
+2021-01-20 10:10:26: media_getMediaDetail.api - 0.028127908706665
+2021-01-20 10:10:26: cart_countShoppingCartDetailsByToken.api - 0.030178070068359
+2021-01-20 10:10:26: content_getSitemapList.api - 0.030058145523071
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:11:05: content_getConfigList.api - 0.053085088729858
+2021-01-20 10:11:05: media_getMediaDetail.api - 0.028669118881226
+2021-01-20 10:11:05: cart_countShoppingCartDetailsByToken.api - 0.031558990478516
+2021-01-20 10:11:05: content_getSitemapList.api - 0.023988962173462
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:11:25: content_getConfigList.api - 0.02986216545105
+2021-01-20 10:11:25: media_getMediaDetail.api - 0.028927087783813
+2021-01-20 10:11:25: cart_countShoppingCartDetailsByToken.api - 0.025393962860107
+2021-01-20 10:11:25: content_getSitemapList.api - 0.037734031677246
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:11:57: content_getConfigList.api - 0.030727863311768
+2021-01-20 10:11:57: media_getMediaDetail.api - 0.028542995452881
+2021-01-20 10:11:57: cart_countShoppingCartDetailsByToken.api - 0.031671047210693
+2021-01-20 10:11:57: content_getSitemapList.api - 0.024327993392944
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:11:58: content_getConfigList.api - 0.028519153594971
+2021-01-20 10:11:58: media_getMediaDetail.api - 0.026248931884766
+2021-01-20 10:11:58: cart_countShoppingCartDetailsByToken.api - 0.037928819656372
+2021-01-20 10:11:58: content_getSitemapList.api - 0.028295993804932
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:13:20: content_getConfigList.api - 0.029567956924438
+2021-01-20 10:13:20: media_getMediaDetail.api - 0.028959989547729
+2021-01-20 10:13:20: cart_countShoppingCartDetailsByToken.api - 0.03193211555481
+2021-01-20 10:13:20: content_getSitemapList.api - 0.030713081359863
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:13:22: content_getConfigList.api - 0.025469064712524
+2021-01-20 10:13:22: media_getMediaDetail.api - 0.03059196472168
+2021-01-20 10:13:22: cart_countShoppingCartDetailsByToken.api - 0.030187129974365
+2021-01-20 10:13:22: content_getSitemapList.api - 0.038237810134888
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:13:32: content_getConfigList.api - 0.046764850616455
+2021-01-20 10:13:32: media_getMediaDetail.api - 0.028448104858398
+2021-01-20 10:13:32: cart_countShoppingCartDetailsByToken.api - 0.030443906784058
+2021-01-20 10:13:32: content_getSitemapList.api - 0.025325059890747
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:13:43: content_getConfigList.api - 0.031754016876221
+2021-01-20 10:13:43: media_getMediaDetail.api - 0.031322956085205
+2021-01-20 10:13:43: cart_countShoppingCartDetailsByToken.api - 0.031276941299438
+2021-01-20 10:13:43: content_getSitemapList.api - 0.03938102722168
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:14:10: content_getConfigList.api - 0.057263135910034
+2021-01-20 10:14:10: media_getMediaDetail.api - 0.042741060256958
+2021-01-20 10:14:10: cart_countShoppingCartDetailsByToken.api - 0.029129028320312
+2021-01-20 10:14:10: content_getSitemapList.api - 0.029449939727783
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:14:11: content_getConfigList.api - 0.03193998336792
+2021-01-20 10:14:11: media_getMediaDetail.api - 0.028898000717163
+2021-01-20 10:14:11: cart_countShoppingCartDetailsByToken.api - 0.025569915771484
+2021-01-20 10:14:11: content_getSitemapList.api - 0.025543928146362
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:16:57: content_getConfigList.api - 0.031984090805054
+2021-01-20 10:16:57: media_getMediaDetail.api - 0.029680013656616
+2021-01-20 10:16:57: cart_countShoppingCartDetailsByToken.api - 0.027570962905884
+2021-01-20 10:16:57: content_getSitemapList.api - 0.035654067993164
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:17:08: content_getConfigList.api - 0.033318996429443
+2021-01-20 10:17:08: media_getMediaDetail.api - 0.029451847076416
+2021-01-20 10:17:08: cart_countShoppingCartDetailsByToken.api - 0.025393962860107
+2021-01-20 10:17:08: content_getSitemapList.api - 0.02517294883728
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:17:12: content_getConfigList.api - 0.033951044082642
+2021-01-20 10:17:12: media_getMediaDetail.api - 0.028127908706665
+2021-01-20 10:17:12: cart_countShoppingCartDetailsByToken.api - 0.026878833770752
+2021-01-20 10:17:12: content_getSitemapList.api - 0.023458957672119
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:17:13: content_getConfigList.api - 0.029824018478394
+2021-01-20 10:17:13: media_getMediaDetail.api - 0.025909900665283
+2021-01-20 10:17:13: cart_countShoppingCartDetailsByToken.api - 0.035138130187988
+2021-01-20 10:17:13: content_getSitemapList.api - 0.031085968017578
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:17:37: content_getConfigList.api - 0.032500982284546
+2021-01-20 10:17:37: media_getMediaDetail.api - 0.036243915557861
+2021-01-20 10:17:37: cart_countShoppingCartDetailsByToken.api - 0.02898383140564
+2021-01-20 10:17:37: content_getSitemapList.api - 0.030505180358887
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:17:59: content_getConfigList.api - 0.032316923141479
+2021-01-20 10:17:59: media_getMediaDetail.api - 0.028974056243896
+2021-01-20 10:17:59: cart_countShoppingCartDetailsByToken.api - 0.036749124526978
+2021-01-20 10:17:59: content_getSitemapList.api - 0.035737991333008
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:19:31: content_getConfigList.api - 0.051491022109985
+2021-01-20 10:19:31: media_getMediaDetail.api - 0.038305997848511
+2021-01-20 10:19:31: cart_countShoppingCartDetailsByToken.api - 0.045202016830444
+2021-01-20 10:19:31: content_getSitemapList.api - 0.032164096832275
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:19:44: content_getConfigList.api - 0.033655166625977
+2021-01-20 10:19:44: media_getMediaDetail.api - 0.049936056137085
+2021-01-20 10:19:44: cart_countShoppingCartDetailsByToken.api - 0.036329030990601
+2021-01-20 10:19:44: content_getSitemapList.api - 0.055203914642334
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:26:33: content_getConfigList.api - 0.035660982131958
+2021-01-20 10:26:33: media_getMediaDetail.api - 0.026064872741699
+2021-01-20 10:26:33: cart_countShoppingCartDetailsByToken.api - 0.032840013504028
+2021-01-20 10:26:33: content_getSitemapList.api - 0.034292936325073
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:27:11: content_getConfigList.api - 0.046072959899902
+2021-01-20 10:27:11: media_getMediaDetail.api - 0.034402132034302
+2021-01-20 10:27:11: cart_countShoppingCartDetailsByToken.api - 0.031847953796387
+2021-01-20 10:27:11: content_getSitemapList.api - 0.033489942550659
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:27:13: content_getConfigList.api - 0.027760982513428
+2021-01-20 10:27:13: media_getMediaDetail.api - 0.030388116836548
+2021-01-20 10:27:13: cart_countShoppingCartDetailsByToken.api - 0.028857946395874
+2021-01-20 10:27:13: content_getSitemapList.api - 0.031482219696045
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:28:10: content_getConfigList.api - 0.33993101119995
+2021-01-20 10:28:10: media_getMediaDetail.api - 0.037267923355103
+2021-01-20 10:28:10: cart_countShoppingCartDetailsByToken.api - 0.028427124023438
+2021-01-20 10:28:10: content_getSitemapList.api - 0.05516791343689
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:28:29: content_getConfigList.api - 0.035249948501587
+2021-01-20 10:28:29: media_getMediaDetail.api - 0.028866052627563
+2021-01-20 10:28:29: cart_countShoppingCartDetailsByToken.api - 0.030727863311768
+2021-01-20 10:28:29: content_getSitemapList.api - 0.031946182250977
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:30:42: content_getConfigList.api - 0.028146982192993
+2021-01-20 10:30:42: media_getMediaDetail.api - 0.028172969818115
+2021-01-20 10:30:42: cart_countShoppingCartDetailsByToken.api - 0.031896829605103
+2021-01-20 10:30:42: content_getSitemapList.api - 0.030523061752319
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:30:44: content_getConfigList.api - 0.048221826553345
+2021-01-20 10:30:44: media_getMediaDetail.api - 0.03847599029541
+2021-01-20 10:30:44: cart_countShoppingCartDetailsByToken.api - 0.033477067947388
+2021-01-20 10:30:45: content_getSitemapList.api - 0.03765606880188
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:30:47: content_getConfigList.api - 0.031980037689209
+2021-01-20 10:30:47: media_getMediaDetail.api - 0.027845144271851
+2021-01-20 10:30:47: cart_countShoppingCartDetailsByToken.api - 0.033316850662231
+2021-01-20 10:30:47: content_getSitemapList.api - 0.041422128677368
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:30:49: content_getConfigList.api - 0.094588994979858
+2021-01-20 10:30:49: media_getMediaDetail.api - 0.21750998497009
+2021-01-20 10:30:49: cart_countShoppingCartDetailsByToken.api - 0.041059970855713
+2021-01-20 10:30:50: content_getSitemapList.api - 0.03411602973938
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:31:07: content_getConfigList.api - 0.035130977630615
+2021-01-20 10:31:07: media_getMediaDetail.api - 0.027213096618652
+2021-01-20 10:31:07: cart_countShoppingCartDetailsByToken.api - 0.031719923019409
+2021-01-20 10:31:07: content_getSitemapList.api - 0.035254001617432
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:31:10: content_getConfigList.api - 0.027853965759277
+2021-01-20 10:31:10: media_getMediaDetail.api - 0.032850027084351
+2021-01-20 10:31:10: cart_countShoppingCartDetailsByToken.api - 0.029270887374878
+2021-01-20 10:31:10: content_getSitemapList.api - 0.025746822357178
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:31:13: content_getConfigList.api - 0.032849073410034
+2021-01-20 10:31:13: media_getMediaDetail.api - 0.029853820800781
+2021-01-20 10:31:13: cart_countShoppingCartDetailsByToken.api - 0.030558109283447
+2021-01-20 10:31:13: content_getSitemapList.api - 0.04210901260376
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:32:00: content_getConfigList.api - 0.054147958755493
+2021-01-20 10:32:00: media_getMediaDetail.api - 0.022482872009277
+2021-01-20 10:32:00: cart_countShoppingCartDetailsByToken.api - 0.024258852005005
+2021-01-20 10:32:00: content_getSitemapList.api - 0.027539968490601
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:32:04: content_getConfigList.api - 0.057642221450806
+2021-01-20 10:32:04: media_getMediaDetail.api - 0.060765981674194
+2021-01-20 10:32:04: cart_countShoppingCartDetailsByToken.api - 0.037416934967041
+2021-01-20 10:32:04: content_getSitemapList.api - 0.045822143554688
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:32:21: content_getConfigList.api - 0.048075914382935
+2021-01-20 10:32:21: media_getMediaDetail.api - 0.025388956069946
+2021-01-20 10:32:21: cart_countShoppingCartDetailsByToken.api - 0.024411916732788
+2021-01-20 10:32:21: content_getSitemapList.api - 0.027143955230713
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:32:23: content_getConfigList.api - 0.034892797470093
+2021-01-20 10:32:23: media_getMediaDetail.api - 0.030853986740112
+2021-01-20 10:32:23: cart_countShoppingCartDetailsByToken.api - 0.026119947433472
+2021-01-20 10:32:23: content_getSitemapList.api - 0.025830030441284
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:32:23: content_getConfigList.api - 0.030254125595093
+2021-01-20 10:32:23: media_getMediaDetail.api - 0.053844928741455
+2021-01-20 10:32:24: cart_countShoppingCartDetailsByToken.api - 0.037276983261108
+2021-01-20 10:32:24: content_getSitemapList.api - 0.024275064468384
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:32:25: content_getConfigList.api - 0.028464078903198
+2021-01-20 10:32:25: media_getMediaDetail.api - 0.030960083007812
+2021-01-20 10:32:25: cart_countShoppingCartDetailsByToken.api - 0.049980878829956
+2021-01-20 10:32:26: content_getSitemapList.api - 0.049560070037842
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:32:27: content_getConfigList.api - 0.027194976806641
+2021-01-20 10:32:27: media_getMediaDetail.api - 0.029247045516968
+2021-01-20 10:32:27: cart_countShoppingCartDetailsByToken.api - 0.030853033065796
+2021-01-20 10:32:27: content_getSitemapList.api - 0.040283918380737
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:32:28: content_getConfigList.api - 0.03010106086731
+2021-01-20 10:32:28: media_getMediaDetail.api - 0.029719114303589
+2021-01-20 10:32:29: cart_countShoppingCartDetailsByToken.api - 0.022457122802734
+2021-01-20 10:32:29: content_getSitemapList.api - 0.034616231918335
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:32:38: content_getConfigList.api - 0.034654855728149
+2021-01-20 10:32:38: media_getMediaDetail.api - 0.029288053512573
+2021-01-20 10:32:38: cart_countShoppingCartDetailsByToken.api - 0.028769016265869
+2021-01-20 10:32:38: content_getSitemapList.api - 0.024407148361206
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:33:21: content_getConfigList.api - 0.035249948501587
+2021-01-20 10:33:21: media_getMediaDetail.api - 0.022992134094238
+2021-01-20 10:33:21: cart_countShoppingCartDetailsByToken.api - 0.028852939605713
+2021-01-20 10:33:22: content_getSitemapList.api - 0.023828983306885
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:48:15: content_getConfigList.api - 0.033520936965942
+2021-01-20 10:48:16: media_getMediaDetail.api - 0.028759002685547
+2021-01-20 10:48:16: cart_countShoppingCartDetailsByToken.api - 0.045284986495972
+2021-01-20 10:48:16: content_getSitemapList.api - 0.033743858337402
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:48:46: content_getConfigList.api - 0.04100489616394
+2021-01-20 10:48:46: media_getMediaDetail.api - 0.065063953399658
+2021-01-20 10:48:46: cart_countShoppingCartDetailsByToken.api - 0.031053066253662
+2021-01-20 10:48:46: content_getSitemapList.api - 0.046475172042847
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:48:48: content_getConfigList.api - 0.02999210357666
+2021-01-20 10:48:48: media_getMediaDetail.api - 0.030474901199341
+2021-01-20 10:48:48: cart_countShoppingCartDetailsByToken.api - 0.034033060073853
+2021-01-20 10:48:48: content_getSitemapList.api - 0.03681206703186
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:48:50: content_getConfigList.api - 0.021783113479614
+2021-01-20 10:48:50: media_getMediaDetail.api - 0.031888008117676
+2021-01-20 10:48:50: cart_countShoppingCartDetailsByToken.api - 0.028430938720703
+2021-01-20 10:48:50: content_getSitemapList.api - 0.035098075866699
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:48:53: content_getConfigList.api - 0.02314305305481
+2021-01-20 10:48:53: media_getMediaDetail.api - 0.028666973114014
+2021-01-20 10:48:53: cart_countShoppingCartDetailsByToken.api - 0.029606819152832
+2021-01-20 10:48:53: content_getSitemapList.api - 0.051031827926636
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:49:03: content_getConfigList.api - 0.028724908828735
+2021-01-20 10:49:03: media_getMediaDetail.api - 0.031584024429321
+2021-01-20 10:49:03: cart_countShoppingCartDetailsByToken.api - 0.02875018119812
+2021-01-20 10:49:03: content_getSitemapList.api - 0.028196096420288
+------------https://www.gbmaster.com/dang-toa-thuoc.html------------
+2021-01-20 10:49:05: content_getConfigList.api - 0.029999971389771
+2021-01-20 10:49:05: media_getMediaDetail.api - 0.028193950653076
+2021-01-20 10:49:05: cart_countShoppingCartDetailsByToken.api - 0.026937007904053
+2021-01-20 10:49:05: content_getSitemapList.api - 0.028460025787354
+------------https://www.gbmaster.com/san-pham.html------------
+2021-01-20 10:49:58: content_getConfigList.api - 0.031837940216064
+2021-01-20 10:49:59: category_getCategoryList.api - 0.03366494178772
+2021-01-20 10:49:59: product_getProductList.api - 0.13417887687683
+2021-01-20 10:49:59: manufacturer_getManufacturerList.api - 0.057744979858398
+2021-01-20 10:49:59: product_getProductMinMax.api - 0.030062913894653
+2021-01-20 10:49:59: cart_countShoppingCartDetailsByToken.api - 0.02293586730957
+2021-01-20 10:49:59: content_getSitemapList.api - 0.028504133224487
+------------https://www.gbmaster.com/san-pham.html------------
+2021-01-20 10:50:03: content_getConfigList.api - 0.027372121810913
+2021-01-20 10:50:04: category_getCategoryList.api - 0.032335042953491
+2021-01-20 10:50:04: product_getProductList.api - 0.080248832702637
+2021-01-20 10:50:04: manufacturer_getManufacturerList.api - 0.2999382019043
+2021-01-20 10:50:04: product_getProductMinMax.api - 0.022449970245361
+2021-01-20 10:50:04: cart_countShoppingCartDetailsByToken.api - 0.032302856445312
+2021-01-20 10:50:04: content_getSitemapList.api - 0.033274173736572
+------------https://www.gbmaster.com/gbuser/account/carts.gbe------------
+2021-01-20 10:50:20: content_getConfigList.api - 0.029016971588135
+2021-01-20 10:50:20: cart_getCartListByAccount.api - 0.20690202713013
+2021-01-20 10:50:20: cart_countShoppingCartDetailsByToken.api - 0.039862155914307
+2021-01-20 10:50:20: content_getSitemapList.api - 0.048244953155518

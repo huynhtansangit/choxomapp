@@ -1,0 +1,358 @@
+#modal__updateaccount {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.6)
+}
+
+#modal__updateaccount .modal__updateaccount__content {
+    position: relative;
+    background-color: #fff;
+    padding: 10px;
+    min-width: 350px;
+    text-align: center
+}
+
+#modal__updateaccount .modal__updateaccount__content .modal__updateaccount__close {
+    position: absolute;
+    right: -12px;
+    top: -14px;
+    padding: 0px 3px;
+    background-color: #fff;
+    border-radius: 100%;
+    border: 1px solid #ddd
+}
+
+#modal__updateaccount .modal__updateaccount__content .modal__updateaccount__close svg {
+    width: 16px;
+    height: 16px;
+    fill: #ccc
+}
+
+#modal__updateaccount .modal__updateaccount__content .updateaccount__avatar {
+    background-color: var(--main-color);
+    color: #fff;
+    padding: 8px 15px;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+    display: inline-block;
+    margin-bottom: 20px
+}
+
+#modal__updateaccount .modal__updateaccount__content .updateaccount__row {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-bottom: 20px
+}
+
+#modal__updateaccount .modal__updateaccount__content .updateaccount__row label {
+    font-size: 0.875rem;
+    margin-bottom: 5px
+}
+
+#modal__updateaccount .modal__updateaccount__content .updateaccount__row input {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    height: 34px;
+    padding: 6px 12px;
+    line-height: 34px;
+    outline: none;
+    width: 100%
+}
+
+#modal__updateaccount .modal__updateaccount__content .updateaccount__row input:focus {
+    border: 1px solid var(--main-color)
+}
+
+#modal__updateaccount .modal__updateaccount__content .updateaccount__row button {
+    display: block;
+    background-color: var(--main-color);
+    color: #fff;
+    padding: 0;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    height: 41px;
+    line-height: 41px;
+    text-align: center;
+    margin-bottom: 15px
+}
+
+#modal__updateaccount .modal__updateaccount__content .updateaccount__row:last-child {
+    margin-bottom: 0
+}
+
+.login__option__tab {
+    display: flex;
+    overflow: hidden;
+    border-bottom: 1px solid #f4f4f4
+}
+
+@media only screen and (min-width: 992px) {
+    .login__option__tab {
+        flex-direction: row;
+        justify-content: center;
+        margin-top: 40px
+    }
+}
+
+.login__option__tab .nav__item {
+    font-size: 16px;
+    width: 50%;
+    text-align: center;
+    padding: 20px 0;
+    cursor: pointer
+}
+
+@media only screen and (min-width: 992px) {
+    .login__option__tab .nav__item {
+        width: 30%;
+        margin-left: 20px;
+        padding: 15px 5px 7px
+    }
+}
+
+.login__option__tab .nav__item.active {
+    border-bottom: 1px solid var(--main-color)
+}
+
+@media only screen and (min-width: 992px) {
+    .login__option__tab .nav__item.active {
+        border-bottom: 1px solid var(--main-color);
+        border-right: none
+    }
+}
+
+.login__option__tab .nav__item:last-child.active {
+    border-right: none;
+}
+
+@media only screen and (min-width: 992px) {
+    .login__option__tab .nav__item:last-child.active {
+        border-left: none
+    }
+}
+
+.login .login__container {
+    padding-top: 30px;
+    padding-bottom: 30px
+}
+
+@media only screen and (min-width: 992px) {
+    .login .login__container {
+        width: 50%
+    }
+}
+
+.login .login__container .login__heading {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 24px
+}
+
+.login .login__container form .mb--24 {
+    margin-bottom: 24px
+}
+
+.login .login__container form .mb--24 .login__forgotpassword {
+    color: #4186b7
+}
+
+.login .login__container form .login__error {
+    color: darkred;
+    font-size: 0.875rem;
+    font-weight: 600
+}
+
+.login .login__container form label {
+    display: inline-block
+}
+
+.login .login__container form input {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    height: 34px;
+    padding: 6px 12px;
+    line-height: 34px;
+    outline: none;
+    width: 100%
+}
+
+.login .login__container form input:focus {
+    border: 1px solid var(--main-color)
+}
+
+.login .login__container form .login__btn--login {
+    background-color: var(--main-color);
+    padding: 0;
+    color: #fff;
+    height: 41px;
+    line-height: 41px;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    margin-bottom: 15px
+}
+
+.login .login__container form .login__btn--facebook {
+    display: block;
+    background-color: #3b5998;
+    color: #fff;
+    padding: 0;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    height: 41px;
+    line-height: 41px;
+    margin-bottom: 15px;
+    text-align: center
+}
+
+.login .login__container form .login__btn--facebook span {
+    border-right: 1px solid rgba(0, 0, 0, 0.2);
+    float: left;
+    padding: 0px 10px
+}
+
+.login .login__container form .login__btn--facebook span svg {
+    width: 20px;
+    height: 20px;
+    fill: #fff
+}
+
+.login .login__container form .login__btn--facebook:hover {
+    text-decoration: none
+}
+
+.login .login__container form .login__btn--google {
+    display: block;
+    background-color: #df4a32;
+    color: #fff;
+    padding: 0;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    height: 41px;
+    line-height: 41px;
+    text-align: center;
+    margin-bottom: 15px
+}
+
+.login .login__container form .login__btn--google span {
+    border-right: 1px solid rgba(0, 0, 0, 0.2);
+    float: left;
+    padding: 0px 10px
+}
+
+.login .login__container form .login__btn--google span svg {
+    width: 20px;
+    height: 20px;
+    fill: #fff
+}
+
+.login .login__container form .login__btn--google:hover {
+    text-decoration: none
+}
+
+.login .login__container form .login__btn--zalo {
+    display: block;
+    background-color: #0068ff;
+    color: #fff;
+    padding: 0;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    height: 41px;
+    line-height: 41px;
+    text-align: center
+}
+
+.login .login__container form .login__btn--zalo span {
+    border-right: 1px solid rgba(0, 0, 0, 0.2);
+    float: left;
+    padding: 0px 10px
+}
+
+.login .login__container form .login__btn--zalo span svg {
+    width: 20px;
+    height: 20px;
+    fill: #fff
+}
+
+.login .login__container form .login__btn--zalo:hover {
+    text-decoration: none
+}
+
+.register {
+    display: none
+}
+
+.register .register__container {
+    padding-top: 30px;
+    padding-bottom: 30px
+}
+
+@media only screen and (min-width: 992px) {
+    .register .register__container {
+        width: 50%
+    }
+}
+
+.register .register__container .register__heading {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 24px
+}
+
+.register .register__container form .mb--24 {
+    margin-bottom: 24px
+}
+
+.register .register__container form label {
+    display: inline-block
+}
+
+.register .register__container form input {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    height: 34px;
+    padding: 6px 12px;
+    line-height: 34px;
+    outline: none;
+    width: 100%
+}
+
+.register .register__container form input:focus {
+    border: 1px solid var(--main-color)
+}
+
+.register .register__container form .register__sex {
+    display: inline-flex
+}
+
+.register .register__container form .register__sex input {
+    height: 17px;
+    align-self: center
+}
+
+.register .register__container form .register__sex label {
+    margin-bottom: 0
+}
+
+.register .register__container form button {
+    background-color: #fdd835;
+    padding: 0;
+    height: 41px;
+    line-height: 41px;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    margin-bottom: 15px
+}

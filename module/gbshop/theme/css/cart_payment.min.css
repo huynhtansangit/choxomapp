@@ -1,0 +1,172 @@
+.menu__icon {
+    display: none !important
+}
+
+.cart__payment {
+    color: #666
+}
+
+.cart__payment input {
+    background-color: #efefef
+}
+
+.cart__payment .cart__payment__title {
+    font-size: 0.75rem;
+    font-weight: 500;
+    border-bottom: 1px solid #e5e5e5;
+    padding-bottom: 7px;
+    margin-bottom: 16px
+}
+
+.cart__payment .payment__buyer {
+    margin-bottom: 20px
+}
+
+.cart__payment .payment__formgroup {
+    display: flex;
+    display: -webkit-flex;
+    padding-right: 9px;
+    align-items: center;
+    margin-bottom: 13px
+}
+
+.cart__payment .payment__formgroup label {
+    font-weight: 500
+}
+
+.cart__payment .payment__formgroup .payment__formlabel {
+    font-size: 0.75rem;
+    width: 28%;
+    margin-bottom: 0;
+    margin-right: 20px
+}
+
+@media (min-width: 768px) {
+    .cart__payment .payment__formgroup .payment__formlabel {
+        font-size: 0.875rem;
+        margin-right: 0
+    }
+}
+
+.cart__payment .payment__formgroup .payment__forminput {
+    font-size: 0.75rem;
+    width: 72%
+}
+
+@media (min-width: 768px) {
+    .cart__payment .payment__formgroup .payment__forminput {
+        font-size: 0.875rem
+    }
+}
+
+.cart__payment .payment__formgroup .payment__forminput input {
+    width: 100%;
+    border: 1px solid #c9c9c9;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    padding: 4px 10px;
+    font-size: 0.75rem
+}
+
+.cart__payment .payment__formgroup .payment__forminput input:focus {
+    outline: none
+}
+
+.cart__payment .payment__receiver {
+    font-size: 0.875rem
+}
+
+.cart__payment .payment__option .payment__option__receiver {
+    font-size: 0.75rem;
+    margin-bottom: 10px
+}
+
+.cart__payment .payment__option .payment__option__receiver label {
+    display: block;
+    margin-right: 35px;
+    cursor: pointer;
+    margin-bottom: 15px
+}
+
+.cart__payment .payment__option .payment__option__receiver label .label img {
+    margin-right: 5px
+}
+
+.cart__payment .payment__option input[type=radio] {
+    position: absolute;
+    height: 1px;
+    width: 1px;
+    visibility: hidden;
+    clip: rect(0px, 0px, 0px, 0px);
+    opacity: 0
+}
+
+.cart__payment .payment__option input[type=radio]:checked ~ .payment__radiofake:before {
+    transform: scale(1)
+}
+
+.cart__payment .payment__option .payment__radiofake {
+    width: 14px;
+    height: 14px;
+    border: 2px solid #cdcdcd;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 9px;
+    position: relative;
+    z-index: 1;
+    color: #787878;
+    cursor: pointer
+}
+
+.cart__payment .payment__option .payment__radiofake:before {
+    content: "";
+    position: absolute;
+    left: 1px;
+    top: 1px;
+    width: 8px;
+    height: 8px;
+    background-color: var(--main-color);
+    border-radius: 50%;
+    transform: scale(0);
+    transition: transform 0.3s ease 0s
+}
+.cart__payment .payment__option .bank__payment{
+    display: flex;
+}
+.cart__payment .payment__option .bank__payment .bank__payment__content{
+    margin-top: 1rem ;
+}
+.cart__payment .payment__option .bank__payment .bank__payment__content .bank__name{
+    font-weight: bolder;
+}
+.cart__payment .payment__option .bank__payment .bank__payment__content p{
+    margin: 0;
+}
+.cart__payment .cart__payment__button {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px
+}
+
+.cart__payment .cart__payment__button a:hover {
+    text-decoration: none
+}
+
+.cart__payment .cart__payment__button .button__back {
+    background-color: #808186;
+    padding: 5px 15px;
+    color: #fff;
+    font-weight: 700;
+    border-radius: 5px
+}
+
+.cart__payment .cart__payment__button .button__confirm {
+    border: none;
+    background-color: var(--main-color);
+    color: #fff;
+    font-weight: 700;
+    padding: 5px 15px;
+    border-radius: 5px
+}

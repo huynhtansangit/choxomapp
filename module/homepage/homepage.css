@@ -1,0 +1,183 @@
+.homepage__slide {
+  background-size: cover ;
+  background-repeat: no-repeat;
+  padding-top: 76px;
+}
+
+.homepage-slide__image {
+  text-align: center;
+  padding: 25px 15px;
+}
+
+.homepage-slide__content {
+  padding-top: 10px;
+}
+
+.homepage-slide__title {
+  font-weight: bold;
+  font-size: clamp(1.25rem, 3vw, 1.875rem);
+  color: white;
+  margin-bottom: 20px;
+  line-height: 1.33em;
+}
+
+.homepage-slide__summary {
+  font-family: 'Roboto', Arial, sans-serif;
+  color: white;
+  font-size: clamp(1rem, 1.4vw, 1.25rem);
+  line-height: 1.5em;
+  margin-bottom: 21px;
+}
+
+.homepage-slide__download-app {
+  font-family: 'Roboto', Arial, sans-serif;
+  font-weight: 500;
+  font-size: clamp(1.125rem, 1.8vw, 1.5rem);
+  margin-bottom: 1rem;
+  color: white;
+}
+
+.footer__app-links {
+  align-items: flex-start;
+}
+
+.banner__customized-link {
+  width: clamp(9.375rem, 16vw, 13.625rem) !important;
+  height: clamp(2.5rem, 4.3vw, 4rem) !important;
+  padding: 0;
+}
+
+.banner__customized-link>img {
+  top: -3px;
+}
+
+.banner__customized-link>.footer__link-text-container {
+  top: -3px;
+}
+
+.banner__customized-link>.footer__link-text-container>.footer__link-text {
+  font-size: clamp(1rem, 1.65vw, 1.375rem);
+  top: 5px;
+}
+
+.banner__customized-link>.footer__link-text-container>.footer__link-text--smaller {
+  font-size: clamp(0.5625rem, 1.2vw, 1rem);
+}
+
+.google-play {
+  max-width: clamp(2.5rem, 4.3vw, 3.625rem);
+}
+
+.app-store {
+  max-width: clamp(1.5625rem, 2.5vw, 2rem);
+}
+
+.homepage__pagination {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  bottom: 20px !important;
+}
+
+.homepage__pagination .swiper-pagination-bullet {
+  width: 5px;
+  height: 5px;
+  background: #fff;
+  opacity: 1;
+  margin: 0 8px!important;
+}
+
+.homepage__pagination .swiper-pagination-bullet-active {
+  width: 10px;
+  height: 10px;
+}
+
+@media only screen and (min-width: 414px) {
+  .download-app {
+    min-width: 171px;
+    margin-right: 25px;
+  }
+
+  .download-app:first-child img {
+    width: 44px;
+  }
+
+  .download-app:last-child img {
+    width: auto;
+  }
+
+  .download-app__name {
+    font-size: 1rem;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .homepage {
+    height: 100vh;
+  }
+
+  .homepage-slide__image {
+    position: absolute;
+    text-align: right;
+    width: 50%;
+
+    padding-top: 5.56vh !important;
+    padding-bottom: 13vh !important;
+    padding-right: 3.38vw !important;
+  }
+
+  .homepage-slide__content {
+    padding-bottom: 0;
+  }
+
+  .download-app__name {
+    font-size: 1.25rem;
+  }
+
+  .download-app {
+    min-width: 205px;
+  }
+
+  .download-app__available {
+    font-size: 0.75rem;
+  }
+
+  .download-app:first-child img {
+    width: auto;
+  }
+
+  .homepage__pagination {
+    width: auto!important;
+    flex-direction: column;
+    height: 100%;
+    right: 12px;
+    bottom: 0;
+    left: unset!important;
+  }
+
+  .homepage__pagination .swiper-pagination-bullet {
+    width: 10px;
+    height: 10px;
+    margin: 15px 0!important;
+  }
+
+  .homepage__pagination .swiper-pagination-bullet-active {
+    width: 20px;
+    height: 20px;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .download-app {
+    min-width: 218px;
+  }
+
+  .homepage__pagination {
+    right: 50px;
+  }
+
+  .homepage__slide {
+    padding-top: 76px;
+  }
+
+}

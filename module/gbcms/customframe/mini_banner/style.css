@@ -1,0 +1,12 @@
+
+.productbanner .productbanner__container .productbanner__content .productbanner__content__slogan {
+    color: #fff;
+    font-size: 1.875rem;
+    font-weight: 600;
+    line-height: 1.5;
+}
+
+.productbanner .productbanner__container .productbanner__content p {
+    margin-top: 20px;
+    color: #fff
+}

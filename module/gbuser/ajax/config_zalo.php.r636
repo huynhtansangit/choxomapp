@@ -1,0 +1,18 @@
+<?php
+require_once("./system/plugin/vendor/autoload.php");
+
+use Zalo\Zalo;
+
+
+$config = array(
+    'app_id' => '2712161830581090308',
+    'app_secret' => 'DQK6N1MyQxT1Bt5Yo3He',
+    'callback_url' => HTTP_SERVER . 'ajax/callback_zalo.gbe'
+);
+$zalo = new Zalo($config);
+
+$helper = $zalo->getRedirectLoginHelper();
+$callbackUrl = HTTP_SERVER . "ajax/callback_zalo.gbe";
+$loginZaloURL = $helper->getLoginUrl($callBackUrl) . "&redirect_uri=" . $callbackUrl; // This is login url
+
+?>

@@ -1,0 +1,145 @@
+.contact{
+    background-color: #FFFAEF;
+    padding: 32px 0;
+}
+.contact__container {
+    max-width: 1266px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 68px;
+}
+.contact__container .-max-height{
+    max-height: 32px;
+}
+.contact__container label {
+    font-family: 'Roboto', Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: #282828;
+}
+.contact__container .-btn-contact{
+    width: 100%;
+    height: 50px;
+    font-size: 18px;
+    font-weight: 500;
+    background-color: #75522C;
+    border: none;
+}
+.contact__container .-btn-contact:focus,.contact__container .-btn-contact:active,.contact__container .-btn-contact:target{
+    background-color: #75522C !important;
+}
+.contact__picture-container img {
+    border-radius: 5px;
+}
+.contact-form {
+    display: flex;
+    height: 100%;
+    flex-flow: column;
+    justify-content: space-between;
+}
+.contact__picture-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* Customize Golead Form */
+.contact .gol-row {
+    display: block !important;
+}
+.contact .gol-col-md-6{
+    max-width: 100%;
+}
+#fullname-wrapper{
+    margin-bottom: 15px !important;
+}
+/* div parent include form */
+div.--child-h-100 > div:nth-child(1){
+    height: 100% !important;
+}
+/* end */
+#F142610974607641c{
+    height: 100%;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-between;
+}
+
+#btn-submit-F142610974607641c {
+    position: relative;
+
+    width: 100%;
+    height: 50px;
+    font-size: 18px;
+    font-weight: 500;
+    background-color: #75522C;
+    border: none;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    line-height: 50px;
+    border-radius: 5px;
+}
+#btn-submit-F142610974607641c::before {
+    position: absolute;
+    content: "";
+    display: inline-block;
+    width: 21px;
+    height: 21px;
+    background-image: url('../../assets/img/contact/kite-icon-2x.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    top: 50%;
+    transform: translateY(-10px) translateX(55px);
+    left: 50%;
+}
+#btn-submit-F142610974607641c:hover {
+    color: #fff;
+}
+.gol-btn-primary:hover{
+    background-color: #75522C;
+}
+.gol-btn-primary {
+    background-color: #75522C;
+    border: #75522C;
+}
+#F142610974607641c input,#F142610974607641c textarea
+{
+    font-family: 'Roboto', Arial, sans-serif;
+}
+#message-wrapper{
+    flex: 1;
+}
+/* End customize golead form */
+/* responsive */
+@media screen and (max-width:992px) {
+    .--p-22 {
+        padding: 22px;
+    }
+    .contact{
+        padding: 0px;
+    }
+    .contact-form{
+        padding: 4% 15px;
+    }
+    .contact__container{
+        max-width: none;
+        background-color: transparent;
+        padding: 23px;
+    }
+    .contact__picture-container img {
+        border-radius: 5px 5px 0 0;
+    }
+    .contact__container > div {
+        max-width: 610px;
+        background-color: #fff;
+    }
+    #F142610974607641c #message-wrapper{
+        margin-bottom: 28px;
+    }
+}
+@media screen and (max-width:768px) {
+    .contact-form{
+        padding: 4% 0;
+    }
+}

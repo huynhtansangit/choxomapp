@@ -1,0 +1,11 @@
+.promotion {
+    padding-top: 45px;
+    padding-bottom: 25px;
+    background-image: url('./promotion-bg.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+
+.promotion__banner {
+    margin-bottom: 25px;
+}

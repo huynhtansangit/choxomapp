@@ -1,0 +1,109 @@
+/* ----- top bar header ----- */
+/* header {
+    background-color: #ffffff80;
+} */
+.header {
+    position: sticky;
+    padding: 10px 0px;
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 100%;
+    top: 0;
+    overflow: hidden;
+    z-index: 10;
+    -webkit-box-shadow: 0 2px 3px -1px rgb(0 0 0 / 15%);
+    -moz-box-shadow: 0 2px 3px -1px rgba(0,0,0,0.15);
+    box-shadow: 0 2px 3px -1px rgb(0 0 0 / 15%);
+}
+/* brand */
+
+.top-bar__brand {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+}
+a.--none-text-decor{
+    text-decoration: none;
+}
+.top-bar__logo {
+    margin-right: 1rem;
+}
+
+.top-bar__slogan-container {
+    display: flex;
+    align-items: center;
+}
+
+.top-bar__slogan-text {
+    font-size: 22px;
+    font-weight: bold;
+    color: #75522C;
+}
+
+/* links */
+
+.top-bar__links-page-container {
+    display: flex;
+    align-items: center;
+}
+
+.top-bar__links-page-list {
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+.top-bar__links-page-list>li {
+    margin-left: 2.625rem;
+}
+
+.top-bar__links-page-list>li>a {
+    font-size: 16px;
+    font-weight: bold;
+    color: #62390E;
+    text-decoration: none;
+}
+
+.top-bar__links-page-list>li>a:hover {
+    color: #E19B0D;
+}
+.top-bar__link.active{
+    color: #E19B0D;
+}
+
+/* Responsive header for mobile*/
+@media screen and (max-width: 1640px) {
+    .top-bar__slogan-text{
+        font-size: 20px !important;
+    }
+    .top-bar__links-page-list>li>a{
+        font-size: 15px;
+    }
+}
+@media screen and (max-width: 1440px) {
+    .top-bar__slogan-text{
+        font-size: 18px !important;
+    }
+    .top-bar__links-page-list>li>a{
+        font-size: 14px !important;
+    }
+}
+@media screen and (max-width: 1200px) {
+    .top-bar > div:nth-child(1){
+        max-width: 992px !important;
+    }
+}
+@media screen and (max-width:1080px) {
+    .top-bar > div:nth-child(1){
+        max-width: 768px !important;
+    }
+    .top-bar__slogan-text{
+        font-size: 16px !important;
+    }
+    .top-bar__links-page-list>li>a{
+        font-size: 12px !important;
+    }
+}

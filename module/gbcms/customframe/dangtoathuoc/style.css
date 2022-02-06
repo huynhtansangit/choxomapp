@@ -1,0 +1,164 @@
+
+#prescription .prescription__banner .swiper-container-horizontal > .swiper-pagination-bullets .swiper-pagination-bullet {
+    background-color: #fff;
+    width: 12px;
+    height: 12px
+}
+
+#prescription .prescription__banner .prescription__banner__item {
+    background: url("./prescription__bg--mobile.png") no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+
+    padding-top: 55px;
+    padding-bottom: 275px;
+}
+
+#prescription .prescription__banner .prescription__banner__item h1 {
+    font-size: 1.875rem;
+    color: #505050;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.attachments-showinfo {
+    margin-bottom: 0 !important;
+}
+
+#prescription .prescription__banner .prescription__banner__item p {
+    font-size: 0.875rem;
+    max-width: 500px;
+}
+
+#prescription .prescription__form__wrapper {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 25px;
+}
+
+#prescription .prescription__form__wrapper #btn-sending {
+    margin-top: 20px;
+    width: 100%
+}
+
+#prescription .prescription__form__wrapper .prescription__form {
+    width: 100%;
+}
+
+#prescription .prescription__form__wrapper #show-imagename {
+    color: #6b6b6b;
+    font-weight: bold;
+    font-size: 0.875rem
+}
+
+#prescription .prescription__form__wrapper .attachments-showinfo {
+    margin-bottom: 20px
+}
+
+#prescription .prescription__form__wrapper .error-message-image {
+    color: var(--danger);
+    font-weight: bold;
+    font-size: 0.875rem
+}
+
+#prescription .prescription__guide {
+    text-align: center;
+    font-size: 1rem
+}
+
+#prescription .prescription__guide h2 {
+    font-size: 1.875rem;
+    position: relative;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #009844;
+    margin-bottom: 15px
+}
+
+#prescription .prescription__guide h2:before {
+    position: absolute;
+    width: 167px;
+    height: 3px;
+    background-color: rgba(0, 0, 0, 0.1);
+    right: calc(50% - 83px);
+    top: 0
+}
+
+#prescription .prescription__guide h3 {
+    font-size: 1.375rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #505050;
+    margin-bottom: 15px
+}
+
+#prescription .prescription__guide p {
+    border-bottom: 1px solid #EFEFEF;
+    padding-bottom: 23px
+}
+
+#prescription .prescription__guide .prescription__guide__content {
+    text-align: left
+}
+
+#prescription .prescription__guide .prescription__guide__content h4 {
+    color: #009844;
+    margin-bottom: 11px;
+    font-weight: bold
+}
+
+#prescription .prescription__guide .prescription__guide__content ol {
+    padding-left: 20px;
+    margin-bottom: 15px
+}
+
+#prescription .prescription__guide .prescription__guide__content ol li {
+    margin-bottom: 11px
+}
+
+#prescription .prescription__guide .prescription__guide__content ol li:last-child {
+    margin-bottom: 0
+}
+
+@media only screen and (min-width: 768px) {
+    #prescription .prescription__banner .prescription__banner__item {
+        background-image: url("./prescription__bg3.png");
+        padding-top: 90px;
+        padding-bottom: 90px;
+        -webkit-background-size: contain;
+        background-size: contain;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    #prescription .prescription__banner .prescription__banner__item {
+        padding-top: 90px;
+        padding-bottom: 90px;
+    }
+
+    #prescription .prescription__banner .prescription__banner__item h1 {
+        font-size: 2.625rem
+    }
+
+    #prescription .prescription__banner .prescription__banner__item p {
+        font-size: 1.25rem;
+        max-width: 800px;
+    }
+
+    #prescription .prescription__form__wrapper #btn-sending {
+        margin-top: 0;
+        width: unset
+    }
+
+    #prescription .prescription__guide {
+        font-size: 1.125rem;
+        padding-top: 45px;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    #prescription .prescription__form__wrapper {
+        padding-top: 45px;
+    }
+}

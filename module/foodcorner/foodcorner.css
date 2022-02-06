@@ -1,0 +1,154 @@
+.food-corner {
+    background-color: #FFFAEF;
+}
+
+.food-corner>.foot-corner__container {
+    margin: 0 auto;
+    padding: 40px 0;
+}
+
+.food-corner>.foot-corner__container>h3 {
+    font-size: 40px;
+    font-weight: bold;
+    color: #62390E;
+    text-align: center;
+    line-height: normal;
+    margin-bottom: 2.5rem;
+}
+.food-corner>.foot-corner__container>.food-corner__site-main>ul {
+    
+
+    padding: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.food-corner>.foot-corner__container>.food-corner__site-main>ul>li {
+    list-style: none;
+    margin-bottom: 30px;
+}
+
+.food-corner>.foot-corner__container>.food-corner__site-main>ul>li>.food-corner__item-inner {
+    position: relative;
+    background-color: #fff;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    height: 100%;
+}
+
+.food-corner>.foot-corner__container>.food-corner__site-main>ul>li>.food-corner__item-inner>.item-thumb {
+    position: relative;
+}
+
+.food-corner>.foot-corner__container>.food-corner__site-main>ul>li>.food-corner__item-inner>.item-thumb>a>img {
+    width: 100%;
+}
+
+.food-corner>.foot-corner__container>.food-corner__site-main>ul>li>.food-corner__item-inner>.item-info {
+    padding: 8px 12px 0px 12px;
+}
+
+.food-corner>.foot-corner__container>.food-corner__site-main>ul>li>.food-corner__item-inner>.item-info>.item-name {
+    margin-bottom: 0.4rem;
+}
+
+.food-corner>.foot-corner__container>.food-corner__site-main>ul>li>.food-corner__item-inner>.item-info>.item-name>a {
+    text-transform: uppercase;
+    font-family: 'Roboto', Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+    color: black;
+}
+
+.food-corner>.foot-corner__container>.food-corner__site-main>ul>li>.food-corner__item-inner>.item-info>.go-recipe {
+    line-height: normal;
+}
+
+.food-corner>.foot-corner__container>.food-corner__site-main>ul>li>.food-corner__item-inner>.item-info>.go-recipe>a {
+    font-family: 'Roboto', Arial, sans-serif;
+    font-size: 14px;
+    color: #8C8C8C;
+    text-decoration: none;
+}
+
+/* pagination */
+
+.food-corner__pagination {
+    width: 100%;
+}
+
+.food-corner__pagination>.food-corner__pagination-nav-link>.nav-link {
+    margin: 0 auto;
+    text-align: center;
+    padding: 8px 8px 0 8px;
+}
+
+.food-corner__pagination>.food-corner__pagination-nav-link>.nav-link>.page-number {
+    display: inline-block;
+    font-size: 14px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    color: #545454;
+    text-decoration: none;
+    line-height: 30px;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    margin: 0 5px;
+}
+
+.page-number.active {
+    border-radius: 50%;
+    background-color: #E8AC37;
+    color: #fff !important;
+}
+
+.page-number.--three-dots {
+    cursor: context-menu;
+}
+.--bg-color {
+    color: #E8AC37 !important;
+}
+/* responsive */
+
+@media screen and (max-width:768px) {
+    .foot-corner__container{
+        padding: 28px;
+    }
+    .food-corner>.foot-corner__container>h3 {
+        font-size: 24px;
+        margin-bottom: 40px;
+    }
+    .food-corner>.foot-corner__container>.food-corner__site-main>ul>li {
+        margin-bottom: 24px;
+    }
+    .food-corner>.foot-corner__container>.food-corner__site-main>ul>li>.food-corner__item-inner>.item-info {
+        padding: 4px 10px 0px 10px;
+    }
+    .food-corner>.foot-corner__container>.food-corner__site-main>ul>li>.food-corner__item-inner>.item-info>.item-name {
+        line-height: 1;
+        margin-bottom: 4px;
+        min-height: 38px;
+    }
+    .food-corner>.foot-corner__container>.food-corner__site-main>ul>li>.food-corner__item-inner>.item-info>.item-name>a {
+        font-size: 14px;
+    }
+    .food-corner>.foot-corner__container>.food-corner__site-main>ul>li>.food-corner__item-inner>.item-info>.go-recipe {
+        margin-bottom: 0.6rem;
+    }
+    .food-corner>.foot-corner__container>.food-corner__site-main>ul>li>.food-corner__item-inner>.item-info>.go-recipe>a {
+        font-size: 12px;
+    }
+    /* .food-corner>.foot-corner__container>.food-corner__site-main {
+        padding: 0 5%;
+    } */
+    
+}
+@media screen and (max-width:320px) {
+    .food-corner__pagination>.food-corner__pagination-nav-link>.nav-link>.page-number {
+        margin: 0 2px;
+    }
+}

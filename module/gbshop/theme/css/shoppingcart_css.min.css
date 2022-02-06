@@ -1,0 +1,302 @@
+.shoppingcart {
+    background-color: #e1e6f1;
+    padding-top: 40px;
+    padding-bottom: 75px
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__content {
+    background-color: #fff;
+    padding-top: 15px;
+    padding-bottom: 30px
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__content .cart__content__heading {
+    display: flex
+}
+
+@media only screen and (max-width: 768px) {
+    .shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__content .cart__content__heading {
+        margin-bottom: 40px
+    }
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__content .cart__content__heading svg {
+    fill: #919191;
+    width: 30px;
+    height: auto;
+    margin-right: 15px
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__content .cart__content__heading span {
+    font-size: 1.5rem;
+    font-weight: 700
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__content .cart__content__heading a {
+    display: flex;
+    margin-left: auto;
+    align-items: center;
+    color: #444;
+    text-decoration: underline;
+    font-weight: 600
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__content .cart__content__heading a:hover {
+    color: var(--main-color)
+}
+
+@media only screen and (max-width: 768px) {
+    .shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__content .cart__content__heading a {
+        font-size: 0.675rem
+    }
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__content .cart__content__progress {
+    width: 100%;
+    height: 4px;
+    background-color: #E2E2E2;
+    margin: 35px 0px 25px 0;
+    display: flex
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__content .cart__content__progress .cart__content__progress__inner {
+    width: 25%;
+    position: relative
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__content .cart__content__progress .cart__content__progress__inner .cart__content__progress__bar {
+    position: absolute;
+    width: 100%;
+    height: 4px;
+    background-color: #E2E2E2
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__content .cart__content__progress .cart__content__progress__inner .cart__content__progress__bar .cart__content__progress__text {
+    position: relative;
+    text-align: center;
+    top: -26px;
+    left: 10px;
+    color: #E2E2E2
+}
+
+@media only screen and (max-width: 768px) {
+    .shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__content .cart__content__progress .cart__content__progress__inner .cart__content__progress__bar .cart__content__progress__text {
+        font-size: 0.785rem
+    }
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__content .cart__content__progress .cart__content__progress__inner .cart__content__progress__circle {
+    position: absolute;
+    background-color: #E2E2E2;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    top: -9px;
+    display: flex;
+    display: -webkit-flex;
+    justify-content: center;
+    -webkit-justify-content: center;
+    align-items: center;
+    -webkit-align-items: center
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__content .cart__content__progress .cart__content__progress__inner .cart__content__progress__circle img {
+    display: none
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__content .cart__content__progress .cart__content__progress__inner.checked .cart__content__progress__bar {
+    background-color: #14b215
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__content .cart__content__progress .cart__content__progress__inner.checked .cart__content__progress__text {
+    color: #14b215;
+    font-weight: 600
+}
+
+@media only screen and (max-width: 768px) {
+    .shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__content .cart__content__progress .cart__content__progress__inner.checked .cart__content__progress__text {
+        font-size: 0.785rem
+    }
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__content .cart__content__progress .cart__content__progress__inner.checked .cart__content__progress__circle {
+    background-color: #14b215
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__content .cart__content__progress .cart__content__progress__inner.checked .cart__content__progress__circle img {
+    display: block
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__content .cart__content__progress > .cart__content__progress__circle2 {
+    position: relative;
+    background-color: #E2E2E2;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    border-radius: 10px;
+    top: -9px;
+    right: -3px;
+}
+
+@media only screen and (max-width: 768px) {
+    .shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__content .cart__content__progress > .cart__content__progress__circle2 {
+        display: none
+    }
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__content .cart__content__progress > .cart__content__progress__circle2 svg {
+    display: none
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__content .cart__content__progress > .cart__content__progress__circle2.checked {
+    background-color: #14b215 !important
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__content .cart__content__progress > .cart__content__progress__circle2.checked svg {
+    display: block !important;
+    fill: #fff;
+    width: 13px;
+    position: absolute;
+    top: 4px;
+    right: 4px
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__invoice {
+    background-color: #f5f5f5;
+    padding-top: 15px;
+    padding-bottom: 30px
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__invoice .shoppingcart_invoice__title {
+    margin-bottom: 30px;
+    font-size: 0.875rem
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__invoice .shoppingcart_invoice__yourcart {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid darkgray;
+    margin-bottom: 26px
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__invoice .shoppingcart_invoice__yourcart .yourcart__title {
+    display: flex
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__invoice .shoppingcart_invoice__yourcart .yourcart__title a {
+    color: black;
+    text-decoration: underline;
+    padding-left: 10px;
+    font-size: 0.875rem
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__invoice .shoppingcart_invoice__yourcart .yourcart__quantity {
+    font-weight: 700
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__invoice .shoppingcart__invoice__products {
+    border-bottom: 1px solid darkgray;
+    margin-bottom: 8px
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__invoice .shoppingcart__invoice__products .shoppingcart__invoice__product {
+    display: flex;
+    padding-bottom: 20px
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__invoice .shoppingcart__invoice__products .shoppingcart__invoice__product img {
+    align-self: center;
+    min-width: 80px;
+    max-height: 80px
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__invoice .shoppingcart__invoice__products .shoppingcart__invoice__product .shoppingcart__invoice__product__detail {
+    margin-left: 20px;
+    line-height: 1.3em;
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__invoice .shoppingcart__invoice__products .shoppingcart__invoice__product .shoppingcart__invoice__product__detail .product__name {
+    font-weight: 700;
+    font-size: 0.865rem;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__invoice .shoppingcart__invoice__products .shoppingcart__invoice__product .shoppingcart__invoice__product__detail .product__quantity {
+    font-size: 0.75rem
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__invoice .shoppingcart__invoice__products .shoppingcart__invoice__product .shoppingcart__invoice__product__detail .product__oldprice {
+    text-decoration: line-through;
+    font-size: 0.675rem
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__invoice .shoppingcart__invoice__products .shoppingcart__invoice__product .shoppingcart__invoice__product__detail .product__lastprice {
+    font-weight: 700;
+    font-size: 0.8125rem
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__invoice .cart__content__total__sum .cart__content__total__sum__row {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 8px
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__invoice .cart__content__total__sum .cart__content__total__sum__row span {
+    font-size: 0.875rem
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__invoice .cart__content__total__sum .cart__content__total__sum__row .cart__content__total__sum__price {
+    font-size: 0.875rem
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__invoice .cart__content__total__sum .cart__content__total__sum__row .total__title {
+    font-weight: 700;
+    align-self: center
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__invoice .cart__content__total__sum .cart__content__total__sum__row .total__price {
+    font-size: .875rem;
+    font-weight: 700
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__invoice .cart__content__total__sum .cart__content__total__sum__row--total {
+    font-size: 0.875rem;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 15px;
+    color: var(--main-color)
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__invoice .cart__content__total__sum .cart__content__total__sum__row--cartsubtotal {
+    padding-top: 15px;
+    border-top: 1px solid darkgray
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__invoice .cart__content__total__sum .button__buyproducts button {
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 0;
+    background-color: var(--main-color);
+    color: #fff;
+    font-weight: 600
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__invoice .cart__content__total__sum .cart__content__total__code svg {
+    width: 12px;
+    transform: rotate(90deg);
+    fill: #707070
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__invoice .cart__content__total__sum .cart__content__total__code span {
+    /*margin-left: 12px*/
+}
+
+.shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__invoice .cart__content__total__sum .cart__content__total__sum__sale, .shoppingcart .shoppingcart__container .shoppingcart__row .shoppingcart__invoice .cart__content__total__sum .cart__content__total__code {
+    color: #707070;
+    font-weight: 700;
+    font-size: .75rem
+}

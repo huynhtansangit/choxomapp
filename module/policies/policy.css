@@ -1,0 +1,11 @@
+.policy {
+    background-color: #FFFAEF;
+}
+.policy h2 {
+    font-weight: bold;
+    font-size: 24px;
+    color: #62390E;
+    text-align: start;
+    line-height: normal;
+    margin-bottom: 1.5rem;
+}

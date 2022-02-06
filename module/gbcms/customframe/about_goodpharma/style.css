@@ -1,0 +1,92 @@
+.aboutus {
+    background-color: var(--main-color);
+    color: #fff
+}
+
+.aboutus .aboutus__rightcol__mobile {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px
+}
+
+.aboutus .aboutus__rightcol__mobile .aboutus__rightcol__content__mobile h2 {
+    font-weight: 900;
+    font-size: 1.5rem;
+    line-height: 1.42em;
+    text-transform: uppercase;
+    margin-bottom: 23px;
+    color: #fff
+}
+
+.aboutus .aboutus__rightcol__mobile .aboutus__rightcol__content__mobile p {
+    font-size: 1rem;
+    line-height: 1.5625em;
+    margin-bottom: 40px;
+    color: #fff
+}
+
+.aboutus .aboutus__rightcol__mobile .aboutus__rightcol__content__mobile a {
+    display: inline-block;
+    color: #fff;
+    background-color: #06803C;
+    padding: 4px 26px;
+    border-radius: 21px
+}
+
+.aboutus .aboutus__rightcol__mobile .aboutus__rightcol__content__mobile a:hover {
+    text-decoration: none
+}
+
+@media (min-width: 1200px) {
+    .aboutus {
+        display: flex
+    }
+
+    .aboutus .aboutus__image {
+        width: 60%
+    }
+
+    .aboutus .aboutus__image img {
+        width: 100%;
+        height: auto
+    }
+
+    .aboutus .aboutus__rightcol {
+        width: 40%;
+        display: flex;
+        align-items: center;
+        padding-left: 50px
+    }
+
+    .aboutus .aboutus__rightcol .aboutus__rightcol__content {
+        width: 337px
+    }
+
+    .aboutus .aboutus__rightcol .aboutus__rightcol__content h2 {
+        font-weight: 900;
+        font-size: 1.5rem;
+        line-height: 1.42em;
+        text-transform: uppercase;
+        margin-bottom: 23px;
+        color: #fff
+    }
+
+    .aboutus .aboutus__rightcol .aboutus__rightcol__content p {
+        font-size: 1rem;
+        line-height: 1.5625em;
+        margin-bottom: 40px;
+        color: #fff
+    }
+
+    .aboutus .aboutus__rightcol .aboutus__rightcol__content a {
+        display: inline-block;
+        color: #fff;
+        background-color: #06803C;
+        padding: 4px 26px;
+        border-radius: 21px
+    }
+
+    .aboutus .aboutus__rightcol .aboutus__rightcol__content a:hover {
+        text-decoration: none
+    }
+}

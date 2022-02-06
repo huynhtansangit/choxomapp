@@ -1,0 +1,32 @@
+.gbf__0008 .collapse__item__link {
+    padding: .6em 2.3em;
+    display: block;
+    position: relative;
+    border-top: 1px solid #ddd;
+    cursor: pointer;
+    background-color: rgb(209, 209, 209);
+}
+
+.gbf__0008 .collapse__item__content {
+    padding: .6em 2.3em;
+}
+
+.gbf__0008 .collapse__item__link.collapsed {
+    background-color: white;
+}
+
+.gbf__0008 .collapse__item__link:after {
+    position: absolute;
+    content: '';
+    width: 10px;
+    height: 7px;
+    background-image: url(https://adminapi.gbotweb.com/gbframe/frame/GBF0008/html/arrow-down.png);
+    background-size: 10px 5px;
+    background-repeat: no-repeat;
+    top: 18px;
+    right: 18px;
+}
+
+.gbf__0008 .collapse__item__link.collapsed:after {
+    transform: rotate(-180deg);
+}

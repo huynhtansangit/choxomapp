@@ -1,0 +1,48 @@
+.blog-detail {
+    background-color: #FFFAEF;
+}
+.related-post {
+    padding-top: 20px;
+    padding-bottom: 24px;
+}
+.related-post > .title {
+    font-family: 'Roboto Slab', Arial, sans-serif;
+    font-weight: bold;
+    color: #62390E;
+    text-align: center;
+    line-height: normal;
+    margin-bottom: 2.5rem;
+}
+.blog-title{
+    font-family: 'Roboto Slab', Arial, sans-serif;
+    font-weight: bold;
+    color: #62390E;
+    margin-bottom: 50px;
+}
+.related-post .relatedpost__item .relatedpost__image .images__group {
+    overflow: hidden;
+}
+.related-post .relatedpost__item .relatedpost__image .images__group img {
+    width: 100%;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in-out;
+    transition-property: all;
+}
+.related-post .relatedpost__item .relatedpost__image .images__group img:hover {
+    transform: scale(1.1);
+    filter: brightness(70%);
+}
+.related-post .relatedpost__item .relatedpost__title {
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+}
+.related-post .relatedpost__item .relatedpost__title p {
+    margin-top: 8px;
+    font-size: 1.25rem;
+    padding: 0 10px;
+}
+.related-post .relatedpost__item .relatedpost__title:hover {
+    color: green;
+}

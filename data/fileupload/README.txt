@@ -1,0 +1,1 @@
+Chứa các attachments được upload từ admin, không bao gồm ảnh. Ảnh được lưu ở fileserver.

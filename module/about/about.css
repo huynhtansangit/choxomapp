@@ -1,0 +1,164 @@
+.about-banner>.about-banner__container {
+    background: linear-gradient(rgba(95, 72, 59, 0.4), rgba(95, 72, 59, 0.4)), url('/assets/img/about/about_banner.png');
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 64px 0 82px 0;
+}
+
+.about-banner>.about-banner__container>.about-banner__content {
+    margin: 0 auto;
+    text-align: center;
+    max-width: 949px;
+}
+
+.about-banner>.about-banner__container>.about-banner__content>h2 {
+    color: #fff;
+    font-size: 64px;
+    font-weight: bold;
+    margin: 36px 0px 16px 0px;
+    letter-spacing: 0.02em;
+}
+
+.about-banner>.about-banner__container>.about-banner__content>p {
+    font-family: 'Roboto', Arial, sans-serif;
+    color: #fff;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 1.58em;
+    margin-bottom: 60px;
+}
+
+.about-banner>.about-banner__container>.about-banner__content .-quantity {
+    color: #FAB734;
+    font-size: 64px;
+    font-weight: 500;
+    text-shadow: 0px 4px 6px rgba(98, 57, 14, 0.1);
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #E8AC34;
+    letter-spacing: 0.1em;
+}
+
+.about-banner>.about-banner__container>.about-banner__content .-text {
+    font-family: 'Roboto', Arial, sans-serif;
+    color: #fff;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 1.415em;
+}
+
+.about-banner>.about-banner__container>.about-banner__content .-d-flex {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.about-banner>.about-banner__container>.about-banner__content .-d-flex img {
+    margin: 4px 10px 0px 0px;
+}
+
+/* ---- section about norm content ---- */
+
+.about-norm {
+    background-color: #FFFAEF;
+}
+
+.about-norm>.about-norm__container {
+    padding: 45px 0;
+}
+
+.about-norm>.about-norm__container>h3 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    color: #62390E;
+    margin-bottom: 30px;
+    line-height: normal;
+}
+
+.about-norm>.about-norm__container>.about-norm__main-content {}
+
+.about-norm>.about-norm__container>.about-norm__main-content>div>div {}
+
+.about-norm>.about-norm__container>.about-norm__main-content .about_norm-card {
+    padding: 40px 28px;
+    background-image: linear-gradient(to bottom, rgba(234, 219, 196, 0.4), rgba(255, 255, 255, 0));
+    background-color: transparent;
+    border: solid #E5D5BD 1px;
+    border-radius: 20px;
+    
+}
+
+.about-norm>.about-norm__container>.about-norm__main-content .about_norm-card>img {
+    display: block;
+    margin: 0 auto;
+}
+
+.about-norm>.about-norm__container>.about-norm__main-content .about_norm-card>h3 {
+    text-align: center;
+    line-height: 1.165em;
+    margin-top: 12px;
+    margin-bottom: 30px;
+    color: #62390E;
+}
+
+.about-norm>.about-norm__container>.about-norm__main-content .about_norm-card>p {
+    font-size: 16px;
+    line-height: 1.5em;
+    color: #545454;
+    font-family: 'Roboto', Arial, sans-serif;
+    margin-bottom: 1.75em;
+}
+
+/* end section */
+
+@media screen and (max-width:768px) {
+    .about-banner>.about-banner__container {
+        background: linear-gradient(rgba(95, 72, 59, 0.4), rgba(95, 72, 59, 0.4)), url('/assets/img/about/about_banner_mobile.png');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+
+        padding: 103px 0;
+    }
+    .about-banner__content .-mb-mt {
+        margin: 30px 0 40px 0;
+    }
+    .--mb-mobile{
+        margin-bottom: 26px;
+    }
+    .about-banner>.about-banner__container>.about-banner__content>h2 {
+        font-size: clamp(20px,7vw,28px);
+        margin-top: 24px;
+    }
+    .about-banner>.about-banner__container>.about-banner__content>p {
+        font-size: clamp(16px,5.7vw,18px);
+        line-height: 1.22em;
+        margin-bottom: 16px;
+    }
+    .about-banner>.about-banner__container>.about-banner__content .-quantity {
+        font-size: 40px;
+    }
+    .about-banner>.about-banner__container>.about-banner__content .-text {
+        font-size: 16px;
+    }
+    .about-banner>.about-banner__container>.about-banner__content .-d-flex img {
+        margin: 1px 7px 0px 0px;
+    }
+    /* about norm  */
+    .about-norm>.about-norm__container>h3 {
+        font-size: clamp(18px,6.4vw,24px);
+        margin-bottom: 26px;
+        padding: 0 15px;
+    }
+    .about-norm>.about-norm__container {
+        padding: 32px 0 6px 0;
+    }
+    
+}
+@media screen and (max-width:280px) {
+    .about-banner>.about-banner__container>.about-banner__content>h2{
+        letter-spacing: 0.01em ;
+    }
+}

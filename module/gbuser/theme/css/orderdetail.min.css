@@ -1,0 +1,217 @@
+.orderdetail {
+    background-color: #EFEFEF
+}
+
+.orderdetail .orderdetail__container {
+    padding: 30px 15px
+}
+
+.orderdetail .orderdetail__container .orderdetail__progress {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    position: relative;
+    padding: 30px 0;
+    z-index: 0;
+    overflow: auto;
+    margin-bottom: 20px;
+}
+
+.orderdetail .orderdetail__container .orderdetail__progress .dot__start {
+    width: 30px;
+    height: 30px;
+    top: 35px;
+    border-radius: 50%;
+    background-color: #000;
+    position:absolute
+}
+
+.orderdetail .orderdetail__container .orderdetail__progress .line {
+    position: absolute;
+    height: 2px;
+    background-color: #E2E2E2;
+    width: 85%;
+    top: 50px;
+    z-index: -1;
+}
+.orderdetail .orderdetail__container .orderdetail__progress .orderdetail__progress__block--absolute {
+    margin-left: 55px;
+}
+.orderdetail .orderdetail__container .orderdetail__progress .orderdetail__progress__block--absolute .orderdetail__progress__block {
+    background-color: #E2E2E2;
+    width: 130px;
+    text-align: center;
+    border-radius: 30px;
+    color: #bcbcbc;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin-right:24px;
+    padding: 10px 0;
+}
+
+.orderdetail .orderdetail__container .orderdetail__progress .orderdetail__progress__block--absolute .orderdetail__progress__block svg {
+    width: 14px;
+    height: 14px;
+    fill: #bcbcbc
+}
+
+.orderdetail .orderdetail__container .orderdetail__progress .orderdetail__progress__block--absolute .orderdetail__progress__block.active {
+    background-color: var(--main-color);
+    color: #fff;
+
+}
+
+@media screen and (max-width: 768px) {
+    .orderdetail .orderdetail__container .orderdetail__progress .line {
+        position: absolute;
+        height: 2px;
+        background-color: #E2E2E2;
+        width: 250%;
+        top: 50px;
+        z-index: -1;
+    }
+    .orderdetail .orderdetail__container .orderdetail__progress .dot__start {
+        width: 30px;
+        height: 30px;
+        top: 35px;
+        border-radius: 50%;
+        background-color: #000;
+        margin-right: 10px;
+        position: absolute;
+    }
+    .orderdetail__container .orderdetail__progress .orderdetail__progress__block--absolute{
+        display: flex;
+        margin-left: 55px;
+
+    }
+
+
+}
+.orderdetail .orderdetail__container .orderdetail__progress .orderdetail__progress__block--absolute .orderdetail__progress__block.active svg {
+    fill: #fff
+}
+
+.orderdetail .orderdetail__container .orderdetail__info {
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px
+}
+
+.orderdetail .orderdetail__container .orderdetail__info .orderdetail__info__column .orderdetail__info__ordercode {
+    font-size: 2rem;
+    font-weight: 700;
+    padding-bottom: 15px
+}
+
+.orderdetail .orderdetail__container .orderdetail__info .orderdetail__info__column .orderdetail__info__column__title {
+    font-weight: 600;
+    margin-bottom: 0
+}
+
+.orderdetail .orderdetail__container .orderdetail__info .orderdetail__info__column .orderdetail__info__block {
+    background-color: #EFEFEF;
+    padding: 15px
+}
+
+@media only screen and (max-width: 576px) {
+    .orderdetail .orderdetail__container .orderdetail__info .orderdetail__info__column {
+        width: 100% !important
+    }
+}
+
+.orderdetail .orderdetail__container .orderdetail__products {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 10px;
+    width: 100%
+}
+
+.orderdetail .orderdetail__container .orderdetail__products .orderdetail__products__table {
+    overflow-x: auto
+}
+
+.orderdetail .orderdetail__container .orderdetail__products .orderdetail__products__table table {
+    width: 100%;
+    border: 1px solid #cccccc
+}
+
+.orderdetail .orderdetail__container .orderdetail__products .orderdetail__products__table table th {
+    text-align: center;
+    background-color: #EFEFEF
+}
+
+.orderdetail .orderdetail__container .orderdetail__products .orderdetail__products__table table td, .orderdetail .orderdetail__container .orderdetail__products .orderdetail__products__table table th {
+    border: 1px solid #cccccc;
+    vertical-align: middle;
+    padding: 0.75rem
+}
+
+.orderdetail .orderdetail__container .orderdetail__products .orderdetail__products__table table td p, .orderdetail .orderdetail__container .orderdetail__products .orderdetail__products__table table th p {
+    margin-bottom: 0
+}
+
+.orderdetail .orderdetail__container .orderdetail__products .orderdetail__products__table table td .orderdetail__products__product, .orderdetail .orderdetail__container .orderdetail__products .orderdetail__products__table table th .orderdetail__products__product {
+    display: flex;
+    position: relative
+}
+
+.orderdetail .orderdetail__container .orderdetail__products .orderdetail__products__table table td .orderdetail__products__product a, .orderdetail .orderdetail__container .orderdetail__products .orderdetail__products__table table th .orderdetail__products__product a {
+    position: absolute;
+    left: 0px;
+    top: 8px;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    border: 1px solid darkgray;
+    background-color: #f1ecf1;
+    text-align: center;
+    font-size: 0.8rem;
+    color: darkgray
+}
+
+.orderdetail .orderdetail__container .orderdetail__products .orderdetail__products__table table td .orderdetail__products__product a:hover, .orderdetail .orderdetail__container .orderdetail__products .orderdetail__products__table table th .orderdetail__products__product a:hover {
+    text-decoration: none;
+    cursor: pointer;
+    color: black
+}
+
+.orderdetail .orderdetail__container .orderdetail__products .orderdetail__products__table table td .orderdetail__products__product img, .orderdetail .orderdetail__container .orderdetail__products .orderdetail__products__table table th .orderdetail__products__product img {
+    object-fit: cover;
+    min-width: 80px;
+    max-height: 80px
+}
+
+.orderdetail .orderdetail__container .orderdetail__products .orderdetail__products__table table td .orderdetail__products__product .orderdetail__products__info, .orderdetail .orderdetail__container .orderdetail__products .orderdetail__products__table table th .orderdetail__products__product .orderdetail__products__info {
+    padding-left: 15px;
+    display: flex;
+    flex-direction: column;
+    font-size: .75rem
+}
+
+.orderdetail .orderdetail__container .orderdetail__products .orderdetail__products__table table td .orderdetail__products__product .orderdetail__products__info .orderdetail__products__name, .orderdetail .orderdetail__container .orderdetail__products .orderdetail__products__table table th .orderdetail__products__product .orderdetail__products__info .orderdetail__products__name {
+    font-weight: 600;
+    margin-bottom: auto;
+    font-size: 1rem
+}
+
+.orderdetail .orderdetail__container .orderdetail__products .orderdetail__products__table table td.bg--gray, .orderdetail .orderdetail__container .orderdetail__products .orderdetail__products__table table th.bg--gray {
+    background-color: #E2E2E2
+}
+
+.orderdetail .orderdetail__container .orderdetail__products .orderdetail__products__table table td.bg--black, .orderdetail .orderdetail__container .orderdetail__products .orderdetail__products__table table th.bg--black {
+    background-color: #000;
+    color: #fff;
+    font-weight: 600
+}
+
+.orderdetail .orderdetail__container .orderdetail__products .orderdetail__products__table table td.border--none, .orderdetail .orderdetail__container .orderdetail__products .orderdetail__products__table table th.border--none {
+    border: none
+}
+
+@media only screen and (min-width: 1500px) {
+    .orderdetail .orderdetail__container .orderdetail__progress .orderdetail__progress__block--absolute .orderdetail__progress__block {
+        width: 180px;
+    }
+}

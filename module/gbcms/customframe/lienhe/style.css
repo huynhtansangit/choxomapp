@@ -1,0 +1,160 @@
+#contact {
+    color: #6b6b6b;
+    background-color: #f7f7f7
+}
+
+#contact .contact__content__wrapper {
+    padding-top: 58px;
+    padding-bottom: 69px
+}
+
+#contact .contact__content__wrapper .contact__content {
+    background-color: #fff;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    padding-top: 59px;
+    padding-bottom: 43px
+}
+
+@media only screen and (max-width: 992px) {
+    #contact .contact__content__wrapper .contact__content {
+        padding-left: 15px;
+        padding-right: 15px
+    }
+}
+
+#contact .contact__content__wrapper .contact__content .contact__content__row .contact__description {
+    margin-bottom: 40px
+}
+
+@media only screen and (min-width: 992px) {
+    #contact .contact__content__wrapper .contact__content .contact__content__row .contact__description {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin-left: -15px;
+        margin-right: -30px;
+        margin-bottom: 0
+    }
+}
+
+#contact .contact__content__wrapper .contact__content .contact__content__row .contact__description h1 {
+    font-size: 1.125rem;
+    color: var(--main-color);
+    font-weight: bold;
+    margin-bottom: 3px
+}
+
+#contact .contact__content__wrapper .contact__content .contact__content__row .contact__description .contact__description__location {
+    padding-left: 22px;
+    position: relative;
+    margin-bottom: 24px
+}
+
+#contact .contact__content__wrapper .contact__content .contact__content__row .contact__description .contact__description__location:before {
+    position: absolute;
+    content: '';
+    left: 0;
+    top: 5px;
+    width: 11px;
+    height: 14px;
+    background-image: url("https://demo.gbotweb.com/goodpharma/module/gbcms/customframe/lienhe/img/location.png?v=1.51");
+    background-repeat: no-repeat
+}
+
+#contact .contact__content__wrapper .contact__content .contact__content__row .contact__description .contact__descripton__info {
+    margin-bottom: 13px
+}
+
+#contact .contact__content__wrapper .contact__content .contact__content__row .contact__description .contact__descripton__info p {
+    margin-bottom: 4px
+}
+
+#contact .contact__content__wrapper .contact__content .contact__content__row .contact__description .contact__descripton__info.contact__description__hotline a {
+    display: inline-flex;
+    align-items: center;
+    color: #6b6b6b;
+    border: 1px solid #6b6b6b;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    padding: 2px 20px;
+    margin-right: 10px
+}
+
+#contact .contact__content__wrapper .contact__content .contact__content__row .contact__description .contact__descripton__info.contact__description__hotline a:hover {
+    text-decoration: none
+}
+
+#contact .contact__content__wrapper .contact__content .contact__content__row .contact__description .contact__descripton__info.contact__description__hotline a:last-child {
+    margin-right: 0
+}
+
+#contact .contact__content__wrapper .contact__content .contact__content__row .contact__description .contact__descripton__info.contact__description__hotline a img {
+    margin-right: 10px
+}
+
+@media only screen and (max-width: 992px) {
+    #contact .contact__content__wrapper .contact__content .contact__content__row .contact__description .contact__descripton__info.contact__description__hotline a {
+        margin-bottom: 10px
+    }
+
+    #contact .contact__content__wrapper .contact__content .contact__content__row .contact__description .contact__descripton__info.contact__description__hotline a:last-child {
+        margin-right: 0
+    }
+}
+
+#contact .contact__content__wrapper .contact__content .contact__content__row .contact__description .contact__descripton__info .other__hotline img {
+    margin-right: 6px
+}
+
+#contact .contact__content__wrapper .contact__content .contact__content__row .contact__description .contact__descripton__info .other__hotline img:last-child {
+    margin-right: 11px
+}
+
+#contact .contact__content__wrapper .contact__content .contact__content__row .contact__description .contact__descripton__info .infomail a {
+    color: #6b6b6b
+}
+
+#contact .contact__content__wrapper .contact__content .contact__content__row .contact__description .contact__descripton__info .infomail a img {
+    margin-right: 11px
+}
+
+#contact .contact__content__wrapper .contact__content .contact__content__row .contact__description .contact__descripton__info .infomail a:hover {
+    color: #6b6b6b;
+    text-decoration: none
+}
+
+@media only screen and (min-width: 992px) {
+    #contact .contact__content__wrapper .contact__content .contact__content__row .contact__form {
+        margin-left: 60px;
+        padding-right: 0;
+        padding-left: 0
+    }
+}
+
+#contact .contact__content__wrapper .contact__content .contact__content__row .contact__form label {
+    margin-bottom: 0
+}
+
+#contact .contact__content__wrapper .contact__content .contact__content__row .contact__form .gol-form-control {
+    border: 1px solid #efefef
+}
+
+#contact .contact__content__wrapper .contact__content .contact__content__row .contact__form input.gol-form-control {
+    height: 32px
+}
+
+#contact .contact__content__wrapper .contact__content .contact__content__row .contact__form .gol-btn-success {
+    background-color: var(--main-color);
+    padding: 6px 15px;
+    -webkit-border-radius: 17px;
+    -moz-border-radius: 17px;
+    border-radius: 17px;
+    display: inline-block;
+}
+
+.gol-btn-success:hover {
+    color: #ffffff;
+    text-decoration: none;
+}

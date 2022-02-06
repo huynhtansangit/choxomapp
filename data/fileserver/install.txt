@@ -1,0 +1,15 @@
+Cài Imagick
+https://hocwp.net/cai-dat-imagick-tren-xampp-va-php-7-1/
+
+Bật một số mod của Apache
+mod_headers
+mod_rewrite
+mod_deflate
+mod_expired
+mod_filter
+
+Config lại đường dẫn trong config.php
+define("DIR_SERVERROOT", '/babae/babae/data/file/');
+
+Kiểm tra xem chạy chưa:
+http://localhost/babae/babae/data/file/images/fixsize-300x200/upload/bg0.jpg
